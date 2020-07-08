@@ -11,7 +11,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 
 # New Leaders<br><br>
 
-## Carthage
+## [Carthage](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Carthage)
 
 **Hamilcar** (Barca)<br>
 Commander - 36 Years old
