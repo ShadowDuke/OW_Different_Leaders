@@ -26,7 +26,7 @@ Commander - 36 Years old
       - Archetype: Hero
    - **Mago**
       - 10 Years old
-
+<br><br><br>
 - New Cities: +25 Training
 - All Cities: +15% Training, -25% Cost for Warriors & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking & Military Drill
