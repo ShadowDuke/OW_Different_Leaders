@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR</zType>
+		<English>Our leader Hamical died. His wounds from previous battles did not heal properly.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_OF_ANTONIUS</zType>
+		<English>Mark Antony has died. He receiveed a false message saying his lover Cleopetra has commited suicide and turned his sword upon himself.
+		
+	 Deadly wounded he heard that Cleopetra is still alive. S tertorously he was brought to the mausoleum where Cleopatra was entranched.
+	 
+	 He passed away in her arms.</English>
+	</Entry>
+</Root>
