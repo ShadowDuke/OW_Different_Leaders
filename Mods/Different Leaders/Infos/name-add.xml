@@ -29,4 +29,20 @@
 		<zType>NAME_NEFERMAAT</zType>
 		<zName>Nefermaat</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_AUGUSTUS</zType>
+		<zName>Augustus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_OCTAVIA</zType>
+		<zName>Octavia</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ANTONIUS</zType>
+		<zName>Marcus Antonius</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_IULIA</zType>
+		<zName>Iulia</zName>
+	</Entry>
 </Root>

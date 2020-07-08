@@ -1939,7 +1939,11 @@
 		<SourceNation>NATION_ROME</SourceNation>
 		<aiYieldRate>
 			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>

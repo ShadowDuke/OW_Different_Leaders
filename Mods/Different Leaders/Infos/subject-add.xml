@@ -51,4 +51,44 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_NEFERMAAT</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_AUGUSTUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_AUGUSTUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ATIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ATIA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_OCTAVIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_OCTAVIA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ANTONIUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ANTONIUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ANTONIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ANTONIA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LIVIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_LIVIA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TIBERIUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_TIBERIUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_IULIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_IULIA</Character>
+	</Entry>
 </Root>

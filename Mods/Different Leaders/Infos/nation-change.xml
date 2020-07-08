@@ -1058,8 +1058,8 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_ROME_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_ROME_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_ROME_URBAN</UrbanAsset>
-		<Founder>CHARACTER_ILIA</Founder>
-		<FirstRuler>CHARACTER_ROMULUS</FirstRuler>
+		<Founder>CHARACTER_ATIA</Founder>
+		<FirstRuler>CHARACTER_AUGUSTUS</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_ROME</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_ROME</MapElementNames>
@@ -1087,6 +1087,7 @@
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_DIVINATION</zValue>
 			<zValue>TECH_ARISTOCRACY</zValue>
+			<zValue>TECH_ADMINISTRATION</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
@@ -1122,6 +1123,8 @@
 			<zValue>NAME_TIBERIUS</zValue>
 			<zValue>NAME_TITUS</zValue>
 			<zValue>NAME_VIBIUS</zValue>
+			<zValue>NAME_AUGUSTUS</zValue>
+			<zValue>NAME_ANTONIUS</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_AEMILIA</zValue>
@@ -1151,6 +1154,8 @@
 			<zValue>NAME_SULPICIA</zValue>
 			<zValue>NAME_TULLIA</zValue>
 			<zValue>NAME_VIPSANIA</zValue>
+			<zValue>NAME_OCTAVIA</zValue>
+			<zValue>NAME_IULIA</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
 			<zValue>CITYNAME_ROMA</zValue>

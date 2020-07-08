@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_ROME</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_ROME</Name>
+		<SourceNation>NATION_ROME</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_ROME</EffectCity>
+		<iXPModifier>0</iXPModifier>
+		<iStartLawModifier>-25</iStartLawModifier>
+		<iSwitchLawModifier>-25</iSwitchLawModifier>
+		<iFatigueLimitChange>0</iFatigueLimitChange>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+</Root>
