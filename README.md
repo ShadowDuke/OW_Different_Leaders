@@ -102,6 +102,33 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 - Starting Laws: Primogeniture & Freedom
 
 
+## [Persia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Persia)
+
+**Xerxes**<br>
+- 33 Years old
+- Archetype: Zealot
+- Trait: Warlike, Cruel, Extravagant & Bloodthirsty
+- Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
+- Father: Darius, 63 Years Old, Hero, Prud, Brave & Keen
+- Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent & Planter
+<br><br>
+
+- Has 2 childs
+   - **Artaxerxes** (Heir)
+      - 14 Years old
+      - Trait: Humnle, Compassionate & Gracious
+   - **Amytis**
+      - 11 Years old
+      - Trait: Beautiful, Debauched & Extravagant
+<br><br>
+- +50% XP for all Units during Combat
+- +1 Fatigue Limit
+- Per Unit killed: 5 Culture, 5 Science & 1 Order
+- +5 Training/Year
+- All Cities: +1 Grwoth/Year, +10% Chance/Year of Rebel Units & -20% Cost for Ranged Units
+- Starting Techs: Ironworking, Trapping, Labor Force & Husbandry
+- Starting Laws: Dynastic & Slavery
+
 ### New Trait
 
 - Pyramids Builder:
