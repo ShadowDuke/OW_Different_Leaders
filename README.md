@@ -73,7 +73,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
    - +5 Stone/Year
    - All Cities: +3 Stone & -3 Food
    - Project Convoy: +50 Money
-   - Stonecutte:r +3 Stone
+   - Stonecutter: +3 Stone
 
 ### Info
 
