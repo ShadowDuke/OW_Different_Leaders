@@ -69,7 +69,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 
 ## [Rome](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Rome)
 
-**Augustus** (Barca)<br>
+**Augustus**<br>
 - 40 Years old
 - Archetype: Orator
 - Trait: Righteous, Robust, Famous & Adopted
@@ -78,7 +78,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 <br><br>
 
 - Has 1 sister
-   - **Octavia** (Heir)
+   - **Octavia** 
       - 44 Years old
       - Archetpye: Judge
       - Trait: Loyal, Compassionate, Beautifil & Humble
@@ -86,7 +86,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
       - Daughter: Antonia, 6 Years Old
       
 - Has 2 childs
-   - **Tiberius**
+   - **Tiberius** (Heir)
       - 19 Years old
       - Archetype: Hero
       - Trait: Adopted, Warlike, Strict & Dealmaker
