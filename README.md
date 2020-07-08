@@ -139,7 +139,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
    - Stonecutter: +3 Stone
 
 ### Info
-
+**Mod compatibility with all my mods**
    - Fow now black Screen for new nations leader background
    - ~~2 new events added~~
 
