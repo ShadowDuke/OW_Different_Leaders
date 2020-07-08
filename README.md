@@ -98,8 +98,8 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 - -25% Switch Law Cost
 - +1 Civics per City per Year
 - All Cities: +2 Civics/Year & +2 Culture/Year
-- Starting Techs: Trapping, Ironworking & Military Drill
-- Starting Laws: Dynastic & Freedom
+- Starting Techs: Ironworking, Divination, Aristocracy & Administration
+- Starting Laws: Primogeniture
 
 
 ### New Trait
