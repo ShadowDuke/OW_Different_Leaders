@@ -66,6 +66,42 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
 - Starting Laws: Dynastic & Slavery
 
+
+## [Rome](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Rome)
+
+**Augustus** (Barca)<br>
+- 40 Years old
+- Archetype: Orator
+- Trait: Righteous, Robust, Famous & Adopted
+- Wife: Livia, 35 Years old, Schemer, Famous & Gracious
+- Mother: Atia, 66 Years Old, Orator
+<br><br>
+
+- Has 1 sister
+   - **Octavia** (Heir)
+      - 44 Years old
+      - Archetpye: Judge
+      - Trait: Loyal, Compassionate, Beautifil & Humble
+      - Spouse: Mark Antony, 47 Years Old, Hero, Swift, Rigtheous, Loyal & Famous
+      - Daughter: Antonia, 6 Years Old
+      
+- Has 2 childs
+   - **Tiberius**
+      - 19 Years old
+      - Archetype: Hero
+      - Trait: Adopted, Warlike, Strict & Dealmaker
+   - **Iulia**
+      - 16 Years old
+      - Trait: Bastard, Educated, Beautiful & Eloquent
+<br><br>
+- -25% Star Law Cost
+- -25% Switch Law Cost
+- +1 Civics per City per Year
+- All Cities: +2 Civics/Year & +2 Culture/Year
+- Starting Techs: Trapping, Ironworking & Military Drill
+- Starting Laws: Dynastic & Freedom
+
+
 ### New Trait
 
 - Pyramids Builder:
