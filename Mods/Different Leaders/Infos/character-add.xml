@@ -64,6 +64,7 @@
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -93,6 +94,7 @@
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_DIVINE</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -119,6 +121,7 @@
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_PROSPEROUS</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -177,6 +180,7 @@
 			<zValue>TRAIT_FAMOUS</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_ADOPTED</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -220,6 +224,7 @@
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -275,6 +280,99 @@
 			<zValue>TRAIT_EDUCATED</zValue>
 			<zValue>TRAIT_BEAUTIFUL</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_DARIUS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_DARIUS</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Spouse>CHARACTER_ATOSSA</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_DARIUS</Portrait>
+		<iAge>63</iAge>
+		<aeTraits>
+			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
+			<zValue>TRAIT_PROUD</zValue>
+			<zValue>TRAIT_BRAVE</zValue>
+			<zValue>TRAIT_KEEN</zValue>
+			<zValue>TRAIT_POPULAR_HERO</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_ATOSSA</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_ATOSSA</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_ATOSSA</Portrait>
+		<iAge>64</iAge>
+		<aeTraits>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_EDUCATED</zValue>
+			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_PLANTER</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_XERXES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_XERXES</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Father>CHARACTER_DARIUS</Father>
+		<Mother>CHARACTER_ATOSSA</Mother>
+		<Spouse>CHARACTER_AMESTRIS</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_XERXES</Portrait>
+		<iAge>33</iAge>
+		<aeTraits>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_WARLIKE</zValue>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_EXTRAVAGANT</zValue>
+			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_AMESTRIS</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_AMESTRIS</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_AMESTRIS</Portrait>
+		<iAge>30</iAge>
+		<aeTraits>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_SPOILED</zValue>
+			<zValue>TRAIT_SUPERSTITIOUS</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_ARTAXERXES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_ARTAXERXES</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Father>CHARACTER_XERXES</Father>
+		<Mother>CHARACTER_AMESTRIS</Mother>
+		<Portrait>CHARACTER_PORTRAIT_ARTAXERXES</Portrait>
+		<iAge>14</iAge>
+		<aeTraits>
+			<zValue>TRAIT_HUMBLE</zValue>
+			<zValue>TRAIT_COMPASSIONATE</zValue>
+			<zValue>TRAIT_GRACIOUS</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_AMYTIS</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_AMYTIS</FirstName>
+		<Nation>NATION_PERSIA</Nation>
+		<Father>CHARACTER_XERXES</Father>
+		<Mother>CHARACTER_AMESTRIS</Mother>
+		<Portrait>CHARACTER_PORTRAIT_AMYTIS</Portrait>
+		<iAge>11</iAge>
+		<aeTraits>
+			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_DEBAUCHED</zValue>
+			<zValue>TRAIT_EXTRAVAGANT</zValue>
 		</aeTraits>
 	</Entry>
 </Root>

@@ -13,8 +13,37 @@
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>10</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_PERSIA</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_PERSIA</Name>
+		<SourceNation>NATION_PERSIA</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_PERSIA</EffectCity>
+		<iXPModifier>50</iXPModifier>
+		<iHarvestModifier>0</iHarvestModifier>
+		<iFatigueLimitChange>1</iFatigueLimitChange>
+		<aiUnitKillYield>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiUnitKillYield>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 </Root>

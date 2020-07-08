@@ -345,7 +345,11 @@
 		<aiStartUnit>
 			<Pair>
 				<zIndex>UNIT_WARRIOR</zIndex>
-				<iValue>2</iValue>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_AXEMAN</zIndex>
+				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
 		<aiNationOpinion>
@@ -358,6 +362,7 @@
 			<zValue>TECH_TRAPPING</zValue>
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_MILITARY_DRILL</zValue>
+			<zValue>TECH_STEEL</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
@@ -897,33 +902,42 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_PERSIA_URBAN</UrbanAsset>
-		<Founder>CHARACTER_CYRUS</Founder>
-		<FirstRuler>CHARACTER_CYRUS</FirstRuler>
+		<Founder>CHARACTER_DARIUS</Founder>
+		<FirstRuler>CHARACTER_XERXES</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_PERSIA</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_PERSIA</MapElementNames>
 		<iFirstBuildPercent>40</iFirstBuildPercent>
 		<aiStartUnit>
 			<Pair>
-				<zIndex>UNIT_SLINGER</zIndex>
+				<zIndex>UNIT_SLINGER</zIndex> 
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_WARRIOR</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_GREECE</zIndex>
-				<iValue>-50</iValue>
+				<iValue>-60</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_TRAPPING</zValue>
+			<zValue>TECH_LABOR_FORCE</zValue>
 			<zValue>TECH_HUSBANDRY</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
-				<zValue>LAW_PRIMOGENITURE</zValue>
+				<zValue>LAW_DYNASTIC</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_SLAVERY_FREEDOM</zIndex>
+				<zValue>LAW_SLAVERY</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>
@@ -986,6 +1000,7 @@
 			<zValue>NAME_SURA</zValue>
 			<zValue>NAME_ZAND</zValue>
 			<zValue>NAME_ZURVANDOKHT</zValue>
+			<zValue>NAME_ATOSSA</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
 			<zValue>CITYNAME_PERSEPOLIS</zValue>
@@ -1070,11 +1085,15 @@
 				<zIndex>UNIT_WARRIOR</zIndex>
 				<iValue>1</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
 		</aiStartUnit>
 		<aiStartYield>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>200</iValue>
+				<iValue>0</iValue>
 			</Pair>
 		</aiStartYield>
 		<aiNationOpinion>
@@ -1093,6 +1112,10 @@
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
 				<zValue>LAW_PRIMOGENITURE</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_SLAVERY_FREEDOM</zIndex>
+				<zValue>LAW_FREEDOM</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>

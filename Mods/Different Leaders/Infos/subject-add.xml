@@ -91,4 +91,34 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_IULIA</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_DARIUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_DARIUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ATOSSA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ATOSSA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_XERXES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_XERXES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_AMESTRIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_AMESTRIS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ARTAXERXES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ARTAXERXES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_AMYTIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ARTAXERXES</Character>
+	</Entry>
 </Root>
