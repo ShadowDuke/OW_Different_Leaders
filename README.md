@@ -1,7 +1,7 @@
 # Different Leaders
 Different starting Leaders for **Version: 0.1.40018**. (WIP)
 
-
+**Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
 
 1. [Download](https://github.com/ShadowDuke/OW_Different_Leaders/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\
