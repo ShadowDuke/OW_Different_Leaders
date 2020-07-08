@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType>SUBJECT_HANNIBAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HANNIBAL</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HAMILCAR</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HAMILCAR</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MAGO</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_MAGO</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HASDRUBAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HASDRUBAL</Character>
+	</Entry>
+</Root>
