@@ -34,7 +34,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 <br><br>
 - New Cities: +25 Training
 - All Cities: +15% Training, -25% Cost for Warriors & New Units start with Combat I
-- Starting Techs: Trapping, Ironworking & Military Drill
+- Starting Techs: Trapping, Ironworking, Military Drill & Steel
 - Starting Laws: Dynastic & Freedom
 
 ## [Egypt](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Egypt)
@@ -96,10 +96,10 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 <br><br>
 - -25% Start Law Cost
 - -25% Switch Law Cost
-- +1 Civics per City per Year
+- +3 Civics per City per Year
 - All Cities: +2 Civics/Year & +2 Culture/Year
 - Starting Techs: Ironworking, Divination, Aristocracy & Administration
-- Starting Laws: Primogeniture
+- Starting Laws: Primogeniture & Freedom
 
 
 ### New Trait
