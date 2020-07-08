@@ -31,8 +31,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
    - **Mago**
       - 10 Years old
       - Trait: Honest
-      
-<br><br><br>
+<br><br>
 - New Cities: +25 Training
 - All Cities: +15% Training, -25% Cost for Warriors & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking & Military Drill
@@ -61,7 +60,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
       - 19 Years old
       - Archetype: Builder
       - Trait: Bastard, Pyramids Builder & Robust
-<br><br><br>
+<br><br>
 - On Start: +400 Stone
 - All Cities: +25% from Farm on River & +25% from Quarry on River
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
