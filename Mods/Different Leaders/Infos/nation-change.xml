@@ -409,6 +409,8 @@
 			<zValue>NAME_ZOUSHAN</zValue>
 			<zValue>NAME_HANNIBAL</zValue>
 			<zValue>NAME_HAMILCAR</zValue>
+			<zValue>NAME_HASDRUBAL</zValue>
+			<zValue>NAME_MAGO</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_AMATBAAL</zValue>
@@ -524,8 +526,8 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_EGYPT_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_EGYPT_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_EGYPT_URBAN</UrbanAsset>
-		<Founder>CHARACTER_HATSHEPSUT</Founder>
-		<FirstRuler>CHARACTER_HATSHEPSUT</FirstRuler>
+		<Founder>CHARACTER_SNEFERU</Founder>
+		<FirstRuler>CHARACTER_SNEFERU</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_EGYPT</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_EGYPT</MapElementNames>
@@ -535,16 +537,31 @@
 				<zIndex>UNIT_WARRIOR</zIndex>
 				<iValue>1</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
 		</aiStartUnit>
+		<aiNationOpinion>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiNationOpinion>
 		<aeStartingTech>
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_STONECUTTING</zValue>
 			<zValue>TECH_LABOR_FORCE</zValue>
+			<zValue>TECH_DIVINATION</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
-				<zValue>LAW_PRIMOGENITURE</zValue>
+				<zValue>LAW_DYNASTIC</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_SLAVERY_FREEDOM</zIndex>
+				<zValue>LAW_SLAVERY</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>
@@ -573,6 +590,10 @@
 			<zValue>NAME_SETI</zValue>
 			<zValue>NAME_TUTANKHAMUN</zValue>
 			<zValue>NAME_WERHETEP</zValue>
+			<zValue>NAME_SNEFERU</zValue>
+			<zValue>NAME_CHEOPS</zValue>
+			<zValue>NAME_RAHOTEP</zValue>
+			<zValue>NAME_NEFERMAAT</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_ANKHESENAMUN</zValue>
@@ -600,6 +621,8 @@
 			<zValue>NAME_TIYE</zValue>
 			<zValue>NAME_TWOSRET</zValue>
 			<zValue>NAME_UDJEBTEN</zValue>
+			<zValue>NAME_HETEPHERES</zValue>
+			<zValue>NAME_NOFRET</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
 			<zValue>CITYNAME_WASET</zValue>

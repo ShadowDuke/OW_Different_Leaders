@@ -9,4 +9,24 @@
 		<zType>NAME_HAMILCAR</zType>
 		<zName>Hamilcar</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_SNEFERU</zType>
+		<zName>Sneferu</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_CHEOPS</zType>
+		<zName>Cheops</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_RAHOTEP</zType>
+		<zName>Rahotep</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_NOFRET</zType>
+		<zName>Nofret</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_NEFERMAAT</zType>
+		<zName>Nefermaat</zName>
+	</Entry>
 </Root>

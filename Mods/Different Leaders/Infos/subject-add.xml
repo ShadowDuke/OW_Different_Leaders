@@ -21,4 +21,34 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_HASDRUBAL</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_SNEFERU</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_SNEFERU</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HETEPHERES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HETEPHERES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHEOPS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_CHEOPS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_RAHOTEP</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_RAHOTEP</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOFRET</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_NOFRET</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NEFERMAAT</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_NEFERMAAT</Character>
+	</Entry>
 </Root>

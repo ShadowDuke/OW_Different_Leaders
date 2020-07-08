@@ -43,7 +43,6 @@
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_HASDRUBAL</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_HASDRUBAL</CharacterSelectPortrait>
 		<iAge>18</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -58,7 +57,6 @@
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_HANNIBAL</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_HANNIBAL</CharacterSelectPortrait>
 		<iAge>13</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -75,10 +73,92 @@
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<Portrait>CHARACTER_PORTRAIT_MAGO</Portrait>
-		<CharacterSelectPortrait>CHARACTER_SELECT_MAGO</CharacterSelectPortrait>
 		<iAge>10</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HONEST</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_SNEFERU</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_SNEFERU</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Spouse>CHARACTER_HETEPHERES</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_SNEFERU</Portrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_SNEFERU</CharacterSelectPortrait>
+		<iAge>37</iAge>
+		<aeTraits>
+			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
+			<zValue>TRAIT_DIVINE</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_HETEPHERES</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_HETEPHERES</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Portrait>CHARACTER_PORTRAIT_HETEPHERES</Portrait>
+		<iAge>36</iAge>
+		<aeTraits>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_HUMBLE</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_CHEOPS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_CHEOPS</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Father>CHARACTER_SNEFERU</Father>
+		<Portrait>CHARACTER_PORTRAIT_CHEOPS</Portrait>
+		<iAge>18</iAge>
+		<aeTraits>
+			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
+			<zValue>TRAIT_PROSPEROUS</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_RAHOTEP</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_RAHOTEP</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Father>CHARACTER_SNEFERU</Father>
+		<Spouse>CHARACTER_NOFRET</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_RAHOTEP</Portrait>
+		<iAge>18</iAge>
+		<aeTraits>
+			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
+			<zValue>TRAIT_BASTARD</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_NOFRET</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_NOFRET</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Portrait>CHARACTER_PORTRAIT_NOFRET</Portrait>
+		<iAge>21</iAge>
+		<aeTraits>
+			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
+			<zValue>TRAIT_INTELLIGENT</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_NEFERMAAT</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_NEFERMAAT</FirstName>
+		<Nation>NATION_EGYPT</Nation>
+		<Father>CHARACTER_SNEFERU</Father>
+		<Portrait>CHARACTER_PORTRAIT_NEFERMAAT</Portrait>
+		<iAge>19</iAge>
+		<aeTraits>
+			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_BASTARD</zValue>
+			<zValue>TRAIT_ROBUST</zValue>
 		</aeTraits>
 	</Entry>
 </Root>
