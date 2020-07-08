@@ -78,7 +78,6 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 ### Info
 
    - Fow now black Screen for new nations leader background
-   - Character portrait on nation leader selection does not reflect the ingame potrait
    - 1 new event added
 
 ## Notes
