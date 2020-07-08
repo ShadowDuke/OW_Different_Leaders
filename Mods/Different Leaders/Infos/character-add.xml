@@ -159,6 +159,7 @@
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_BASTARD</zValue>
 			<zValue>TRAIT_ROBUST</zValue>
+			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraits>
 	</Entry>
 </Root>

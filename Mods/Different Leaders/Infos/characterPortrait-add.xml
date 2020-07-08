@@ -15,7 +15,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_05_YOUTH</zValue>
+        <zValue>CARTHAGE_LEADER_MALE_02_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -103,7 +103,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_10_YOUTH</zValue>
+        <zValue>EGYPT_LEADER_MALE_12_ADULT</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
