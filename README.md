@@ -34,7 +34,7 @@ Commander - 36 Years old
  
 - ### Info
 
-   - Black Screen for new nations leader background
+   - Fow now black Screen for new nations leader background
    - Character portrait on nation leader selection does not reflect the ingame potrait
    - 1 new event added
 
