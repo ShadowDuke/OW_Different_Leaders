@@ -141,7 +141,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
 ### Info
 
    - Fow now black Screen for new nations leader background
-   - 1 new event added
+   - ~~2 new events added~~
 
 ## Notes
 - [ ] Add more different leaders
