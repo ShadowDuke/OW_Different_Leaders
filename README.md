@@ -94,7 +94,7 @@ Different starting Leaders for **Version: 0.1.40018**. (WIP)
       - 16 Years old
       - Trait: Bastard, Educated, Beautiful & Eloquent
 <br><br>
-- -25% Star Law Cost
+- -25% Start Law Cost
 - -25% Switch Law Cost
 - +1 Civics per City per Year
 - All Cities: +2 Civics/Year & +2 Culture/Year
