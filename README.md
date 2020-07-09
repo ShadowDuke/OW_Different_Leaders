@@ -1,5 +1,5 @@
 # Different Leaders
-Different starting Leaders for **Version: 0.1.40018**. (WIP)
+Different starting Leaders for **Version: 0.1.40257**. (WIP)
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
