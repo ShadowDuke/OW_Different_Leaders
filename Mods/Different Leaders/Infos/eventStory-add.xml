@@ -19,7 +19,7 @@
 			<zValue>EVENTOPTION_DEATH_OF_HAMILCAR</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>2</iMinTurns>
+		<iMinTurns>6</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
