@@ -109,7 +109,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
 - Archetype: Zealot
 - Trait: Warlike, Cruel, Extravagant & Bloodthirsty
 - Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
-- Father: Darius, 63 Years Old, Hero, Prud, Brave & Keen
+- Father: Darius, 63 Years Old, Hero, Proud, Brave & Keen
 - Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent & Planter
 <br><br>
 
