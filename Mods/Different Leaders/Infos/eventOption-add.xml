@@ -8,11 +8,4 @@
 			<zValue>NONE</zValue>
 		</aeBonuses>
 	</Entry>
-	<Entry>
-		<zType>EVENTOPTION_DEATH_OF_ANTONIUS</zType>
-		<Text>TEXT_EVENTOPTION_DEATH_OF_ANTONIUS</Text>
-		<aeBonuses>
-			<zValue>NONE</zValue>
-		</aeBonuses>
-	</Entry>
 </Root>

@@ -9,14 +9,9 @@
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
-			<zValue>SUBJECT_LEADER_US</zValue>
+			<zValue>SUBJECT_HAMILCAR</zValue>
+			<zValue>SUBJECT_PLAYER_CARTHAGE</zValue>
 		</aeSubjects>
-		<SubjectExtras>
-			<Pair>
-				<First>0</First>
-				<Second>SUBJECT_HAMILCAR</Second>
-			</Pair>
-		</SubjectExtras>
 		<aeBonuses>
 			<zValue>BONUS_KILL_CHARACTER</zValue>
 		</aeBonuses>
@@ -24,8 +19,9 @@
 			<zValue>EVENTOPTION_DEATH_OF_HAMILCAR</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
-		<iMinTurns>6</iMinTurns>
-		<iWeight>100</iWeight>
+		<iMinTurns>2</iMinTurns>
+		<iWeight>20</iWeight>
+		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
 </Root>

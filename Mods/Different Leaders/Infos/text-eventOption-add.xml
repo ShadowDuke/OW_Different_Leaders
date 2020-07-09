@@ -5,8 +5,4 @@
 		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR</zType>
 		<English>Troubling news.</English>
 	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEATH_OF_ANTONIUS</zType>
-		<English>Did it happen like this?</English>
-	</Entry>
 </Root>

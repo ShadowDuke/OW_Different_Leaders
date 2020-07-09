@@ -5,8 +5,4 @@
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR_TITLE</zType>
 		<English>Death of Hamilcar</English>
 	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTSTORY_DEATH_OF_ANTONIUS_TITLE</zType>
-		<English>Death of Mark Antony</English>
-	</Entry>
 </Root>

@@ -2,14 +2,14 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>SUBJECT_HANNIBAL</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<Character>CHARACTER_HANNIBAL</Character>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_HAMILCAR</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_HAMILCAR</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HANNIBAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HANNIBAL</Character>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_MAGO</zType>
