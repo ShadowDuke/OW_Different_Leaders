@@ -187,9 +187,16 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 ### Info
 **Mod compatibility with all my mods**
    - Fow now black Screen for new nations leader background
-   - Various new event added
+   - Various new events added
 
 ## Notes
-- [ ] Add more different leaders
+- [X] Add new Cathage leader
+- [X] Add new Egypt leader
+- [X] Add new Rome leader
+- [X] Add new Persia leader
+- [X] Add new Greece leader
+- [ ] Add new Assyria leader
+- [ ] Add new Babylonia leader
+
 <br><br><br>
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
