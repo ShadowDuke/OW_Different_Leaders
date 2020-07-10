@@ -141,7 +141,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - Trait: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
    - Father: Kleomenes, 46 Years old, Commander & Bastard
-- Father: Anaxandrias, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
+- Father: Anaxandridas, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
 <br><br>
 
 - Has 2 brothers
