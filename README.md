@@ -153,7 +153,7 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
       - Son: Euryanax, 4 Years old, Commander
       
 - Has 1 child
-   - **Pleistarchos** (Heir)
+   - **Pleistarchos**
       - 8 Years old
       - Archetype: Commander
 <br><br>
