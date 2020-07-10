@@ -2,6 +2,19 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<zType>EFFECTPLAYER_NATION_EGYPT</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_EGYPT</Name>
+		<SourceNation>NATION_EGYPT</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_EGYPT</EffectCity>
+		<StartBonus>BONUS_NATION_EGYPT</StartBonus>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
 		<zType>EFFECTPLAYER_NATION_ROME</zType>
 		<Name>TEXT_EFFECTPLAYER_NATION_ROME</Name>
 		<SourceNation>NATION_ROME</SourceNation>
@@ -39,6 +52,19 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiUnitKillYield>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_CARTHAGE</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_CARTHAGE</Name>
+		<SourceNation>NATION_CARTHAGE</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_CARTHAGE</EffectCity>
+		<FoundBonus>BONUS_NATION_CARTHAGE</FoundBonus>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>

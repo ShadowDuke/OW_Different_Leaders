@@ -887,7 +887,7 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
-				<iValue>400</iValue>
+				<iValue>500</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>

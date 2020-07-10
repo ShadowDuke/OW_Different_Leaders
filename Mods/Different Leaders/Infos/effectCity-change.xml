@@ -1908,11 +1908,11 @@
 		<aiImprovementRiverModifier>
 			<Pair>
 				<zIndex>IMPROVEMENT_FARM</zIndex>
-				<iValue>25</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>IMPROVEMENT_QUARRY</zIndex>
-				<iValue>25</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiImprovementRiverModifier>
 	</Entry>
