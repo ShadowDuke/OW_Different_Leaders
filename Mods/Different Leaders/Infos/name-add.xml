@@ -49,4 +49,28 @@
 		<zType>NAME_ATOSSA</zType>
 		<zName>Atossa</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_ANAXANDRIAS</zType>
+		<zName>Anaxandridas</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_KLEOMENES</zType>
+		<zName>Kleomenes</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_KLEOMBROTOS</zType>
+		<zName>Kleombrotos</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_DORIEUS</zType>
+		<zName>Dorieus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_PLEISTARCHOS</zType>
+		<zName>Pleistarchos</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_EURYANAX</zType>
+		<zName>Euryanax</zName>
+	</Entry>
 </Root>

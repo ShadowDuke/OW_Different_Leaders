@@ -5,4 +5,20 @@
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
 		<English>Pyramids Builder</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
+		<English>Famous Person</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OLD_RULER</zType>
+		<English>Old Ruler</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DARIEUS_VANISHED</zType>
+		<English>Darieus vanished</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ANTONIUS_CLEOPATRA</zType>
+		<English>Going to commit suicide</English>
+	</Entry>
 </Root>

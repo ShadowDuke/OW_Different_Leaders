@@ -14,4 +14,10 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_GREECE</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_GREECE</Name>
+		<SourceNation>NATION_GREECE</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_GREECE</EffectCity>
+	</Entry>
 </Root>

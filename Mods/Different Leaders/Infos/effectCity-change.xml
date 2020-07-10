@@ -1920,18 +1920,22 @@
 		<zType>EFFECTCITY_NATION_GREECE</zType>
 		<Name>TEXT_EFFECTCITY_NATION_GREECE</Name>
 		<SourceNation>NATION_GREECE</SourceNation>
+		<iRebelProb>-10</iRebelProb>
 		<aiYieldRate>
 			<Pair>
-				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>40</iValue>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiUnitCostModifier>
 			<Pair>
-				<zIndex>UNIT_SETTLER</zIndex>
+				<zIndex>UNIT_SPEARMAN</zIndex>
 				<iValue>-25</iValue>
 			</Pair>
 		</aiUnitCostModifier>
+		<aeFreePromotion>
+			<zValue>PROMOTION_GUARD1</zValue>
+		</aeFreePromotion>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_ROME</zType>

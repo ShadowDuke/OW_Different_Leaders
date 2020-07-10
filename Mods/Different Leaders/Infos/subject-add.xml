@@ -2,6 +2,11 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<zType>SUBJECT_FAMOUS_PERSON</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_FAMOUS_PERSON</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_HAMILCAR</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_HAMILCAR</Character>
@@ -120,5 +125,45 @@
 		<zType>SUBJECT_AMYTIS</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_ARTAXERXES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ANAXANDRIAS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ANAXANDRIAS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_KLEOMENES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_KLEOMENES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEONIDAS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_LEONIDAS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_GORGO</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_GORGO</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_KLEOMBROTOS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_KLEOMBROTOS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_DORIEUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_DORIEUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLEISTARCHOS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_PLEISTARCHOS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_EURYANAX</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_EURYANAX</Character>
 	</Entry>
 </Root>

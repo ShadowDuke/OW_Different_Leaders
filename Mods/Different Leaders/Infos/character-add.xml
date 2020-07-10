@@ -63,7 +63,7 @@
 			<zValue>TRAIT_DRILLMASTER</zValue>
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
-			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
 		</aeTraits>
 	</Entry>
@@ -90,7 +90,7 @@
 		<iAge>37</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
-			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_DIVINE</zValue>
@@ -122,6 +122,7 @@
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_PROSPEROUS</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -177,7 +178,7 @@
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
 			<zValue>TRAIT_ROBUST</zValue>
-			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_ADOPTED</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
@@ -223,8 +224,9 @@
 			<zValue>TRAIT_SWIFT</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
-			<zValue>TRAIT_FAMOUS</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
+			<zValue>TRAIT_ANTONIUS_CLEOPATRA</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -296,6 +298,7 @@
 			<zValue>TRAIT_BRAVE</zValue>
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -328,6 +331,7 @@
 			<zValue>TRAIT_CRUEL</zValue>
 			<zValue>TRAIT_EXTRAVAGANT</zValue>
 			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -373,6 +377,123 @@
 			<zValue>TRAIT_BEAUTIFUL</zValue>
 			<zValue>TRAIT_DEBAUCHED</zValue>
 			<zValue>TRAIT_EXTRAVAGANT</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_ANAXANDRIAS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_ANAXANDRIAS</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Portrait>CHARACTER_PORTRAIT_ANAXANDRIAS</Portrait>
+		<iAge>58</iAge>
+		<aeTraits>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+			<zValue>TRAIT_GARRISON</zValue>
+			<zValue>TRAIT_HIGHLANDER</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_KLEOMENES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_KLEOMENES</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Portrait>CHARACTER_PORTRAIT_KLEOMENES</Portrait>
+		<iAge>38</iAge>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_BASTARD</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_LEONIDAS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_LEONIDAS</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Spouse>CHARACTER_GORGO</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_LEONIDAS</Portrait>
+		<iAge>30</iAge>
+		<aeTraits>
+			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
+			<zValue>TRAIT_BRAVE</zValue>
+			<zValue>TRAIT_SWIFT</zValue>
+			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_GORGO</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_GORGO</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_KLEOMENES</Father>
+		<Portrait>CHARACTER_PORTRAIT_GORGO</Portrait>
+		<iAge>27</iAge>
+		<aeTraits>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_DEALMAKER</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_KLEOMBROTOS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_KLEOMBROTOS</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Portrait>CHARACTER_PORTRAIT_KLEOMBROTOS</Portrait>
+		<iAge>30</iAge>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_LOYAL</zValue>
+			<zValue>TRAIT_ELOQUENT</zValue>
+			<zValue>TRAIT_DRILLMASTER</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_DORIEUS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_DORIEUS</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Portrait>CHARACTER_PORTRAIT_DORIEUS</Portrait>
+		<iAge>25</iAge>
+		<aeTraits>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+			<zValue>TRAIT_GREEDY</zValue>
+			<zValue>TRAIT_BITTER</zValue>
+			<zValue>TRAIT_VENGEFUL</zValue>
+			<zValue>TRAIT_ROBUST</zValue>
+			<zValue>TRAIT_DARIEUS_VANISHED</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_PLEISTARCHOS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_PLEISTARCHOS</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_LEONIDAS</Father>
+		<Mother>CHARACTER_GORGO</Mother>
+		<Portrait>CHARACTER_PORTRAIT_PLEISTARCHOS</Portrait>
+		<iAge>8</iAge>
+		<bInfertile>1</bInfertile>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_EURYANAX</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_EURYANAX</FirstName>
+		<Nation>NATION_GREECE</Nation>
+		<Father>CHARACTER_DORIEUS</Father>
+		<Portrait>CHARACTER_PORTRAIT_EURYANAX</Portrait>
+		<iAge>4</iAge>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 		</aeTraits>
 	</Entry>
 </Root>

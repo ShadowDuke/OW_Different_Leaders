@@ -28,11 +28,11 @@
 		<aiUnitKillYield>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>5</iValue>
+				<iValue>2</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>5</iValue>
+				<iValue>2</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -45,5 +45,11 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_GREECE</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_GREECE</Name>
+		<SourceNation>NATION_GREECE</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_GREECE</EffectCity>
 	</Entry>
 </Root>

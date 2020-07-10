@@ -14,4 +14,33 @@
 			</Pair>
 		</aiRating>
 	</Entry>
+	<Entry>
+		<zType>TRAIT_FAMOUS_PERSON</zType>
+		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_FAME</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_OLD_RULER</zType>
+		<Name>TEXT_TRAIT_OLD_RULER</Name>
+		<iDieProb>30</iDieProb>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DARIEUS_VANISHED</zType>
+		<Name>TEXT_TRAIT_DARIEUS_VANISHED</Name>
+		<iDieProb>50</iDieProb>
+		<bNoEvents>1</bNoEvents>
+		<bNoHeir>1</bNoHeir>
+		<bNoJob>1</bNoJob>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ANTONIUS_CLEOPATRA</zType>
+		<Name>TEXT_TRAIT_ANTONIUS_CLEOPATRA</Name>
+		<iDieProb>25</iDieProb>
+		<bNoEvents>1</bNoEvents>
+	</Entry>
 </Root>

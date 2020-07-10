@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>RATING_FAME</zType>
+		<zColor>COLOR_RATING_FAME</zColor>
+		<zName>Fame</zName>
+		<zIconName>CultureIcon3</zIconName>
+		<zHelp>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
+Als Stadthalter erhöht sich {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} und {YIELD_MONEY}.
+For Generals Fame increases the defense Strenght of a Unit.
+		</zHelp>
+		<iDefenseModifier>3</iDefenseModifier>
+		<aiYieldLeaderRate>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_IRON</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiYieldGovernorModifier>
+	</Entry>
+</Root>

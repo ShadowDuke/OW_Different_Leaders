@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType />
+		<zName />
+		<ColorClass />
+		<zHexValue />
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE</zType>
+		<zName>Sparta</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#0f3978</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_TEXT</zType>
+		<zName>Sparta Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#4b7dc9ff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_01</zType>
+		<zName>Sparta Family 1</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#9293ff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_01_TEXT</zType>
+		<zName>Sparta Family 1 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#9293ff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_02</zType>
+		<zName>Sparta Family 2</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#32da72</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_02_TEXT</zType>
+		<zName>Sparta Family 2 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#32da72</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_03</zType>
+		<zName>Sparta Family 3</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#fa6cf2</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_03_TEXT</zType>
+		<zName>Sparta Family 3 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#fa6cf2</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_04</zType>
+		<zName>Sparta Family 4</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#3fffdd</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_04_TEXT</zType>
+		<zName>Sparta Family 4 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#3fffdd</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_NONE</zType>
+		<zName>Sparta Family None</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#8ad04b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_NONE_TEXT</zType>
+		<zName>Sparta Family None Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#8ad04b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RATING_FAME</zType>
+		<zName>Fame</zName>
+		<ColorClass>COLORCLASS_RATINGS</ColorClass>
+		<zHexValue>#e2dfbc</zHexValue>
+	</Entry>
+</Root>

@@ -687,7 +687,7 @@
 	</Entry>
 	<Entry>
 		<zType>NATION_GREECE</zType>
-		<Name>TEXT_NATION_GREECE</Name>
+		<Name>TEXT_NATION_SPARTA</Name>
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<Crest>CREST_NATION_GREECE</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
@@ -695,33 +695,42 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_GREECE_URBAN</UrbanAsset>
-		<Founder>CHARACTER_PHILIP</Founder>
-		<FirstRuler>CHARACTER_PHILIP</FirstRuler>
+		<Founder>CHARACTER_ANAXANDRIAS</Founder>
+		<FirstRuler>CHARACTER_KLEOMENES</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_GREECE</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_GREECE</MapElementNames>
 		<iFirstBuildPercent>40</iFirstBuildPercent>
 		<aiStartUnit>
 			<Pair>
-				<zIndex>UNIT_WARRIOR</zIndex>
+				<zIndex>UNIT_SPEARMAN</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_SCOUT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_PERSIA</zIndex>
-				<iValue>-50</iValue>
+				<iValue>-60</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_STONECUTTING</zValue>
-			<zValue>TECH_DRAMA</zValue>
+			<zValue>TECH_LABOR_FORCE</zValue>
+			<zValue>TECH_TRAPPING</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
-				<zValue>LAW_PRIMOGENITURE</zValue>
+				<zValue>LAW_LATERAL</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_SLAVERY_FREEDOM</zIndex>
+				<zValue>LAW_FREEDOM</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>
@@ -777,7 +786,14 @@
 			<zValue>NAME_SELEUCUS</zValue>
 			<zValue>NAME_SOPOLIS</zValue>
 			<zValue>NAME_THEMISTOCLES</zValue>
+			<zValue>NAME_KLEOMENES</zValue>
+			<zValue>NAME_ANAXANDRIAS</zValue>
+			<zValue>NAME_KLEOMBROTOS</zValue>
+			<zValue>NAME_DORIEUS</zValue>
+			<zValue>NAME_PLEISTARCHOS</zValue>
+			<zValue>NAME_EURYANAX</zValue>
 		</aeFirstNamesMale>
+
 		<aeFirstNamesFemale>
 			<zValue>NAME_ANYTE</zValue>
 			<zValue>NAME_ARCHIDAMIA</zValue>
@@ -820,8 +836,8 @@
 			<zValue>NAME_XANTHIPPE</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
-			<zValue>CITYNAME_ATHENS</zValue>
 			<zValue>CITYNAME_SPARTA</zValue>
+			<zValue>CITYNAME_ATHENS</zValue>
 			<zValue>CITYNAME_CORINTH</zValue>
 			<zValue>CITYNAME_THEBES</zValue>
 			<zValue>CITYNAME_ARGOS</zValue>
@@ -890,7 +906,7 @@
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_GREECE_STORY</Story>
+		<Story>TEXT_NATION_SPARTA_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_PERSIA</zType>
