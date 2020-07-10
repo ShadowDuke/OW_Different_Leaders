@@ -139,7 +139,6 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 - Trait: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
 - Father: Anaxandrias, 58 Years Old, Tactician, Garrison, Highlander & Old Ruler
-- Mother: Atia, 66 Years Old, Orator
 <br><br>
 
 - Has 2 brothers
