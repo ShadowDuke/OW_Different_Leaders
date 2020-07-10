@@ -4,8 +4,6 @@
 	<Entry>
 		<zType>TRAIT_PYRAMIDS_BUILDER</zType>
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
-		<iAdjectiveDie>1</iAdjectiveDie>
-		<bAdjective>1</bAdjective>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
 			<Pair>

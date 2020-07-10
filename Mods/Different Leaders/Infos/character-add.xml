@@ -385,7 +385,7 @@
 		<FirstName>NAME_ANAXANDRIAS</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Portrait>CHARACTER_PORTRAIT_ANAXANDRIAS</Portrait>
-		<iAge>58</iAge>
+		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
 			<zValue>TRAIT_GARRISON</zValue>
@@ -400,7 +400,7 @@
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIAS</Father>
 		<Portrait>CHARACTER_PORTRAIT_KLEOMENES</Portrait>
-		<iAge>38</iAge>
+		<iAge>46</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_BASTARD</zValue>
@@ -460,7 +460,7 @@
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIAS</Father>
 		<Portrait>CHARACTER_PORTRAIT_DORIEUS</Portrait>
-		<iAge>25</iAge>
+		<iAge>28</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
 			<zValue>TRAIT_GREEDY</zValue>
