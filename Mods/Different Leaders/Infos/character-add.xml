@@ -383,11 +383,11 @@
 		</aeTraits>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_ANAXANDRIAS</zType>
+		<zType>CHARACTER_ANAXANDRIDAS</zType>
 		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_ANAXANDRIAS</FirstName>
+		<FirstName>NAME_ANAXANDRIDAS</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Portrait>CHARACTER_PORTRAIT_ANAXANDRIAS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ANAXANDRIDAS</Portrait>
 		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -401,7 +401,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_KLEOMENES</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Portrait>CHARACTER_PORTRAIT_KLEOMENES</Portrait>
 		<iAge>46</iAge>
 		<aeTraits>
@@ -414,7 +414,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_LEONIDAS</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Spouse>CHARACTER_GORGO</Spouse>
 		<Portrait>CHARACTER_PORTRAIT_LEONIDAS</Portrait>
 		<iAge>30</iAge>
@@ -446,7 +446,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_KLEOMBROTOS</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Portrait>CHARACTER_PORTRAIT_KLEOMBROTOS</Portrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -461,7 +461,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DORIEUS</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Father>CHARACTER_ANAXANDRIAS</Father>
+		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Portrait>CHARACTER_PORTRAIT_DORIEUS</Portrait>
 		<iAge>28</iAge>
 		<aeTraits>

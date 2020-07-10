@@ -695,7 +695,7 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_GREECE_URBAN</UrbanAsset>
-		<Founder>CHARACTER_ANAXANDRIAS</Founder>
+		<Founder>CHARACTER_ANAXANDRIDAS</Founder>
 		<FirstRuler>CHARACTER_KLEOMENES</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_GREECE</EffectPlayer>
@@ -787,7 +787,7 @@
 			<zValue>NAME_SOPOLIS</zValue>
 			<zValue>NAME_THEMISTOCLES</zValue>
 			<zValue>NAME_KLEOMENES</zValue>
-			<zValue>NAME_ANAXANDRIAS</zValue>
+			<zValue>NAME_ANAXANDRIDAS</zValue>
 			<zValue>NAME_KLEOMBROTOS</zValue>
 			<zValue>NAME_DORIEUS</zValue>
 			<zValue>NAME_PLEISTARCHOS</zValue>
