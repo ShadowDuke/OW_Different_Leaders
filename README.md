@@ -33,6 +33,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - 10 Years old
       - Trait: Honest
 <br><br>
+- +5 Training/Year
 - New Cities: +25 Training
 - All Cities: +15% Training, -25% Cost for Warriors & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking, Military Drill & Steel
@@ -62,8 +63,9 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - Archetype: Builder
       - Trait: Bastard, Pyramids Builder & Robust
 <br><br>
-- On Start: +400 Stone
-- All Cities: +25% from Farm on River & +25% from Quarry on River
+- On Start: +500 Stone
+- +3 Stone per City per Year
+- All Cities: +50% from Farm on River & +50% from Quarry on River
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
 - Starting Laws: Dynastic & Slavery
 
