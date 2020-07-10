@@ -1,5 +1,6 @@
 # Different Leaders
-Different starting Leaders for **Version: 0.1.40257**. (WIP)
+Different starting Leaders for **Version: 0.1.40257**. (WIP)<br>
+More Diversity with intersting leaders/characters and surprising events/outcomes.
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
@@ -27,7 +28,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
    - **Hannibal**
       - 13 Years old
       - Archetype: Hero
-      - Trait: Drillmaster, Strict, Warlike & Famous
+      - Trait: Drillmaster, Strict, Warlike & Famous Person
    - **Mago**
       - 10 Years old
       - Trait: Honest
@@ -42,7 +43,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
 **Sneferu**<br>
 - 37 Years old
 - Archetype: Builder
-- Trait: Famous, Pyramids Builder, Righteous & Divine
+- Trait: Famous Person, Pyramids Builder, Righteous & Divine
 - Wife: Hetepheres, 36 Years old, Diplomat, Humble
 <br><br>
 
@@ -50,7 +51,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
    - **Cheops** (Heir)
       - 18 Years old
       - Archetpye: Builder
-      - Trait: Pyramids Builder & Prosperous
+      - Trait: Pyramids Builder, Famous Person & Prosperous
    - **Rahotep**
       - 18 Years old
       - Archetype: Scholar
@@ -72,7 +73,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
 **Augustus**<br>
 - 40 Years old
 - Archetype: Orator
-- Trait: Righteous, Robust, Famous & Adopted
+- Trait: Righteous, Robust, Famous Person & Adopted
 - Wife: Livia, 35 Years old, Schemer, Famous & Gracious
 - Mother: Atia, 66 Years Old, Orator
 <br><br>
@@ -82,7 +83,7 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
       - 44 Years old
       - Archetpye: Judge
       - Trait: Loyal, Compassionate, Beautifil & Humble
-      - Spouse: Mark Antony, 47 Years Old, Hero, Swift, Rigtheous, Loyal & Famous
+      - Spouse: Mark Antony, 47 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
       - Daughter: Antonia, 6 Years Old
       
 - Has 2 childs
@@ -107,9 +108,9 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
 **Xerxes**<br>
 - 33 Years old
 - Archetype: Zealot
-- Trait: Warlike, Cruel, Extravagant & Bloodthirsty
+- Trait: Warlike, Cruel, Extravagant, Famous Person & Bloodthirsty
 - Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
-- Father: Darius, 63 Years Old, Hero, Proud, Brave & Keen
+- Father: Darius, 63 Years Old, Hero, Proud, Brave, Famous Person & Keen
 - Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent & Planter
 <br><br>
 
@@ -123,13 +124,49 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
 <br><br>
 - +50% XP for all Units during Combat
 - +1 Fatigue Limit
-- Per Unit killed: 5 Culture, 5 Science & 1 Order
+- Per Unit killed: 2 Culture, 2 Science & 1 Order
 - +5 Training/Year
-- All Cities: +1 Grwoth/Year, +10% Chance/Year of Rebel Units & -20% Cost for Ranged Units
+- All Cities: +1 Growth/Year, +10% Chance/Year of Rebel Units & -20% Cost for Ranged Units
 - Starting Techs: Ironworking, Trapping, Labor Force & Husbandry
 - Starting Laws: Dynastic & Slavery
 
-### New Trait
+
+## Greece -> [Sparta](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Sparta)
+
+**Leonidas** (*at the 2nd turn*)<br>
+- 30 Years old
+- Archetype: Hero
+- Trait: Swift, Brave, Bold & Famous Person
+- Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
+- Father: Anaxandrias, 58 Years Old, Tactician, Garrison, Highlander & Old Ruler
+- Mother: Atia, 66 Years Old, Orator
+<br><br>
+
+- Has 2 brothers
+   - **Kleombrotos** (eventual twin)
+      - 30 Years old
+      - Archetpye: Commander
+      - Trait: Eloquent, Drillmaster & Loyal
+   - **Dorieus** (half-brother)
+      - 25 Years old
+      - Archetpye: Tactician
+      - Trait: Robust, Greedy, Bitter, Vengeful & (hidden)
+      - Son: Euryanax, 4 Years old, Commander
+      
+- Has 1 child
+   - **Pleistarchos** (Heir)
+      - 8 Years old
+      - Archetype: Commander
+<br><br>
+- -10% Chance/Year of Rebel Units
+- -25% Cost for Spearmen
+- New Units start with Guard 1
+- All Cities: +2 Training/Year
+- Starting Techs: Ironworking, Stoonecutting, Labor Force & Trapping
+- Starting Laws: Lateral & Freedom
+- New Family name: Eurypontids
+
+### New Traits
 
 - Pyramids Builder:
    - +25 All Foreign Leader Opinions
@@ -138,10 +175,19 @@ Different starting Leaders for **Version: 0.1.40257**. (WIP)
    - Project Convoy: +50 Money
    - Stonecutter: +3 Stone
 
+- Famous Person:
+   - +1 Fame
+   
+- Old Ruler
+   - Chance of Death: 30%
+   
+- Some hidden traits to reflect historical events
+  
+
 ### Info
 **Mod compatibility with all my mods**
    - Fow now black Screen for new nations leader background
-   - 1 new event added
+   - Various new event added
 
 ## Notes
 - [ ] Add more different leaders
