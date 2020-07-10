@@ -138,7 +138,8 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 - Archetype: Hero
 - Trait: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
-- Father: Anaxandrias, 58 Years Old, Tactician, Garrison, Highlander & Old Ruler
+   - Father: Kleomenes, 46 Years old, Commander, Shieldbearer & Bastard
+- Father: Anaxandrias, 64 Years Old, Tactician, Garrison, Highlander & Old Ruler
 <br><br>
 
 - Has 2 brothers
@@ -153,7 +154,7 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
       - Son: Euryanax, 4 Years old, Commander
       
 - Has 1 child
-   - **Pleistarchos** (Heir)
+   - **Pleistarchos**
       - 8 Years old
       - Archetype: Commander
 <br><br>
