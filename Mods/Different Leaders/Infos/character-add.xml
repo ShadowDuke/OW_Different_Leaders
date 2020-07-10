@@ -193,6 +193,7 @@
 		<iAge>66</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -299,6 +300,7 @@
 			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -313,6 +315,7 @@
 			<zValue>TRAIT_EDUCATED</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_PLANTER</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
