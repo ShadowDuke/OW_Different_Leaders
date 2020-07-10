@@ -177,10 +177,6 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 
 - Famous Person:
    - +1 Fame
-   
-- Old Ruler
-   - Chance of Death: 30%
-   
 - Some hidden traits to reflect historical events
   
 
@@ -197,6 +193,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - [X] Add new Greece leader
 - [ ] Add new Assyria leader
 - [ ] Add new Babylonia leader
+- [ ] Add portraits for characters (done - but needs to be implemented)
 
 <br><br><br>
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
