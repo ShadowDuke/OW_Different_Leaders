@@ -1,6 +1,6 @@
 # Different Leaders
 Different starting Leaders for **Version: 0.1.40257**. (WIP)<br>
-More Diversity with intersting leaders/characters and surprising events/outcomes.
+More Diversity with interesting leaders/characters and surprising events/outcomes.
 
 **Delete any previous files/directories from earlier versions of this mod**
 ## Installation and use
