@@ -75,7 +75,7 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 - Archetype: Orator
 - Trait: Righteous, Robust, Famous Person & Adopted
 - Wife: Livia, 35 Years old, Schemer, Famous & Gracious
-- Mother: Atia, 66 Years Old, Orator
+- Mother: Atia, 66 Years Old, Orator & (hidden)
 <br><br>
 
 - Has 1 sister
@@ -110,8 +110,8 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 - Archetype: Zealot
 - Trait: Warlike, Cruel, Extravagant, Famous Person & Bloodthirsty
 - Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
-- Father: Darius, 63 Years Old, Hero, Proud, Brave, Famous Person & Keen
-- Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent & Planter
+- Father: Darius, 63 Years Old, Hero, Proud, Brave, Famous Person, Keen & (hidden)
+- Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent, Planter & (hidden)
 <br><br>
 
 - Has 2 childs
@@ -139,7 +139,7 @@ More Diversity with intersting leaders/characters and surprising events/outcomes
 - Trait: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
    - Father: Kleomenes, 46 Years old, Commander & Bastard
-- Father: Anaxandrias, 64 Years Old, Tactician, Garrison, Highlander & Old Ruler
+- Father: Anaxandrias, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
 <br><br>
 
 - Has 2 brothers
