@@ -12,6 +12,10 @@
 				<zIndex>YIELD_STONE</zIndex>
 				<iValue>30</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
+			</Pair>
 		</aiYieldUpkeep>
 	</Entry>
 	<Entry>
@@ -76,6 +80,19 @@
 		<zType>EFFECTPLAYER_NATION_GREECE</zType>
 		<Name>TEXT_EFFECTPLAYER_NATION_GREECE</Name>
 		<SourceNation>NATION_GREECE</SourceNation>
+		<EffectPlayer>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</EffectPlayer>
 		<EffectCity>EFFECTCITY_NATION_GREECE</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_ASSYRIA</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_ASSYRIA</Name>
+		<SourceNation>NATION_ASSYRIA</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
+		<aiUnitKillYield>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiUnitKillYield>
 	</Entry>
 </Root>

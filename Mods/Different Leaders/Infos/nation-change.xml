@@ -31,7 +31,7 @@
 	</Entry>
 	<Entry>
 		<zType>NATION_ASSYRIA</zType>
-		<Name>TEXT_NATION_ASSYRIA</Name>
+		<Name>TEXT_NATION_PARTHIA</Name>
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<Crest>CREST_NATION_ASSYRIA</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
@@ -39,33 +39,42 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_ASSYRIA_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_ASSYRIA_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_ASSYRIA_URBAN</UrbanAsset>
-		<Founder>CHARACTER_ASHURBANIPAL</Founder>
-		<FirstRuler>CHARACTER_ASHURBANIPAL</FirstRuler>
+		<Founder>CHARACTER_ORODES</Founder>
+		<FirstRuler>CHARACTER_ORODES</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_ASSYRIA</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_ASSYRIA</MapElementNames>
 		<iFirstBuildPercent>40</iFirstBuildPercent>
 		<aiStartUnit>
 			<Pair>
-				<zIndex>UNIT_SLINGER</zIndex>
+				<zIndex>UNIT_HORSE_ARCHER</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_BABYLONIA</zIndex>
-				<iValue>-50</iValue>
+				<iValue>-40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<iValue>-40</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
 			<zValue>TECH_TRAPPING</zValue>
 			<zValue>TECH_ADMINISTRATION</zValue>
 			<zValue>TECH_SOVEREIGNTY</zValue>
+			<zValue>TECH_DIVINATION</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
-				<zValue>LAW_PRIMOGENITURE</zValue>
+				<zValue>LAW_DYNASTIC</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_TYRANNY_CONSTITUTION</zIndex>
+				<zValue>LAW_TYRANNY</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>
@@ -94,6 +103,11 @@
 			<zValue>NAME_TUKULTI_WAR</zValue>
 			<zValue>NAME_USHPIA</zValue>
 			<zValue>NAME_ZUBIR</zValue>
+			<zValue>NAME_ORODES</zValue>
+			<zValue>NAME_PHRAATES</zValue>
+			<zValue>NAME_PACORUS</zValue>
+			<zValue>NAME_PHRAATACES</zValue>
+			<zValue>NAME_VONONES</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_ADDATI</zValue>
@@ -120,8 +134,16 @@
 			<zValue>NAME_TASHMETU_SHARRAT</zValue>
 			<zValue>NAME_YABA</zValue>
 			<zValue>NAME_ZARPANITU</zValue>
+			<zValue>NAME_MUSA</zValue>
 		</aeFirstNamesFemale>
 		<aeCityNames>
+			<zValue>CITYNAME_CTESIPHON</zValue>
+			<zValue>CITYNAME_ECBATANA</zValue>
+			<zValue>CITYNAME_HECATOMPYLOS</zValue>
+			<zValue>CITYNAME_SUSA</zValue>
+			<zValue>CITYNAME_MITHRADATKIRT</zValue>
+			<zValue>CITYNAME_ASAAK</zValue>
+			<zValue>CITYNAME_RHAGES</zValue>
 			<zValue>CITYNAME_ASSUR</zValue>
 			<zValue>CITYNAME_NINEVEH</zValue>
 			<zValue>CITYNAME_KALHU</zValue>
@@ -175,7 +197,7 @@
 			<zValue>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_ASSYRIA_STORY</Story>
+		<Story>TEXT_NATION_PARTHIA_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_BABYLONIA</zType>
@@ -202,7 +224,11 @@
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ASSYRIA</zIndex>
-				<iValue>-50</iValue>
+				<iValue>-40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<iValue>-40</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
@@ -974,10 +1000,8 @@
 			<zValue>NAME_MAZYAR</zValue>
 			<zValue>NAME_MEGABAZUS</zValue>
 			<zValue>NAME_MITHRIDATES</zValue>
-			<zValue>NAME_ORODES</zValue>
 			<zValue>NAME_OXATHRES</zValue>
 			<zValue>NAME_PHARNASPES</zValue>
-			<zValue>NAME_PHRAATES</zValue>
 			<zValue>NAME_SHAPUR</zValue>
 			<zValue>NAME_SMERDIS</zValue>
 			<zValue>NAME_SUKHRA</zValue>
@@ -1019,9 +1043,7 @@
 		</aeFirstNamesFemale>
 		<aeCityNames>
 			<zValue>CITYNAME_PERSEPOLIS</zValue>
-			<zValue>CITYNAME_SUSA</zValue>
 			<zValue>CITYNAME_PASARGADAE</zValue>
-			<zValue>CITYNAME_ECBATANA</zValue>
 			<zValue>CITYNAME_ANSHAN</zValue>
 			<zValue>CITYNAME_SARDIS</zValue>
 			<zValue>CITYNAME_TARSUS</zValue>
@@ -1129,8 +1151,8 @@
 				<zValue>LAW_PRIMOGENITURE</zValue>
 			</Pair>
 			<Pair>
-				<zIndex>LAWCLASS_SLAVERY_FREEDOM</zIndex>
-				<zValue>LAW_FREEDOM</zValue>
+				<zIndex>LAWCLASS_CENTRALIZATION_VASSALAGE</zIndex>
+				<zValue>LAW_VASSALAGE</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>

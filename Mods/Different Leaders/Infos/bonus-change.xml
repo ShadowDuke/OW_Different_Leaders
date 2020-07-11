@@ -878,7 +878,7 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>25</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<azNationAdjectivesMale/>
+		<azNationAdjectivesFemale/>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CTESIPHON</zType>
+		<zName>Ctesiphon</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HECATOMPYLOS</zType>
+		<zName>Hecatompylos</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MITHRADATKIRT</zType>
+		<zName>Mithradatkirt</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ASAAK</zType>
+		<zName>Asaak</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_RHAGES</zType>
+		<zName>Rhages</zName>
+	</Entry>
+</Root>

@@ -9,4 +9,20 @@
 		<zType>TEXT_EVENTSTORY_DEATH_OF_KLEOMENES_TITLE</zType>
 		<English>Death of Kleomenes</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE_TITLE</zType>
+		<English>Pacorus killed in battle</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORODES_MURDERED_TITLE</zType>
+		<English>Orodes murdered</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED_TITLE</zType>
+		<English>Phraates poisoned</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA_TITLE</zType>
+		<English>Mark Antony and Cleopetra</English>
+	</Entry>
 </Root>

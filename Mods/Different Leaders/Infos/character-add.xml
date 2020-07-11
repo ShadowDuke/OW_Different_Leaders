@@ -203,7 +203,7 @@
 		<Nation>NATION_ROME</Nation>
 		<Mother>CHARACTER_ATIA</Mother>
 		<Portrait>CHARACTER_PORTRAIT_OCTAVIA</Portrait>
-		<iAge>44</iAge>
+		<iAge>34</iAge>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
@@ -219,7 +219,7 @@
 		<Nation>NATION_ROME</Nation>
 		<Spouse>CHARACTER_OCTAVIA</Spouse>
 		<Portrait>CHARACTER_PORTRAIT_ANTONIUS</Portrait>
-		<iAge>47</iAge>
+		<iAge>44</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_SWIFT</zValue>
@@ -227,7 +227,6 @@
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
-			<zValue>TRAIT_ANTONIUS_CLEOPATRA</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -497,6 +496,112 @@
 		<iAge>4</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+		</aeTraits>
+	</Entry>
+	
+	<Entry>
+		<zType>CHARACTER_ORODES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_ORODES</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_ORODES</Portrait>
+		<iAge>55</iAge>
+		<aeTraits>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+			<zValue>TRAIT_INTOLERANT</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_PACORUS</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_PACORUS</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Father>CHARACTER_ORODES</Father>
+		<Spouse>CHARACTER_BALHITI</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_PACORUS</Portrait>
+		<iAge>37</iAge>
+		<aeTraits>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+			<zValue>TRAIT_BRAVE</zValue>
+			<zValue>TRAIT_BOLD</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_PHRAATES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_PHRAATES</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Father>CHARACTER_ORODES</Father>
+		<Spouse>CHARACTER_MUSA</Spouse>
+		<Portrait>CHARACTER_PORTRAIT_PHRAATES</Portrait>
+		<iAge>30</iAge>
+		<aeTraits>
+			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_TOUGH</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_MUSA</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_MUSA</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_MUSA</Portrait>
+		<iAge>27</iAge>
+		<aeTraits>
+			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_INSANE</zValue>
+			<zValue>TRAIT_POISONER</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_PHRAATACES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_PHRAATACES</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Father>CHARACTER_PHRAATES</Father>
+		<Mother>CHARACTER_MUSA</Mother>
+		<Portrait>CHARACTER_PORTRAIT_PHRAATACES</Portrait>
+		<iAge>8</iAge>
+		<aeTraits>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_HUMBLE</zValue>
+			<zValue>TRAIT_ELOQUENT</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_VONONES</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_VONONES</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Father>CHARACTER_PHRAATES</Father>
+		<Portrait>CHARACTER_PORTRAIT_VONONES</Portrait>
+		<iAge>12</iAge>
+		<aeTraits>
+			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
+			<zValue>TRAIT_EDUCATED</zValue>
+			<zValue>TRAIT_FOOLISH</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_BALHITI</zType>
+		<Gender>GENDER_FEMALE</Gender>
+		<FirstName>NAME_BALHITI</FirstName>
+		<Nation>NATION_ASSYRIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_BALHITI</Portrait>
+		<iAge>35</iAge>
+		<aeTraits>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
+			<zValue>TRAIT_BEAUTIFUL</zValue>
 		</aeTraits>
 	</Entry>
 </Root>

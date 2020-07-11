@@ -36,9 +36,8 @@
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_ANTONIUS_CLEOPATRA</zType>
-		<Name>TEXT_TRAIT_ANTONIUS_CLEOPATRA</Name>
-		<iDieProb>25</iDieProb>
-		<bNoEvents>1</bNoEvents>
+		<zType>TRAIT_NO_HEIR</zType>
+		<Name>TEXT_TRAIT_NO_HEIR</Name>
+		<bNoHeir>1</bNoHeir>
 	</Entry>
 </Root>

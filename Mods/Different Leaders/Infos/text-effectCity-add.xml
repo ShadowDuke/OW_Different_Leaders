@@ -9,4 +9,9 @@
 		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
 		<English>Sparta</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
+		<English>Parthia</English>
+	</Entry>
+	
 </Root>

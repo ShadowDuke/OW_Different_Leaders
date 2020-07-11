@@ -9,4 +9,22 @@
 		<zType>TEXT_EVENTSTORY_DEATH_OF_KLEOMENES</zType>
 		<English>In his madness he took his own life,...or maybe he did not? We are never going to know.</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE</zType>
+		<English>Pacorus killed in battle invading Syria. He suffered a terrible defeat.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORODES_MURDERED</zType>
+		<English>Phraates murdered his own father, Orodes, also his own son and all his brothers to strengthen his position!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED</zType>
+		<English>Phraates was poisoned by his wife Musa, who was later also the wife of her son Phraatactes.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA</zType>
+		<English>Mark Antony committed suicide by stabbing himself with his sword in the mistaken belief that Cleopatra had already done so.
+
+When he found out that Cleopatra was still alive, his friends brought him to Cleopatra's monument in which she was hiding, and he died in her arms.</English>
+	</Entry>
 </Root>

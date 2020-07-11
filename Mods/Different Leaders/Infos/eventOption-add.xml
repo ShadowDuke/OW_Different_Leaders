@@ -15,4 +15,32 @@
 			<zValue>NONE</zValue>
 		</aeBonuses>
 	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_EVENTOPTION_ORODES_MURDERED_OPTION_0_CHARACTER_2</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_PHRAATES_POISONED_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_PHRAATES_POISONED_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</Text>
+		<aeBonuses>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
+		</aeBonuses>
+	</Entry>
 </Root>

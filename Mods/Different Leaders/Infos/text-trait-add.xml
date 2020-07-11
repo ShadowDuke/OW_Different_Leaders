@@ -18,7 +18,7 @@
 		<English>Darieus vanished</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_ANTONIUS_CLEOPATRA</zType>
-		<English>Going to commit suicide</English>
+		<zType>TEXT_TRAIT_NO_HEIR</zType>
+		<English>No heir</English>
 	</Entry>
 </Root>

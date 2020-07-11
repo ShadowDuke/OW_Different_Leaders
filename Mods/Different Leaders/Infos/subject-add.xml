@@ -102,11 +102,6 @@
 		<Character>CHARACTER_DARIUS</Character>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_ATOSSA</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<Character>CHARACTER_ATOSSA</Character>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_XERXES</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_XERXES</Character>
@@ -165,5 +160,40 @@
 		<zType>SUBJECT_EURYANAX</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_EURYANAX</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ORODES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ORODES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PHRAATES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_PHRAATES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MUSA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_MUSA</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PHRAATACES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_PHRAATACES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_VONONES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_VONONES</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PACORUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_PACORUS</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_BALHITI</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_BALHITI</Character>
 	</Entry>
 </Root>

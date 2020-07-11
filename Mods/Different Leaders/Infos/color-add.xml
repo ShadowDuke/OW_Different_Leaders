@@ -79,6 +79,78 @@
 		<zHexValue>#8ad04b</zHexValue>
 	</Entry>
 	<Entry>
+		<zType>COLOR_NATION_ASSYRIA</zType>
+		<zName>Parthia</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#fadc3b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_TEXT</zType>
+		<zName>Parthia Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#fadc3b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_01</zType>
+		<zName>Parthia Family 1</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ab552b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_01_TEXT</zType>
+		<zName>Parthia Family 1 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#ab552b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_02</zType>
+		<zName>Parthia Family 2</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#9d3012</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_02_TEXT</zType>
+		<zName>Parthia Family 2 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#9d3012</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_03</zType>
+		<zName>Parthia Family 3</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#887d34</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_03_TEXT</zType>
+		<zName>Parthia Family 3 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#887d34</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_04</zType>
+		<zName>Parthia Family 4</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#b8474a</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_04_TEXT</zType>
+		<zName>Parthia Family 4 Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#b8474a</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_NONE</zType>
+		<zName>Parthia Family None</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#4f83c3</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_NONE_TEXT</zType>
+		<zName>Parthia Family None Text</zName>
+		<ColorClass>COLORCLASS_NATIONS</ColorClass>
+		<zHexValue>#4f83c3</zHexValue>
+	</Entry>
+	<Entry>
 		<zType>COLOR_RATING_FAME</zType>
 		<zName>Fame</zName>
 		<ColorClass>COLORCLASS_RATINGS</ColorClass>

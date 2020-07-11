@@ -1851,8 +1851,38 @@
 		<zType>EFFECTCITY_NATION_ASSYRIA</zType>
 		<Name>TEXT_EFFECTCITY_NATION_ASSYRIA</Name>
 		<SourceNation>NATION_ASSYRIA</SourceNation>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiImprovementModifier>
+			<Pair>
+				<zIndex>IMPROVEMENT_FARM</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_PASTURE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_GROVE</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_NETS</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiImprovementModifier>
+		<aiUnitCostModifier>
+			<Pair>
+				<zIndex>UNIT_HORSE_ARCHER</zIndex>
+				<iValue>-25</iValue>
+			</Pair>
+		</aiUnitCostModifier>
 		<aeFreePromotion>
-			<zValue>PROMOTION_FOCUS1</zValue>
+			<zValue>PROMOTION_MARKSMAN</zValue>
 		</aeFreePromotion>
 	</Entry>
 	<Entry>
@@ -1888,15 +1918,21 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>15</iValue>
+				<iValue>25</iValue>
 			</Pair>
 		</aiYieldModifier>
 		<aiUnitCostModifier>
 			<Pair>
-				<zIndex>UNIT_WARRIOR</zIndex>
+				<zIndex>UNIT_AXEMAN</zIndex>
 				<iValue>-25</iValue>
 			</Pair>
 		</aiUnitCostModifier>
+		<aiUnitTraitCostModifier>
+			<Pair>
+				<zIndex>UNITTRAIT_ELEPHANT</zIndex>
+				<iValue>-25</iValue>
+			</Pair>
+		</aiUnitTraitCostModifier>
 		<aeFreePromotion>
 			<zValue>PROMOTION_COMBAT1</zValue>
 		</aeFreePromotion>
@@ -1924,7 +1960,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>20</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiUnitCostModifier>
@@ -1934,7 +1970,7 @@
 			</Pair>
 		</aiUnitCostModifier>
 		<aeFreePromotion>
-			<zValue>PROMOTION_GUARD1</zValue>
+			<zValue>PROMOTION_GUARD2</zValue>
 		</aeFreePromotion>
 	</Entry>
 	<Entry>

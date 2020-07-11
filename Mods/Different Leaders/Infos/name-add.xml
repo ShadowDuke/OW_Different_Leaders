@@ -73,4 +73,20 @@
 		<zType>NAME_EURYANAX</zType>
 		<zName>Euryanax</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_PACORUS</zType>
+		<zName>Pacorus</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_MUSA</zType>
+		<zName>Musa</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_PHRAATACES</zType>
+		<zName>Phraataces</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_VONONES</zType>
+		<zName>Vonones</zName>
+	</Entry>
 </Root>

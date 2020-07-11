@@ -9,4 +9,20 @@
 		<zType>TEXT_EVENTOPTION_DEATH_OF_KLEOMENES</zType>
 		<English>Is that true?</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zType>
+		<English>Troubling News!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
+		<English>Cruel!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_PHRAATES_POISONED_OPTION_0</zType>
+		<English>Toxic!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zType>
+		<English>Tragical!</English>
+	</Entry>
 </Root>
