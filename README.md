@@ -192,9 +192,8 @@ More Diversity with interesting leaders/characters and surprising events/outcome
          
          - Son: Phraataces, 8 Years old, Diplomat, Eloquent, Humble
          - Son: Vonones, 12 Years old, Judge, Foolish, Educated
-      
 <br><br>
-- +5 Money peR Unit killed
+- +5 Money per Unit killed
 - All Cities: +3 Food per Year
 - Farms and Pestures: +50 % Output
 - Groves & Nets: +25% Output
