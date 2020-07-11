@@ -396,12 +396,12 @@
 		</aeTraits>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_KLEOMENES</zType>
+		<zType>CHARACTER_CLEOMENES</zType>
 		<Gender>GENDER_MALE</Gender>
-		<FirstName>NAME_KLEOMENES</FirstName>
+		<FirstName>NAME_CLEOMENES</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
-		<Portrait>CHARACTER_PORTRAIT_KLEOMENES</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_CLEOMENES</Portrait>
 		<iAge>46</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -430,7 +430,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_GORGO</FirstName>
 		<Nation>NATION_GREECE</Nation>
-		<Father>CHARACTER_KLEOMENES</Father>
+		<Father>CHARACTER_CLEOMENES</Father>
 		<Portrait>CHARACTER_PORTRAIT_GORGO</Portrait>
 		<iAge>27</iAge>
 		<aeTraits>

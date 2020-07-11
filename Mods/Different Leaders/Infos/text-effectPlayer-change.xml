@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
+		<Translation>Pyramidsn Erbauer</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_GREECE</zType>
+		<Translation>Sparta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_ASSYRIA</zType>
+		<Translation>Parther</Translation>
+	</Entry>
+</Root>

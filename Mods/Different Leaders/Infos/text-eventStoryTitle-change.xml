@@ -2,27 +2,30 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<Translation/>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR_TITLE</zType>
-		<English>Death of Hamilcar</English>
+		<Translation>Tot des Hamilkar</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES_TITLE</zType>
-		<English>Death of Cleomenes</English>
+		<Translation>Tot des Kleomenes </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE_TITLE</zType>
-		<English>Pacorus killed in battle</English>
+		<Translation>Pakoros in der Schlacht getötet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORODES_MURDERED_TITLE</zType>
-		<English>Orodes murdered</English>
+		<Translation>Orodes ermordet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED_TITLE</zType>
-		<English>Phraates poisoned</English>
+		<Translation>Phraates vergiftet</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA_TITLE</zType>
-		<English>Mark Antony and Cleopetra</English>
+		<Translation>Marcus Antonius und Cleopatra</Translation>
 	</Entry>
 </Root>

@@ -556,7 +556,7 @@
     </azAgeGroupSpriteNames>
   </Entry>
   <Entry>
-    <zType>CHARACTER_PORTRAIT_KLEOMENES</zType>
+    <zType>CHARACTER_PORTRAIT_CLEOMENES</zType>
     <Gender>GENDER_MALE</Gender>
     <azAgeGroupSpriteNames>
       <Pair>

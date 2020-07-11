@@ -9,8 +9,8 @@
 		</aeBonuses>
 	</Entry>
 	<Entry>
-		<zType>EVENTOPTION_DEATH_OF_KLEOMENES</zType>
-		<Text>TEXT_EVENTOPTION_DEATH_OF_KLEOMENES</Text>
+		<zType>EVENTOPTION_DEATH_OF_CLEOMENES</zType>
+		<Text>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES</Text>
 		<aeBonuses>
 			<zValue>NONE</zValue>
 		</aeBonuses>

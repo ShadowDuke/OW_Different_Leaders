@@ -2,15 +2,18 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<Translation/>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<Translation>Pyramidsn Erbauer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
-		<English>Sparta</English>
+		<Translation>Sparta</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
-		<English>Parthia</English>
+		<Translation>Parther</Translation>
 	</Entry>
 </Root>

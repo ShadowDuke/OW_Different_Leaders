@@ -2,27 +2,30 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<Translation/>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR</zType>
-		<English>Troubling news.</English>
+		<Translation>Beunruhigende Neuigkeiten.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES</zType>
-		<English>Is that true?</English>
+		<Translation>Ist das wahr?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zType>
-		<English>Troubling News!</English>
+		<Translation>Beunruhigende Neuigkeiten!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
-		<English>Cruel!</English>
+		<Translation>Grausam!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PHRAATES_POISONED_OPTION_0</zType>
-		<English>Toxic!</English>
+		<Translation>Toxisch!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zType>
-		<English>Tragical!</English>
+		<Translation>Tragisch!</Translation>
 	</Entry>
 </Root>

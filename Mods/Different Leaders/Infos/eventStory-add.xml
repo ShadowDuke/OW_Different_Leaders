@@ -25,21 +25,21 @@
 		<iRepeatTurns>-1</iRepeatTurns>
 	</Entry>
 	<Entry>
-		<zType>EVENTSTORY_DEATH_OF_KLEOMENES</zType>
-		<Name>TEXT_EVENTSTORY_DEATH_OF_KLEOMENES_TITLE</Name>
-		<Text>TEXT_EVENTSTORY_DEATH_OF_KLEOMENES</Text>
+		<zType>EVENTSTORY_DEATH_OF_CLEOMENES</zType>
+		<Name>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
-			<zValue>SUBJECT_KLEOMENES</zValue>
+			<zValue>SUBJECT_CLEOMENES</zValue>
 			<zValue>SUBJECT_PLAYER_GREECE</zValue>
 		</aeSubjects>
 		<aeBonuses>
 			<zValue>BONUS_KILL_CHARACTER</zValue>
 		</aeBonuses>
 		<aeOptions>
-			<zValue>EVENTOPTION_DEATH_OF_KLEOMENES</zValue>
+			<zValue>EVENTOPTION_DEATH_OF_CLEOMENES</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iMinTurns>0</iMinTurns>

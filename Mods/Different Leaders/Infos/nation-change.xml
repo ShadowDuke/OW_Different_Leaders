@@ -722,7 +722,7 @@
 		<CityAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_GREECE_URBAN</UrbanAsset>
 		<Founder>CHARACTER_ANAXANDRIDAS</Founder>
-		<FirstRuler>CHARACTER_KLEOMENES</FirstRuler>
+		<FirstRuler>CHARACTER_CLEOMENES</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_GREECE</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_GREECE</MapElementNames>
@@ -812,7 +812,7 @@
 			<zValue>NAME_SELEUCUS</zValue>
 			<zValue>NAME_SOPOLIS</zValue>
 			<zValue>NAME_THEMISTOCLES</zValue>
-			<zValue>NAME_KLEOMENES</zValue>
+			<zValue>NAME_CLEOMENES</zValue>
 			<zValue>NAME_ANAXANDRIDAS</zValue>
 			<zValue>NAME_KLEOMBROTOS</zValue>
 			<zValue>NAME_DORIEUS</zValue>

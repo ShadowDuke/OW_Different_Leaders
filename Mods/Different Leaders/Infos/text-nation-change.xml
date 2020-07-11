@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_SPARTA</zType>
+		<Translation>Sparta~Spartaner~Spartaner</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PARTHIA</zType>
+		<Translation>Parther~Parther~Parther</Translation>
+	</Entry>
+</Root>

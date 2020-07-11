@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_EURYPONTID</zType>
+		<Translation>Eurypontid~Eurypontidsn~Eurypontid</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_ARSACID</zType>
+		<Translation>Arsakid~Arsakiden~Arsakid</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_CHOSROID</zType>
+		<Translation>Chosroid~Chosroiden~Chosroid</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_DABUYID</zType>
+		<Translation>Dabuyid~Dabuyiden~Dabuyid</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILY_BAVANDID</zType>
+		<Translation>Bavandid~Bawandiden~Bavandid</Translation>
+	</Entry>
+</Root>
