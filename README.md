@@ -82,10 +82,10 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 
 - Has 1 sister
    - **Octavia** 
-      - 44 Years old
+      - 34 Years old
       - Archetpye: Judge
       - Trait: Loyal, Compassionate, Beautifil & Humble
-      - Spouse: Mark Antony, 47 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
+      - Spouse: Mark Antony, 44 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
       - Daughter: Antonia, 6 Years Old
       
 - Has 2 childs
