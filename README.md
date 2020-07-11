@@ -34,8 +34,8 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - Trait: Honest
 <br><br>
 - +5 Training/Year
-- New Cities: +25 Training
-- All Cities: +15% Training, -25% Cost for Warriors & New Units start with Combat I
+- New Cities: +50 Training
+- All Cities: +25% Training, -25% Cost for Axemen, -25% Cost for Elephant Units & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking, Military Drill & Steel
 - Starting Laws: Dynastic & Freedom
 
@@ -64,7 +64,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - Trait: Bastard, Pyramids Builder & Robust
 <br><br>
 - On Start: +500 Stone
-- +3 Stone per City per Year
+- +3 Stone er City per Year & +1 Growth per City per Year 
 - All Cities: +50% from Farm on River & +50% from Quarry on River
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
 - Starting Laws: Dynastic & Slavery
@@ -102,7 +102,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - +3 Civics per City per Year
 - All Cities: +2 Civics/Year & +2 Culture/Year
 - Starting Techs: Ironworking, Divination, Aristocracy & Administration
-- Starting Laws: Primogeniture & Freedom
+- Starting Laws: Primogeniture & Vassalage
 
 
 ## [Persia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Persia)
@@ -160,10 +160,11 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - 8 Years old
       - Archetype: Commander
 <br><br>
+- Unlocks Decree in Capital
 - -10% Chance/Year of Rebel Units
 - -25% Cost for Spearmen
-- New Units start with Guard 1
-- All Cities: +2 Training/Year
+- New Units start with Guard II
+- All Cities: +5 Training/Year
 - Starting Techs: Ironworking, Stoonecutting, Labor Force & Trapping
 - Starting Laws: Lateral & Freedom
 - New Family name: Eurypontids
