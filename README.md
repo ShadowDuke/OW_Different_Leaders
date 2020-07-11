@@ -17,21 +17,21 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 **Hamilcar** (Barca)<br>
 - 36 Years old
 - Archetype: Commander
-- Trait: Eloquent, Prosperous, Robust, Tracker & Educated
+- Traits: Eloquent, Prosperous, Robust, Tracker & Educated
 <br><br>
 
 - Has 3 sons
    - **Hasdrubal** (Heir)
       - 18 Years old
       - Archetpye: Commander
-      - Trait: Righteous & Eagle Eye
+      - Traits: Righteous & Eagle Eye
    - **Hannibal**
       - 13 Years old
       - Archetype: Hero
-      - Trait: Drillmaster, Strict, Warlike & Famous Person
+      - Traits: Drillmaster, Strict, Warlike & Famous Person
    - **Mago**
       - 10 Years old
-      - Trait: Honest
+      - Traits: Honest
 <br><br>
 - +5 Training/Year
 - New Cities: +50 Training
@@ -44,7 +44,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 **Sneferu**<br>
 - 37 Years old
 - Archetype: Builder
-- Trait: Famous Person, Pyramids Builder, Righteous & Divine
+- Traits: Famous Person, Pyramids Builder, Righteous & Divine
 - Wife: Hetepheres, 36 Years old, Diplomat, Humble
 <br><br>
 
@@ -52,16 +52,16 @@ More Diversity with interesting leaders/characters and surprising events/outcome
    - **Cheops** (Heir)
       - 18 Years old
       - Archetpye: Builder
-      - Trait: Pyramids Builder, Famous Person & Prosperous
+      - Traits: Pyramids Builder, Famous Person & Prosperous
    - **Rahotep**
       - 18 Years old
       - Archetype: Scholar
-      - Trait: Bastard
+      - Traits: Bastard
       - Wife: Nofret, 21 Years old, Orator, Intelligent
    - **Nefermaat**
       - 19 Years old
       - Archetype: Builder
-      - Trait: Bastard, Pyramids Builder & Robust
+      - Traits: Bastard, Pyramids Builder & Robust
 <br><br>
 - On Start: +500 Stone
 - +3 Stone er City per Year & +1 Growth per City per Year 
@@ -75,7 +75,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 **Augustus**<br>
 - 40 Years old
 - Archetype: Orator
-- Trait: Righteous, Robust, Famous Person & Adopted
+- Traits: Righteous, Robust, Famous Person & Adopted
 - Wife: Livia, 35 Years old, Schemer, Famous & Gracious
 - Mother: Atia, 66 Years Old, Orator & (hidden)
 <br><br>
@@ -84,7 +84,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
    - **Octavia** 
       - 34 Years old
       - Archetpye: Judge
-      - Trait: Loyal, Compassionate, Beautifil & Humble
+      - Traits: Loyal, Compassionate, Beautifil & Humble
       - Spouse: Mark Antony, 44 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
       - Daughter: Antonia, 6 Years Old
       
@@ -92,10 +92,10 @@ More Diversity with interesting leaders/characters and surprising events/outcome
    - **Tiberius** (Heir)
       - 19 Years old
       - Archetype: Hero
-      - Trait: Adopted, Warlike, Strict & Dealmaker
+      - Traits: Adopted, Warlike, Strict & Dealmaker
    - **Iulia**
       - 16 Years old
-      - Trait: Bastard, Educated, Beautiful & Eloquent
+      - Traits: Bastard, Educated, Beautiful & Eloquent
 <br><br>
 - -25% Start Law Cost
 - -25% Switch Law Cost
@@ -110,7 +110,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 **Xerxes**<br>
 - 33 Years old
 - Archetype: Zealot
-- Trait: Warlike, Cruel, Extravagant, Famous Person & Bloodthirsty
+- Traits: Warlike, Cruel, Extravagant, Famous Person & Bloodthirsty
 - Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
 - Father: Darius, 63 Years Old, Hero, Proud, Brave, Famous Person, Keen & (hidden)
 - Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent, Planter & (hidden)
@@ -138,7 +138,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 **Leonidas** (*at the 2nd turn*)<br>
 - 30 Years old
 - Archetype: Hero
-- Trait: Swift, Brave, Bold & Famous Person
+- Traits: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
    - Father: Kleomenes, 46 Years old, Commander & Bastard
 - Father: Anaxandridas, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
@@ -148,11 +148,11 @@ More Diversity with interesting leaders/characters and surprising events/outcome
    - **Kleombrotos** (eventual twin)
       - 30 Years old
       - Archetpye: Commander
-      - Trait: Eloquent, Drillmaster & Loyal
+      - Traits: Eloquent, Drillmaster & Loyal
    - **Dorieus** (half-brother)
       - 28 Years old
       - Archetpye: Tactician
-      - Trait: Robust, Greedy, Bitter, Vengeful & (hidden)
+      - Traits: Robust, Greedy, Bitter, Vengeful & (hidden)
       - Son: Euryanax, 4 Years old, Commander
       
 - Has 1 child
@@ -168,6 +168,42 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - Starting Techs: Ironworking, Stoonecutting, Labor Force & Trapping
 - Starting Laws: Lateral & Freedom
 - New Family name: Eurypontids
+
+
+## Assyria -> [Parthia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Parthia)
+
+**Orodes** (*at the 2nd turn*)<br>
+- 55 Years old
+- Archetype: Commander
+- Traits: Cruel, Bloodthirsty, Intolerant & Ruthless
+<br><br>
+
+- Has 2 sons
+   - **Pacorus** (Heir)
+      - 37 Years old
+      - Archetpye: Tactitian
+      - Traits: Brave & Bold
+      - Wife: Balihiti, 35 Years old, Diplomat, Beautiful, Exotic
+   - **Phraates** (half-brother)
+      - 30 Years old
+      - Archetpye: Schemer
+      - Traits: Cruel, Tough, Bold & Ruthless
+      - Wife: Musa, 27 Years old, Schemer, Bold, Ruthless, Exotic, Insane, Master of Poisons
+         
+         - Son: Phraataces, 8 Years old, Diplomat, Eloquent, Humble
+         - Son: Vonones, 12 Years old, Judge, Foolish, Educated
+      
+<br><br>
+- +5 Money peR Unit killed
+- All Cities: +3 Food per Year
+- Farms and Pestures: +50 % Output
+- Groves & Nets: +25% Output
+- -25% Cost for Horse Archers
+- New Units start with Marksman
+- Starting Techs: Trapping, Administration, Sovereignty & Divination
+- Starting Laws: Dynastic & Tyranny
+- New Family name: Arsacid (Clerics), Bavandid (Hunters), Chosroid (Patrons) & Dabuyid (Champions)
+
 
 ### New Traits
 
@@ -194,7 +230,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - [X] Add new Rome leader
 - [X] Add new Persia leader
 - [X] Add new Greece leader
-- [ ] Add new Assyria leader
+- [X] Add new Assyria leader
 - [ ] Add new Babylonia leader
 - [ ] Add new portraits for characters (done - but needs to be implemented)
 
