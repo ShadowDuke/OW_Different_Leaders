@@ -34,6 +34,7 @@
 			<zValue>TRAIT_ROBUST</zValue>
 			<zValue>TRAIT_TRACKER</zValue>
 			<zValue>TRAIT_EDUCATED</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -406,6 +407,7 @@
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_BASTARD</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -512,6 +514,7 @@
 			<zValue>TRAIT_BLOODTHIRSTY</zValue>
 			<zValue>TRAIT_INTOLERANT</zValue>
 			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
