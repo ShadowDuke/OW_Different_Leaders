@@ -727,7 +727,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_MALE_04_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_MALE_04_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -749,7 +749,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_MALE_07_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_MALE_07_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -771,7 +771,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_FEMALE_03_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_FEMALE_03_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -793,7 +793,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_MALE_11_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_MALE_11_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -815,7 +815,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_MALE_05_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_MALE_05_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -837,7 +837,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_MALE_13_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_MALE_13_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -859,7 +859,73 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ASSYRIA_LEADER_FEMALE_06_ADULT</zValue>
+        <zValue>ASSYRIA_LEADER_FEMALE_06_SENIOR</zValue>
+      </Pair>
+    </azAgeGroupSpriteNames>
+  </Entry>
+  <Entry>
+    <zType>CHARACTER_PORTRAIT_SIN_MUBALLIT</zType>
+    <Gender>GENDER_MALE</Gender>
+    <azAgeGroupSpriteNames>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+        <zValue>GENERIC_BABY_04</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_09_ADULT</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_09_SENIOR</zValue>
+      </Pair>
+    </azAgeGroupSpriteNames>
+  </Entry>
+  <Entry>
+    <zType>CHARACTER_PORTRAIT_HAMMURABI</zType>
+    <Gender>GENDER_MALE</Gender>
+    <azAgeGroupSpriteNames>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+        <zValue>GENERIC_BABY_02</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_04_ADULT</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_04_ADULT</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_04_SENIOR</zValue>
+      </Pair>
+    </azAgeGroupSpriteNames>
+  </Entry>
+   <Entry>
+    <zType>CHARACTER_PORTRAIT_SAMSU_ILUNA</zType>
+    <Gender>GENDER_MALE</Gender>
+    <azAgeGroupSpriteNames>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+        <zValue>GENERIC_BABY_08</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_08_YOUTH</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_15_ADULT</zValue>
+      </Pair>
+      <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_15_SENIOR</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>

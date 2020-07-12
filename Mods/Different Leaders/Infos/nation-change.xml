@@ -209,8 +209,8 @@
 		<CapitalAsset>ASSET_VARIATION_CITY_BABYLONIA_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_BABYLONIA_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_BABYLONIA_URBAN</UrbanAsset>
-		<Founder>CHARACTER_NEBUCHADNEZZAR</Founder>
-		<FirstRuler>CHARACTER_NEBUCHADNEZZAR</FirstRuler>
+		<Founder>CHARACTER_SIN_MUBALLIT</Founder>
+		<FirstRuler>CHARACTER_HAMMURABI</FirstRuler>
 		<FirstBuild>UNIT_SETTLER</FirstBuild>
 		<EffectPlayer>EFFECTPLAYER_NATION_BABYLONIA</EffectPlayer>
 		<MapElementNames>MAP_ELEMENT_NAMES_FOR_BABYLONIA</MapElementNames>
@@ -218,6 +218,10 @@
 		<aiStartUnit>
 			<Pair>
 				<zIndex>UNIT_SLINGER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_BIREME</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
@@ -232,14 +236,20 @@
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
-			<zValue>TECH_TRAPPING</zValue>
 			<zValue>TECH_ADMINISTRATION</zValue>
 			<zValue>TECH_RHETORIC</zValue>
+			<zValue>TECH_IRONWORKING</zValue>
+			<zValue>TECH_LABOR_FORCE</zValue>
+			<zValue>TECH_NAVIGATION</zValue>
 		</aeStartingTech>
 		<aeStartingLaw>
 			<Pair>
 				<zIndex>LAWCLASS_ORDER</zIndex>
-				<zValue>LAW_PRIMOGENITURE</zValue>
+				<zValue>LAW_DYNASTIC</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAWCLASS_COLONIZATION_SERFDOM</zIndex>
+				<zValue>LAW_COLONIZATION</zValue>
 			</Pair>
 		</aeStartingLaw>
 		<aeFirstNamesMale>
@@ -268,6 +278,7 @@
 			<zValue>NAME_SIN_MUBALLIT</zValue>
 			<zValue>NAME_SU_ABU</zValue>
 			<zValue>NAME_ULAMBURIASH</zValue>
+			<zValue>NAME_SAMSU_ILUNA</zValue>
 		</aeFirstNamesMale>
 		<aeFirstNamesFemale>
 			<zValue>NAME_AHATSUNU</zValue>

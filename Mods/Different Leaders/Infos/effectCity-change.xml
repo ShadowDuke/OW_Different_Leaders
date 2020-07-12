@@ -1892,6 +1892,14 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
@@ -1901,12 +1909,33 @@
 				<iValue>20</iValue>
 			</Pair>
 		</aiYieldModifier>
+		<aiUnitCostModifier>
+			<Pair>
+				<zIndex>UNIT_CIMMERIAN_ARCHER</zIndex>
+				<iValue>-25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_AKKADIAN_ARCHER</zIndex>
+				<iValue>-25</iValue>
+			</Pair>
+		</aiUnitCostModifier>
 		<aaiEffectCityYieldRate>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_CULTURE</zSubIndex>
 					<iValue>20</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_FESTIVAL</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_DISCONTENT</zSubIndex>
+					<iValue>-5</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>

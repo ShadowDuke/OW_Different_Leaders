@@ -7,22 +7,22 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramidsn Erbauer</English>
+		<Translation>Pyramidsn Erbauer</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<English>Berühmte Persönlichkeit</English>
+		<Translation>Berühmte Persönlichkeit</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OLD_RULER</zType>
-		<English>Alter Herrscher</English>
+		<Translation>Alter Herrscher</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DARIEUS_VANISHED</zType>
-		<English>Darieus verschwunden</English>
+		<Translation>Darieus verschwunden</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NO_HEIR</zType>
-		<English>Kein Erbe</English>
+		<Translation>Kein Erbe</Translation>
 	</Entry>
 </Root>

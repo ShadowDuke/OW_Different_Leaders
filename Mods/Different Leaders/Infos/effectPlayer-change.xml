@@ -95,4 +95,11 @@
 			</Pair>
 		</aiUnitKillYield>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_BABYLONIA</zType>
+		<Name>TEXT_EFFECTPLAYER_NATION_BABYLONIA</Name>
+		<SourceNation>NATION_BABYLONIA</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_BABYLONIA</EffectCity>
+		<iSwitchLawModifier>-25</iSwitchLawModifier>
+	</Entry>
 </Root>

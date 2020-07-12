@@ -89,4 +89,8 @@
 		<zType>NAME_VONONES</zType>
 		<zName>Vonones</zName>
 	</Entry>
+	<Entry>
+		<zType>NAME_SAMSU_ILUNA</zType>
+		<zName>Samsu-iluna</zName>
+	</Entry>
 </Root>

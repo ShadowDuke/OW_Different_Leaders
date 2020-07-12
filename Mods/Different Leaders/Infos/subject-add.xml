@@ -196,4 +196,19 @@
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_BALHITI</Character>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_SIN_MUBALLIT</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_SIN_MUBALLIT</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HAMMURABI</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_HAMMURABI</Character>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_SAMSU_ILUNA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_SAMSU_ILUNA</Character>
+	</Entry>
 </Root>

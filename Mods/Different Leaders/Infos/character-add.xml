@@ -604,4 +604,50 @@
 			<zValue>TRAIT_BEAUTIFUL</zValue>
 		</aeTraits>
 	</Entry>
+	<Entry>
+		<zType>CHARACTER_SIN_MUBALLIT</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_SIN_MUBALLIT</FirstName>
+		<Nation>NATION_BABYLONIA</Nation>
+		<Portrait>CHARACTER_PORTRAIT_SIN_MUBALLIT</Portrait>
+		<iAge>52</iAge>
+		<aeTraits>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+			<zValue>TRAIT_VIGILANT</zValue>
+			<zValue>TRAIT_KEEN</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
+			<zValue>TRAIT_INTELLIGENT</zValue>
+			<zValue>TRAIT_OLD_RULER</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_HAMMURABI</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_HAMMURABI</FirstName>
+		<Nation>NATION_BABYLONIA</Nation>
+		<Father>CHARACTER_SIN_MUBALLIT</Father>
+		<Portrait>CHARACTER_PORTRAIT_HAMMURABI</Portrait>
+		<iAge>20</iAge>
+		<aeTraits>
+			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
+			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+			<zValue>TRAIT_AFFABLE</zValue>
+			<zValue>TRAIT_EDUCATED</zValue>
+			<zValue>TRAIT_DIVINE</zValue>
+			<zValue>TRAIT_GRACIOUS</zValue>
+			<zValue>TRAIT_FAMOUS</zValue>
+		</aeTraits>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_SAMSU_ILUNA</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_SAMSU_ILUNA</FirstName>
+		<Nation>NATION_BABYLONIA</Nation>
+		<Father>CHARACTER_HAMMURABI</Father>
+		<Portrait>CHARACTER_PORTRAIT_SAMSU_ILUNA</Portrait>
+		<iAge>1</iAge>
+		<aeTraits>
+			<zValue>TRAIT_COMPASSIONATE</zValue>
+		</aeTraits>
+	</Entry>
 </Root>
