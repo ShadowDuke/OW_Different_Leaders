@@ -5,11 +5,11 @@
 		<Translation/>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR</zType>
+		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zType>
 		<Translation>Beunruhigende Neuigkeiten.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES</zType>
+		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zType>
 		<Translation>Ist das wahr?</Translation>
 	</Entry>
 	<Entry>

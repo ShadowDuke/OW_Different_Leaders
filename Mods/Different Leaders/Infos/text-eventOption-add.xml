@@ -2,11 +2,11 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR</zType>
+		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zType>
 		<English>Troubling news.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES</zType>
+		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zType>
 		<English>Is that true?</English>
 	</Entry>
 	<Entry>

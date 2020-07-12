@@ -2,17 +2,17 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
-		<zType>EVENTOPTION_DEATH_OF_HAMILCAR</zType>
-		<Text>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR</Text>
+		<zType>EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</Text>
 		<aeBonuses>
-			<zValue>NONE</zValue>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>
-		<zType>EVENTOPTION_DEATH_OF_CLEOMENES</zType>
-		<Text>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES</Text>
+		<zType>EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</Text>
 		<aeBonuses>
-			<zValue>NONE</zValue>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>
@@ -26,7 +26,7 @@
 		<zType>EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
 		<Text>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</Text>
 		<aeBonuses>
-			<zValue>BONUS_EVENTOPTION_ORODES_MURDERED_OPTION_0_CHARACTER_2</zValue>
+			<zValue>BONUS_KILL_CHARACTER</zValue>
 		</aeBonuses>
 	</Entry>
 	<Entry>

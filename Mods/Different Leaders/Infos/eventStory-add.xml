@@ -9,20 +9,31 @@
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
+			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_HAMILCAR</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
+			<zValue>SUBJECT_PLAYER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_CARTHAGE</zValue>
 		</aeSubjects>
-		<aeBonuses>
-			<zValue>BONUS_KILL_CHARACTER</zValue>
-		</aeBonuses>
+		<SubjectExtras>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_COMMANDER</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_MALE</Second>
+			</Pair>
+		</SubjectExtras>
 		<aeOptions>
-			<zValue>EVENTOPTION_DEATH_OF_HAMILCAR</zValue>
+			<zValue>EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>6</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_DEATH_OF_CLEOMENES</zType>
@@ -32,20 +43,35 @@
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
+			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_CLEOMENES</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
+			<zValue>SUBJECT_PLAYER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_GREECE</zValue>
 		</aeSubjects>
-		<aeBonuses>
-			<zValue>BONUS_KILL_CHARACTER</zValue>
-		</aeBonuses>
+		<SubjectExtras>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_COMMANDER</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_BASTARD</Second>
+			</Pair>
+		</SubjectExtras>
 		<aeOptions>
-			<zValue>EVENTOPTION_DEATH_OF_CLEOMENES</zValue>
+			<zValue>EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>0</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ORODES_MURDERED</zType>
@@ -56,23 +82,29 @@
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
-			<zValue>SUBJECT_CHARACTER_US</zValue>
+			<zValue>SUBJECT_ORODES</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
-				<First>1</First>
-				<Second>SUBJECT_ORODES</Second>
+				<First>0</First>
+				<Second>SUBJECT_COMMANDER</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_MALE</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
 			<zValue>EVENTOPTION_ORODES_MURDERED_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>7</iMinTurns> 
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
+		<bHidePrereqs>1</bHidePrereqs>
 	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PACORUS_KILLED_IN_BATTLE</zType>
@@ -85,6 +117,7 @@
 			<zValue>SUBJECT_HEIR_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_PACORUS</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
@@ -104,7 +137,7 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>6</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
@@ -121,6 +154,7 @@
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_PHRAATES</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
@@ -136,7 +170,7 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_PHRAATES_POISONED_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>18</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
@@ -153,6 +187,7 @@
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_ANTONIUS</zValue>
+			<zValue>SUBJECT_CHARACTER_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_ROME</zValue>
 		</aeSubjects>
 		<SubjectExtras>
@@ -168,7 +203,7 @@
 		<aeOptions>
 			<zValue>EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zValue>
 		</aeOptions>
-		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
 		<iMinTurns>10</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
