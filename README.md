@@ -204,6 +204,31 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - New Family name: Arsacid (Clerics), Bavandid (Hunters), Chosroid (Patrons) & Dabuyid (Champions)
 
 
+
+## [Babylonia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Babylonia)
+
+**Hammurabi** 
+- 20 Years old 
+- Archetype: Judge
+- Traits: Affable, Gracious, Educated, Famous, Divine & Famous Person
+- Father: Sin-Muballit, Tactitan, Vigilant, Keen, Righteous, Intelligent & (hidden)
+<br><br>
+
+- Has 1 son
+   - **Samsu-Iluna** (Heir)
+      - 1 Years old
+      - Archetpye: <none>
+      - Traits: Compassionate
+<br><br>
+- -25% Switch Law Cost
+- All Cities: +2 Civics, +1 Culture, +1 Science per Year & +20% Grwoth
+- Festivals: -0.5 Discontent
+- -25% Cost for Akkadian Archers
+- -25% Cost for Cimmerian Archers
+- Starting Techs: Administration, Rhetoric, Ironworking, Labor Force & Navigation
+- Starting Laws: Dynastic & Colonization
+
+
 ### New Traits
 
 - Pyramids Builder:
