@@ -119,7 +119,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - Has 2 childs
    - **Artaxerxes** (Heir)
       - 10 Years old
-      - Trait: Humnle, Compassionate & Gracious
+      - Trait: Humble, Compassionate & Gracious
    - **Amytis**
       - 7 Years old
       - Trait: Beautiful, Debauched & Extravagant
