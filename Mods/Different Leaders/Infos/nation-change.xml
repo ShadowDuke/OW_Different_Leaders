@@ -54,11 +54,11 @@
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_BABYLONIA</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
@@ -197,7 +197,7 @@
 			<zValue>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_ASSYRIA_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_PARTHIA_STORY</Story>
+		<Story>TEXT_NATION_PARTHIA_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_BABYLONIA</zType>
@@ -228,11 +228,11 @@
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ASSYRIA</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
@@ -361,7 +361,7 @@
 			<zValue>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_BABYLONIA_STORY</Story>
+		<Story>TEXT_NATION_BABYLONIA_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_CARTHAGE</zType>
@@ -556,7 +556,7 @@
 			<zValue>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_CARTHAGE_STORY</Story>
+		<Story>TEXT_NATION_CARTHAGE_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_EGYPT</zType>
@@ -587,7 +587,7 @@
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ASSYRIA</zIndex>
-				<iValue>60</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
@@ -720,7 +720,7 @@
 			<zValue>CHARACTER_PORTRAIT_EGYPT_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_EGYPT_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_EGYPT_STORY</Story>
+		<Story>TEXT_NATION_EGYPT_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_GREECE</zType>
@@ -942,7 +942,7 @@
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_SPARTA_STORY</Story>
+		<Story>TEXT_NATION_SPARTA_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_PERSIA</zType>
@@ -1109,7 +1109,7 @@
 			<zValue>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_PERSIA_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_PERSIA_STORY</Story>
+		<Story>TEXT_NATION_PERSIA_MOD_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_ROME</zType>
@@ -1148,6 +1148,10 @@
 			<Pair>
 				<zIndex>NATION_CARTHAGE</zIndex>
 				<iValue>-50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiNationOpinion>
 		<aeStartingTech>
@@ -1282,6 +1286,6 @@
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_ROME_STORY</Story>
+		<Story>TEXT_NATION_ROME_MOD_STORY</Story>
 	</Entry>
 </Root>
