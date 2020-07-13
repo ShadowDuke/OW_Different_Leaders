@@ -210,7 +210,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - 20 Years old 
 - Archetype: Judge
 - Traits: Affable, Gracious, Educated, Famous, Divine & Famous Person
-- Father: Sin-Muballit, Tactitan, Vigilant, Keen, Righteous, Intelligent & (hidden)
+- Father: Sin-Muballit, Tactitian, Vigilant, Keen, Righteous, Intelligent & (hidden)
 <br><br>
 
 - Has 1 son
