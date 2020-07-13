@@ -255,7 +255,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - [X] Add new Persia leader
 - [X] Add new Greece leader
 - [X] Add new Assyria leader
-- [ ] Add new Babylonia leader
+- [X] Add new Babylonia leader
 - [ ] Add new portraits for characters (done - but needs to be implemented)
 
 <br><br><br>
