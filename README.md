@@ -73,28 +73,28 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 ## [Rome](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Rome)
 
 **Augustus**<br>
-- 40 Years old
+- 34 Years old
 - Archetype: Orator
 - Traits: Righteous, Robust, Famous Person & Adopted
-- Wife: Livia, 35 Years old, Schemer, Famous & Gracious
-- Mother: Atia, 66 Years Old, Orator & (hidden)
+- Wife: Livia, 28 Years old, Schemer, Famous & Gracious
+- Mother: Atia, 62 Years Old, Orator & (hidden)
 <br><br>
 
 - Has 1 sister
    - **Octavia** 
-      - 34 Years old
+      - 28 Years old
       - Archetpye: Judge
       - Traits: Loyal, Compassionate, Beautifil & Humble
       - Spouse: Mark Antony, 44 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
-      - Daughter: Antonia, 6 Years Old
+      - Daughter: Antonia, 2 Years Old
       
 - Has 2 childs
    - **Tiberius** (Heir)
-      - 19 Years old
+      - 13 Years old
       - Archetype: Hero
       - Traits: Adopted, Warlike, Strict & Dealmaker
    - **Iulia**
-      - 16 Years old
+      - 11 Years old
       - Traits: Bastard, Educated, Beautiful & Eloquent
 <br><br>
 - -25% Start Law Cost
@@ -108,20 +108,20 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 ## [Persia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Persia)
 
 **Xerxes**<br>
-- 33 Years old
+- 31 Years old
 - Archetype: Zealot
 - Traits: Warlike, Cruel, Extravagant, Famous Person & Bloodthirsty
-- Wife: Amestris, 30 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
+- Wife: Amestris, 28 Years old, Zealot, Cruel, Spoiled, Supperstitious & Ruthless
 - Father: Darius, 63 Years Old, Hero, Proud, Brave, Famous Person, Keen & (hidden)
 - Mother: Atossa, 64 Years Old, Diplomat, Edcuated, Intelligent, Planter & (hidden)
 <br><br>
 
 - Has 2 childs
    - **Artaxerxes** (Heir)
-      - 14 Years old
+      - 10 Years old
       - Trait: Humnle, Compassionate & Gracious
    - **Amytis**
-      - 11 Years old
+      - 7 Years old
       - Trait: Beautiful, Debauched & Extravagant
 <br><br>
 - +50% XP for all Units during Combat
@@ -136,28 +136,28 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 ## Greece -> [Sparta](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Sparta)
 
 **Leonidas** (*at the 2nd turn*)<br>
-- 30 Years old
+- 27 Years old
 - Archetype: Hero
 - Traits: Swift, Brave, Bold & Famous Person
-- Wife: Gorgo, 27 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
+- Wife: Gorgo, 24 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
    - Father: Kleomenes, 46 Years old, Commander & Bastard
 - Father: Anaxandridas, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
 <br><br>
 
 - Has 2 brothers
    - **Kleombrotos** (eventual twin)
-      - 30 Years old
+      - 27 Years old
       - Archetpye: Commander
       - Traits: Eloquent, Drillmaster & Loyal
    - **Dorieus** (half-brother)
-      - 28 Years old
+      - 26 Years old
       - Archetpye: Tactician
       - Traits: Robust, Greedy, Bitter, Vengeful & (hidden)
-      - Son: Euryanax, 4 Years old, Commander
+      - Son: Euryanax, 1 Years old, Commander
       
 - Has 1 child
    - **Pleistarchos**
-      - 8 Years old
+      - 5 Years old
       - Archetype: Commander
 <br><br>
 - Unlocks Decree in Capital
@@ -172,7 +172,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 
 ## Assyria -> [Parthia](https://github.com/ShadowDuke/OW_Different_Leaders/wiki/Parthia)
 
-**Orodes** (*at the 2nd turn*)<br>
+**Orodes**<br>
 - 55 Years old
 - Archetype: Commander
 - Traits: Cruel, Bloodthirsty, Intolerant & Ruthless
@@ -189,9 +189,8 @@ More Diversity with interesting leaders/characters and surprising events/outcome
       - Archetpye: Schemer
       - Traits: Cruel, Tough, Bold & Ruthless
       - Wife: Musa, 27 Years old, Schemer, Bold, Ruthless, Exotic, Insane, Master of Poisons
-         
-         - Son: Phraataces, 8 Years old, Diplomat, Eloquent, Humble
-         - Son: Vonones, 12 Years old, Judge, Foolish, Educated
+         - Son: Phraataces, 6 Years old, Diplomat, Eloquent, Humble
+         - Son: Vonones, 10 Years old, Judge, Foolish, Educated
 <br><br>
 - +5 Money per Unit killed
 - All Cities: +3 Food per Year
