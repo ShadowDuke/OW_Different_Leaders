@@ -246,7 +246,7 @@
 		<FirstName>NAME_LIVIA</FirstName>
 		<Nation>NATION_ROME</Nation>
 		<Portrait>CHARACTER_PORTRAIT_LIVIA</Portrait>
-		<iAge>28<iAge>
+		<iAge>28</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
 			<zValue>TRAIT_FAMOUS</zValue>
@@ -261,7 +261,7 @@
 		<Father>CHARACTER_AUGUSTUS</Father>
 		<Mother>CHARACTER_LIVIA</Mother>
 		<Portrait>CHARACTER_PORTRAIT_TIBERIUS</Portrait>
-		<iAge>13<iAge>
+		<iAge>13</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_ADOPTED</zValue>
