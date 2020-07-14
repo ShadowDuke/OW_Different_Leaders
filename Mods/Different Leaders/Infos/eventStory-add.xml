@@ -9,10 +9,9 @@
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
-			<zValue>SUBJECT_CHARACTER_US</zValue>
+			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_HAMILCAR</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_US_OR_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_CARTHAGE</zValue>
 		</aeSubjects>
 		<SubjectExtras>
@@ -43,10 +42,9 @@
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
 		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
-			<zValue>SUBJECT_CHARACTER_US</zValue>
+			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_CLEOMENES</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_US_OR_THEM</zValue>
 			<zValue>SUBJECT_PLAYER_GREECE</zValue>
 		</aeSubjects>
 		<SubjectExtras>
