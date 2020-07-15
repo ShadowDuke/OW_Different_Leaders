@@ -12,7 +12,6 @@
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_HAMILCAR</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_CARTHAGE</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -22,6 +21,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_CARTHAGE</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -45,7 +48,6 @@
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_CLEOMENES</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_GREECE</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -59,6 +61,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_BASTARD</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_GREECE</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -82,7 +88,6 @@
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_ORODES</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -92,6 +97,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_ASSYRIA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -116,7 +125,6 @@
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_PACORUS</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -126,6 +134,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_ASSYRIA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeBonuses>
@@ -153,7 +165,6 @@
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_PHRAATES</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_ASSYRIA</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -163,6 +174,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_MALE</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_ASSYRIA</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>
@@ -186,7 +201,6 @@
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_ANTONIUS</zValue>
 			<zValue>SUBJECT_CHARACTER_THEM</zValue>
-			<zValue>SUBJECT_PLAYER_ROME</zValue>
 		</aeSubjects>
 		<SubjectExtras>
 			<Pair>
@@ -196,6 +210,10 @@
 			<Pair>
 				<First>0</First>
 				<Second>SUBJECT_FAMOUS_PERSON</Second>
+			</Pair>
+			<Pair>
+				<First>0</First>
+				<Second>SUBJECT_PLAYER_ROME</Second>
 			</Pair>
 		</SubjectExtras>
 		<aeOptions>

@@ -1,5 +1,5 @@
-# Different Leaders
-Different starting Leaders for **Version: 0.1.40257**. (WIP)<br>
+# Different [Leaders](https://github.com/ShadowDuke/OW_Different_Leaders/wiki)
+Different starting Leaders for **Version: 0.1.40437**. (WIP)<br>
 More Diversity with interesting leaders/characters and surprising events/outcomes.
 
 **Delete any previous files/directories from earlier versions of this mod**

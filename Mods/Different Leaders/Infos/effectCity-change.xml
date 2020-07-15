@@ -2145,7 +2145,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>60</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -2156,7 +2156,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>40</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -2167,7 +2167,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -2194,32 +2194,17 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_PROJECT_MONARCH</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_MONARCH</Name>
-		<SourceProject>PROJECT_MONARCH</SourceProject>
-		<aiYieldRate>
-			<Pair>
-				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>40</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>40</iValue>
-			</Pair>
-		</aiYieldRate>
-	</Entry>
-	<Entry>
 		<zType>EFFECTCITY_PROJECT_GOVERNOR</zType>
 		<Name>TEXT_EFFECTCITY_PROJECT_GOVERNOR</Name>
 		<SourceProject>PROJECT_GOVERNOR</SourceProject>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -2880,7 +2865,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>5</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
@@ -2943,11 +2928,11 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>10</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>-25</iValue>
+				<iValue>-20</iValue>
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
@@ -3068,7 +3053,22 @@
 		<bAutoBuild>1</bAutoBuild>
 		<bNoHurry>1</bNoHurry>
 	</Entry>
-	<Entry>
+	 <Entry>
+    <zType>EFFECTCITY_PROJECT_MONUMENTAL_GATE</zType>
+    <Name>TEXT_EFFECTCITY_PROJECT_MONUMENTAL_GATE</Name>
+    <SourceProject>PROJECT_MONUMENTAL_GATE</SourceProject>
+    <aiYieldRate>
+      <Pair>
+        <zIndex>YIELD_TRAINING</zIndex>
+        <iValue>10</iValue>
+      </Pair>
+      <Pair>
+        <zIndex>YIELD_CULTURE</zIndex>
+        <iValue>10</iValue>
+      </Pair>
+    </aiYieldRate>
+  </Entry>
+  <Entry>
 		<zType>EFFECTCITY_RELIGION_JUDAISM</zType>
 		<Name>TEXT_EFFECTCITY_RELIGION_JUDAISM</Name>
 		<SourceReligion>RELIGION_JUDAISM</SourceReligion>
@@ -3921,12 +3921,7 @@
 		<zType>EFFECTCITY_TRAIT_FRUGAL</zType>
 		<Name>TEXT_EFFECTCITY_TRAIT_FRUGAL</Name>
 		<SourceTrait>TRAIT_FRUGAL</SourceTrait>
-		<aiYieldModifier>
-			<Pair>
-				<zIndex>YIELD_MAINTENANCE</zIndex>
-				<iValue>-50</iValue>
-			</Pair>
-		</aiYieldModifier>
+		<iImprovementCostModifier>-50</iImprovementCostModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_RIGHTEOUS</zType>
@@ -4160,8 +4155,8 @@
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_DEALMAKER</zType>
 		<Name>TEXT_EFFECTCITY_TRAIT_DEALMAKER</Name>
+		<SourceUnlock>EFFECTCITY_UNIT_CARAVAN</SourceUnlock>											  
 		<SourceTrait>TRAIT_DEALMAKER</SourceTrait>
-		<iImprovementCostModifier>-50</iImprovementCostModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_MISERABLE_ALL</zType>

@@ -25,7 +25,7 @@
 	<Entry>
 		<zType>TRAIT_OLD_RULER</zType>
 		<Name>TEXT_TRAIT_OLD_RULER</Name>
-		<iDieProb>20</iDieProb>
+		<iDieProb>10</iDieProb>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_DARIEUS_VANISHED</zType>
