@@ -244,6 +244,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 
 ### Info
 **Mod compatibility with all my mods**
+   - Compatible with [Extended Character List](https://github.com/DaleMods/OW_ExtendedCharacterList) - but some characters are shown twice but are actual the same.
    - Fow now black Screen for new nations leader background
    - Various new events added
 
