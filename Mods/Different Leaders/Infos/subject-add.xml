@@ -102,6 +102,11 @@
 		<Character>CHARACTER_DARIUS</Character>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_ATOSSA_NEW</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<Character>CHARACTER_ATOSSA_NEW</Character>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_XERXES</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<Character>CHARACTER_XERXES</Character>
@@ -117,9 +122,9 @@
 		<Character>CHARACTER_ARTAXERXES</Character>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_AMYTIS</zType>
+		<zType>SUBJECT_AMYTIS_NEW</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<Character>CHARACTER_ARTAXERXES</Character>
+		<Character>CHARACTER_AMYTIS_NEW</Character>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_ANAXANDRIDAS</zType>

@@ -424,7 +424,7 @@
     </azAgeGroupSpriteNames>
   </Entry>
   <Entry>
-    <zType>CHARACTER_PORTRAIT_ATOSSA</zType>
+    <zType>CHARACTER_PORTRAIT_ATOSSA_NEW</zType>
     <Gender>GENDER_FEMALE</Gender>
     <azAgeGroupSpriteNames>
       <Pair>
@@ -512,7 +512,7 @@
     </azAgeGroupSpriteNames>
   </Entry>
   <Entry>
-    <zType>CHARACTER_PORTRAIT_AMYTIS</zType>
+    <zType>CHARACTER_PORTRAIT_AMYTIS_NEW</zType>
     <Gender>GENDER_FEMALE</Gender>
     <azAgeGroupSpriteNames>
       <Pair>

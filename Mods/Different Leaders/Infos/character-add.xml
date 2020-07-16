@@ -289,7 +289,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DARIUS</FirstName>
 		<Nation>NATION_PERSIA</Nation>
-		<Spouse>CHARACTER_ATOSSA</Spouse>
+		<Spouse>CHARACTER_ATOSSA_NEW</Spouse>
 		<Portrait>CHARACTER_PORTRAIT_DARIUS</Portrait>
 		<iAge>63</iAge>
 		<aeTraits>
@@ -303,11 +303,11 @@
 		</aeTraits>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_ATOSSA</zType>
+		<zType>CHARACTER_ATOSSA_NEW</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATOSSA</FirstName>
 		<Nation>NATION_PERSIA</Nation>
-		<Portrait>CHARACTER_PORTRAIT_ATOSSA</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_ATOSSA_NEW</Portrait>
 		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -323,7 +323,7 @@
 		<FirstName>NAME_XERXES</FirstName>
 		<Nation>NATION_PERSIA</Nation>
 		<Father>CHARACTER_DARIUS</Father>
-		<Mother>CHARACTER_ATOSSA</Mother>
+		<Mother>CHARACTER_ATOSSA_NEW</Mother>
 		<Spouse>CHARACTER_AMESTRIS</Spouse>
 		<Portrait>CHARACTER_PORTRAIT_XERXES</Portrait>
 		<iAge>31</iAge>
@@ -367,13 +367,13 @@
 		</aeTraits>
 	</Entry>
 	<Entry>
-		<zType>CHARACTER_AMYTIS</zType>
+		<zType>CHARACTER_AMYTIS_NEW</zType>
 		<Gender>GENDER_FEMALE</Gender>
-		<FirstName>NAME_AMYTIS</FirstName>
+		<FirstName>NAME_AMYTIS_NEW</FirstName>
 		<Nation>NATION_PERSIA</Nation>
 		<Father>CHARACTER_XERXES</Father>
 		<Mother>CHARACTER_AMESTRIS</Mother>
-		<Portrait>CHARACTER_PORTRAIT_AMYTIS</Portrait>
+		<Portrait>CHARACTER_PORTRAIT_AMYTIS_NEW</Portrait>
 		<iAge>7</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BEAUTIFUL</zValue>
