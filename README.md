@@ -248,7 +248,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 
 ### Info
 **Mod compatibility with all my mods**
-   - Compatible with [Extended Character List](https://github.com/DaleMods/OW_ExtendedCharacterList)
+   - New character portraits have been added
    - Fow now black Screen for new nations leader background
    - Various new events added
 
@@ -260,7 +260,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - [X] Add new Greece leader
 - [X] Add new Assyria leader
 - [X] Add new Babylonia leader
-- [ ] Add new portraits for characters (done - but needs to be implemented)
+- [X] Add new portraits for characters
 
 <br><br><br>
 If you want, you can now support me with a donation at [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5X8TNX5DN2G5C&source=url). Thank you!
