@@ -72,9 +72,9 @@
 		<Character>CHARACTER_OCTAVIA</Character>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_ANTONIUS</zType>
+		<zType>SUBJECT_MARK_ANTONY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<Character>CHARACTER_ANTONIUS</Character>
+		<Character>CHARACTER_MARK_ANTONY</Character>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_ANTONIA</zType>

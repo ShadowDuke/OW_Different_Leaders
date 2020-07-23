@@ -15,15 +15,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_02_ADULT</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_02_ADULT</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_02_SENIOR</zValue>
+        <zValue>Hamilcar</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -63,11 +63,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_09_ADULT</zValue>
+        <zValue>Hannibal</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_09_SENIOR</zValue>
+        <zValue>Hannibal</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -85,11 +85,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_11_ADULT</zValue>
+        <zValue>Mago</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>CARTHAGE_LEADER_MALE_11_SENIOR</zValue>
+        <zValue>Mago</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -151,11 +151,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_13_ADULT</zValue>
+        <zValue>Cheops</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_13_SENIOR</zValue>
+        <zValue>Cheops</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -173,11 +173,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_MALE_09_ADULT</zValue>
+        <zValue>Rahotep</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_MALE_09_SENIOR</zValue>
+        <zValue>Rahotep</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -195,11 +195,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>EGYPT_LEADER_FEMALE_03_ADULT</zValue>
+        <zValue>Nofret</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>EGYPT_LEADER_FEMALE_03_SENIOR</zValue>
+        <zValue>Nofret</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -235,15 +235,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>ROME_LEADER_MALE_06_ADULT</zValue>
+        <zValue>Augustus</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>ROME_LEADER_MALE_06_ADULT</zValue>
+        <zValue>Augustus</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ROME_LEADER_MALE_06_SENIOR</zValue>
+        <zValue>Augustus</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -261,11 +261,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>ROME_LEADER_FEMALE_11_ADULT</zValue>
+        <zValue>Atia</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ROME_LEADER_FEMALE_11_SENIOR</zValue>
+        <zValue>Atia</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -292,7 +292,7 @@
     </azAgeGroupSpriteNames>
   </Entry>
    <Entry>
-    <zType>CHARACTER_PORTRAIT_ANTONIUS</zType>
+    <zType>CHARACTER_PORTRAIT_MARK_ANTONY</zType>
     <Gender>GENDER_MALE</Gender>
     <azAgeGroupSpriteNames>
       <Pair>
@@ -305,11 +305,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>ROME_LEADER_MALE_01_ADULT</zValue>
+        <zValue>Mark_Antony</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ROME_LEADER_MALE_01_SENIOR</zValue>
+        <zValue>Mark_Antony</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -371,11 +371,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>ROME_LEADER_MALE_12_ADULT</zValue>
+        <zValue>Tiberius</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>ROME_LEADER_MALE_12_SENIOR</zValue>
+        <zValue>Tiberius</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -415,11 +415,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>PERSIA_LEADER_MALE_06_ADULT</zValue>
+        <zValue>Darius</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>PERSIA_LEADER_MALE_06_SENIOR</zValue>
+        <zValue>Darius</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -455,15 +455,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>PERSIA_LEADER_MALE_08_ADULT</zValue>
+        <zValue>Xerxes</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>PERSIA_LEADER_MALE_08_ADULT</zValue>
+        <zValue>Xerxes</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>PERSIA_LEADER_MALE_08_SENIOR</zValue>
+        <zValue>Xerxes</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -481,11 +481,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>PERSIA_LEADER_FEMALE_03_ADULT</zValue>
+        <zValue>Amestris</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>PERSIA_LEADER_FEMALE_03_SENIOR</zValue>
+        <zValue>Amestris</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -503,11 +503,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>PERSIA_LEADER_MALE_02_ADULT</zValue>
+        <zValue>Artaxerxes</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>PERSIA_LEADER_MALE_02_SENIOR</zValue>
+        <zValue>Artaxerxes</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -591,11 +591,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>GREECE_LEADER_MALE_05_ADULT</zValue>
+        <zValue>Leonidas</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>GREECE_LEADER_MALE_05_SENIOR</zValue>
+        <zValue>Leonidas</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -613,11 +613,11 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>GREECE_LEADER_FEMALE_09_ADULT</zValue>
+        <zValue>Gorgo</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>GREECE_LEADER_FEMALE_09_SENIOR</zValue>
+        <zValue>Gorgo</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>

@@ -9,7 +9,6 @@
 		<Father/>
 		<Mother/>
 		<Spouse/>
-		<Portrait/>
 		<CharacterSelectPortrait/>
 		<iAge/>
 		<iRating/>
@@ -23,7 +22,6 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ASHURBANIPAL</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_ASHURBANIPAL</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ASHURBANIPAL</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -36,7 +34,6 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_NEBUCHADNEZZAR</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_NEBUCHADNEZZAR</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NEBUCHADNEZZAR</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -49,7 +46,6 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_DIDO</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_DIDO</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_DIDO</CharacterSelectPortrait>
 		<iAge>20</iAge>
 		<aeTraits>
@@ -62,7 +58,6 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HATSHEPSUT</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_HATSHEPSUT</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HATSHEPSUT</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<bInfertile>1</bInfertile>
@@ -77,7 +72,6 @@
 		<FirstName>NAME_NEFERURE</FirstName>
 		<Nation></Nation>
 		<Mother>CHARACTER_HATSHEPSUT</Mother>
-		<Portrait>CHARACTER_PORTRAIT_NEFERURE</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NEFERURE</CharacterSelectPortrait>
 		<iAge>8</iAge>
 	</Entry>
@@ -87,7 +81,6 @@
 		<FirstName>NAME_PHILIP</FirstName>
 		<Nation></Nation>
 		<Spouse>CHARACTER_OLYMPIAS</Spouse>
-		<Portrait>CHARACTER_PORTRAIT_PHILIP</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PHILIP</CharacterSelectPortrait>
 		<iAge>39</iAge>
 		<aeTraits>
@@ -100,7 +93,6 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_OLYMPIAS</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_OLYMPIAS</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_OLYMPIAS</CharacterSelectPortrait>
 		<iAge>32</iAge>
 		<aeTraits>
@@ -115,7 +107,6 @@
 		<Nation></Nation>
 		<Father>CHARACTER_PHILIP</Father>
 		<Mother>CHARACTER_OLYMPIAS</Mother>
-		<Portrait>CHARACTER_PORTRAIT_ALEXANDER</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ALEXANDER</CharacterSelectPortrait>
 		<iAge>13</iAge>
 		<aeTraits>
@@ -128,7 +119,6 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CYRUS</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_CYRUS</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_CYRUS</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -141,7 +131,6 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ILIA</FirstName>
 		<Nation></Nation>
-		<Portrait>CHARACTER_PORTRAIT_ILIA</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ILIA</CharacterSelectPortrait>
 		<iAge>44</iAge>
 		<aeTraits>
@@ -155,7 +144,6 @@
 		<FirstName>NAME_ROMULUS</FirstName>
 		<Nation></Nation>
 		<Mother>CHARACTER_ILIA</Mother>
-		<Portrait>CHARACTER_PORTRAIT_ROMULUS</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ROMULUS</CharacterSelectPortrait>
 		<iAge>22</iAge>
 		<aeTraits>
@@ -169,7 +157,6 @@
 		<FirstName>NAME_REMUS</FirstName>
 		<Nation></Nation>
 		<Mother>CHARACTER_ILIA</Mother>
-		<Portrait>CHARACTER_PORTRAIT_REMUS</Portrait>
 		<CharacterSelectPortrait>CHARACTER_SELECT_REMUS</CharacterSelectPortrait>
 		<iAge>22</iAge>
 		<aeTraits>

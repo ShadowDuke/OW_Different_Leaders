@@ -265,7 +265,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_BARBARIAN_FOUND</zType>
-		<zName>Founded at Barbarian Site</zName>
+		<zName>Founded at Tribal Site</zName>
 		<iLegitimacy>-10</iLegitimacy>
 	</Entry>
 	<Entry>
@@ -323,7 +323,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_BARBARIAN_MARRIAGE</zType>
-		<zName>Married a Barbarian</zName>
+		<zName>Marriage with a Tribe</zName>
 		<iLegitimacy>-2</iLegitimacy>
 	</Entry>
 	<Entry>
@@ -1849,6 +1849,10 @@
 		<bStateReligion>1</bStateReligion>
 	</Entry>
 	<Entry>
+		<zType>BONUS_LEAVE_COUNCIL</zType>
+		<bLeaveCouncil>1</bLeaveCouncil>
+	</Entry>
+	<Entry>	
 		<zType>BONUS_DOOM_CHARACTER</zType>
 		<bDoomCharacter>1</bDoomCharacter>
 	</Entry>
