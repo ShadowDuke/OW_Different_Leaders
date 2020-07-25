@@ -3,7 +3,7 @@
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
 # Different [Leaders](https://github.com/ShadowDuke/OW_Different_Leaders/wiki)
-Different starting Leaders for **Version: 0.1.40495**. (WIP)<br>
+Different starting Leaders for **Version: 0.1.40816**.<br>
 More Diversity with interesting leaders/characters and surprising events/outcomes.
 
 **Delete any previous files/directories from earlier versions of this mod**
