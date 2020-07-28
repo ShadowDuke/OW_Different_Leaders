@@ -144,7 +144,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - Archetype: Hero
 - Traits: Swift, Brave, Bold & Famous Person
 - Wife: Gorgo, 24 Years old, Diplomat, Intelligent, Beautiful & Dealmaker
-   - Father: Kleomenes, 46 Years old, Commander & Bastard
+   - Father: Cleomenes, 46 Years old, Commander & Bastard
 - Father: Anaxandridas, 64 Years Old, Tactician, Garrison, Highlander & (hidden)
 <br><br>
 
