@@ -132,7 +132,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
 - +1 Fatigue Limit
 - Per Unit killed: 2 Culture, 2 Science & 1 Order
 - +5 Training/Year
-- All Cities: +1 Growth/Year, +10% Chance/Year of Rebel Units & -20% Cost for Ranged Units
+- All Cities: +1 Growth/Year, +1 Training/Year, +5% Chance/Year of Rebel Units & -25% Costs for Ranged Units
 - Starting Techs: Ironworking, Trapping, Labor Force & Husbandry
 - Starting Laws: Dynastic & Slavery
 
@@ -196,7 +196,7 @@ More Diversity with interesting leaders/characters and surprising events/outcome
          - Son: Phraataces, 6 Years old, Diplomat, Eloquent, Humble
          - Son: Vonones, 10 Years old, Judge, Foolish, Educated
 <br><br>
-- +5 Money per Unit killed
+- +3 Money, +1 Science & +2 Training per Unit killed
 - All Cities: +3 Food per Year
 - Farms and Pestures: +50 % Output
 - Groves & Nets: +25% Output
