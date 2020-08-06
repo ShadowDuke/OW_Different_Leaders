@@ -17,7 +17,16 @@
 		<aeTraits/>
 		<aeRelationships/>
 	</Entry>
-		<Entry>
+	<Entry>
+		<zType>CHARACTER_SUITOR_TEMP</zType>
+		<bSuitorTemp>1</bSuitorTemp>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_SUITOR_TEMP_BAD</zType>
+		<iRating>-2</iRating>
+		<bSuitorTemp>1</bSuitorTemp>
+	</Entry>
+	<Entry>
 		<zType>CHARACTER_ASHURBANIPAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ASHURBANIPAL</FirstName>
