@@ -91,7 +91,15 @@
 		<aiUnitKillYield>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>5</iValue>
+				<iValue>3</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>2</iValue>
 			</Pair>
 		</aiUnitKillYield>
 	</Entry>
