@@ -37,6 +37,7 @@
 		<SetVegetation comment="Sets the Tile's Vegetation."/>
 		<SetResource comment="Sets the Tile's Resource."/>
 		<SetImprovement comment="Sets the Tile's Improvement."/>
+		<iSpreadUnits comment="List of Religion units that will appear near the City Subject."/>																				  
 		<iRevealRange comment="Reveals this range distance from the Tile."/>
 		<iCitizens comment="Number of citizens added to the City Subject."/>
 		<iBorderGrowth comment="Adds this many Tiles to the City's territory."/>
@@ -167,6 +168,7 @@
 		<SetVegetation/>
 		<SetResource/>
 		<SetImprovement/>
+		<iSpreadUnits/>		 
 		<iRevealRange/>
 		<iCitizens/>
 		<iBorderGrowth/>
@@ -294,7 +296,7 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>5</iValue>
+				<iValue>4</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>
@@ -895,7 +897,6 @@
 		</aiGlobalYieldsPer>
 		<aeAddTraits>
 			<zValue>TRAIT_IMPRISONED</zValue>
-			<zValue>TRAIT_SLIGHTED</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
@@ -917,7 +918,6 @@
 		</aiGlobalYieldsPer>
 		<aeAddTraits>
 			<zValue>TRAIT_IMPRISONED</zValue>
-			<zValue>TRAIT_SLIGHTED</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
@@ -946,12 +946,14 @@
 		<zName>Release (Grateful)</zName>
 		<aeRemoveTraits>
 			<zValue>TRAIT_IMPRISONED</zValue>
-			<zValue>TRAIT_SLIGHTED</zValue>
 		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_MISSIONRESULT_RELEASE_BITTER</zType>
 		<zName>Release (Bitter)</zName>
+		<aeAddTraits>
+			<zValue>TRAIT_SLIGHTED</zValue>
+		</aeAddTraits>	
 		<aeRemoveTraits>
 			<zValue>TRAIT_IMPRISONED</zValue>
 		</aeRemoveTraits>
@@ -990,8 +992,11 @@
 		</aeRemoveTraits>
 	</Entry>
 	<Entry>
-		<zType>BONUS_MISSIONRESULT_CAPTURE_FAIL</zType>
-		<zName>Capture (Fail)</zName>
+		<zType>BONUS_MISSIONRESULT_PAY_RANSOM</zType>
+		<zName>Capture Ransom</zName>
+		<aeRemoveTraits>
+			<zValue>TRAIT_CAPTURED</zValue>
+		</aeRemoveTraits>	   
 	</Entry>
 	<Entry>
 		<zType>BONUS_MISSIONRESULT_MARRY_COURTIER</zType>
@@ -1008,13 +1013,6 @@
 		<zName>Divorce (Forced)</zName>
 		<iLegitimacy>-2</iLegitimacy>
 		<iDivorceSubject>0</iDivorceSubject>
-	</Entry>
-	<Entry>
-		<zType>BONUS_MISSIONRESULT_CAPTURED_RANSOM</zType>
-		<zName>Capture Ransom</zName>
-		<aeRemoveTraits>
-			<zValue>TRAIT_CAPTURED</zValue>
-		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_NATION_CARTHAGE</zType>

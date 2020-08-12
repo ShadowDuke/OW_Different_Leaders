@@ -33,7 +33,7 @@
 		<iRandomPromotions/>
 		<iStrengthModifier/>
 		<iImprovementCostModifier/>
-		<iAdjacentUrbanCostModifier/>					   
+		<iAdjacentClassCostModifier/>			   
 		<iSpecialistCostModifier/>
 		<iSpecialistRuralTrainTimeModifier/>
 		<iSpecialistUrbanCostModifier/>
@@ -211,7 +211,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<iValue>-20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -1707,7 +1707,7 @@
 		<zType>EFFECTCITY_LAW_ENGINEERING</zType>
 		<Name>TEXT_EFFECTCITY_LAW_ENGINEERING</Name>
 		<SourceLaw>LAW_ENGINEERING</SourceLaw>
-		<iAdjacentUrbanCostModifier>-20</iAdjacentUrbanCostModifier>
+		<iAdjacentClassCostModifier>-20</iAdjacentClassCostModifier>
 	</Entry>							  
 	<Entry>
 		<zType>EFFECTCITY_LAW_ICONOGRAPHY</zType>
