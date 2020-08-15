@@ -2,6 +2,11 @@
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
+		<zType>SUBJECT_OLD_RULER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_OLD_RULER</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_FAMOUS_PERSON</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_FAMOUS_PERSON</TraitPrereq>

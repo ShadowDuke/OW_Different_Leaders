@@ -60,7 +60,7 @@
 			</Pair>
 			<Pair>
 				<First>0</First>
-				<Second>SUBJECT_BASTARD</Second>
+				<Second>SUBJECT_OLD_RULER</Second>
 			</Pair>
 			<Pair>
 				<First>0</First>
@@ -71,7 +71,7 @@
 			<zValue>EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN_CHARACTER</Trigger>
-		<iMinTurns>0</iMinTurns>
+		<iMinTurns>1</iMinTurns>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>-1</iRepeatTurns>
