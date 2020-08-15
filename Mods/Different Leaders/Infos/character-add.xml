@@ -40,6 +40,7 @@
 		<FirstName>NAME_HASDRUBAL</FirstName>
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HASDRUBAL</CharacterSelectPortrait>
 		<iAge>18</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -53,6 +54,7 @@
 		<FirstName>NAME_HANNIBAL</FirstName>
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HANNIBAL</CharacterSelectPortrait>
 		<iAge>13</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -69,6 +71,7 @@
 		<FirstName>NAME_MAGO</FirstName>
 		<Nation>NATION_CARTHAGE</Nation>
 		<Father>CHARACTER_HAMILCAR</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_MAGO</CharacterSelectPortrait>
 		<iAge>10</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HONEST</zValue>
@@ -96,6 +99,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HETEPHERES</FirstName>
 		<Nation>NATION_EGYPT</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HETEPHERES</CharacterSelectPortrait>
 		<iAge>36</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -108,6 +112,7 @@
 		<FirstName>NAME_CHEOPS</FirstName>
 		<Nation>NATION_EGYPT</Nation>
 		<Father>CHARACTER_SNEFERU</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_CHEOPS</CharacterSelectPortrait>
 		<iAge>18</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
@@ -124,6 +129,7 @@
 		<Nation>NATION_EGYPT</Nation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<Spouse>CHARACTER_NOFRET</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_RAHOTEP</CharacterSelectPortrait>
 		<iAge>18</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
@@ -135,6 +141,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_NOFRET</FirstName>
 		<Nation>NATION_EGYPT</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_NOFRET</CharacterSelectPortrait>
 		<iAge>21</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
@@ -147,6 +154,7 @@
 		<FirstName>NAME_NEFERMAAT</FirstName>
 		<Nation>NATION_EGYPT</Nation>
 		<Father>CHARACTER_SNEFERU</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_NEFERMAAT</CharacterSelectPortrait>
 		<iAge>19</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
@@ -162,6 +170,7 @@
 		<Nation>NATION_ROME</Nation>
 		<Mother>CHARACTER_ATIA</Mother>
 		<Spouse>CHARACTER_LIVIA</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_AUGUSTUS</CharacterSelectPortrait>
 		<iAge>34</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
@@ -176,6 +185,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATIA</FirstName>
 		<Nation>NATION_ROME</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ATIA</CharacterSelectPortrait>
 		<iAge>62</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
@@ -188,6 +198,7 @@
 		<FirstName>NAME_OCTAVIA</FirstName>
 		<Nation>NATION_ROME</Nation>
 		<Mother>CHARACTER_ATIA</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_OCTAVIA</CharacterSelectPortrait>
 		<iAge>28</iAge>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
@@ -203,6 +214,7 @@
 		<FirstName>NAME_MARK_ANTONY</FirstName>
 		<Nation>NATION_ROME</Nation>
 		<Spouse>CHARACTER_OCTAVIA</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_MARK_ANTONY</CharacterSelectPortrait>
 		<iAge>44</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -220,6 +232,7 @@
 		<Nation>NATION_ROME</Nation>
 		<Father>CHARACTER_MARK_ANTONY</Father>
 		<Mother>CHARACTER_OCTAVIA</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ANTONIA</CharacterSelectPortrait>
 		<iAge>2</iAge>
 	</Entry>
 	<Entry>
@@ -227,6 +240,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_LIVIA</FirstName>
 		<Nation>NATION_ROME</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_LIVIA</CharacterSelectPortrait>
 		<iAge>28</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -241,6 +255,7 @@
 		<Nation>NATION_ROME</Nation>
 		<Father>CHARACTER_AUGUSTUS</Father>
 		<Mother>CHARACTER_LIVIA</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_TIBERIUS</CharacterSelectPortrait>
 		<iAge>13</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -256,6 +271,7 @@
 		<FirstName>NAME_IULIA</FirstName>
 		<Nation>NATION_ROME</Nation>
 		<Father>CHARACTER_AUGUSTUS</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_IULIA</CharacterSelectPortrait>
 		<iAge>11</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BASTARD</zValue>
@@ -270,6 +286,7 @@
 		<FirstName>NAME_DARIUS</FirstName>
 		<Nation>NATION_PERSIA</Nation>
 		<Spouse>CHARACTER_ATOSSA_NEW</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_DARIUS</CharacterSelectPortrait>
 		<iAge>63</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -286,6 +303,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATOSSA_NEW</FirstName>
 		<Nation>NATION_PERSIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ATOSSA_NEW</CharacterSelectPortrait>
 		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -303,6 +321,7 @@
 		<Father>CHARACTER_DARIUS</Father>
 		<Mother>CHARACTER_ATOSSA_NEW</Mother>
 		<Spouse>CHARACTER_AMESTRIS</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_XERXES</CharacterSelectPortrait>
 		<iAge>31</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
@@ -318,6 +337,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_AMESTRIS</FirstName>
 		<Nation>NATION_PERSIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_AMESTRIS</CharacterSelectPortrait>
 		<iAge>28</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
@@ -334,6 +354,7 @@
 		<Nation>NATION_PERSIA</Nation>
 		<Father>CHARACTER_XERXES</Father>
 		<Mother>CHARACTER_AMESTRIS</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ARTAXERXES</CharacterSelectPortrait>
 		<iAge>10</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HUMBLE</zValue>
@@ -348,6 +369,7 @@
 		<Nation>NATION_PERSIA</Nation>
 		<Father>CHARACTER_XERXES</Father>
 		<Mother>CHARACTER_AMESTRIS</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_AMYTIS_NEW</CharacterSelectPortrait>
 		<iAge>7</iAge>
 		<aeTraits>
 			<zValue>TRAIT_BEAUTIFUL</zValue>
@@ -360,6 +382,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANAXANDRIDAS</FirstName>
 		<Nation>NATION_GREECE</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ANAXANDRIDAS</CharacterSelectPortrait>
 		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -374,6 +397,7 @@
 		<FirstName>NAME_CLEOMENES</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_CLEOMENES</CharacterSelectPortrait>
 		<iAge>46</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -388,6 +412,7 @@
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Spouse>CHARACTER_GORGO</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_LEONIDAS</CharacterSelectPortrait>
 		<iAge>27</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -403,6 +428,7 @@
 		<FirstName>NAME_GORGO</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_CLEOMENES</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_GORGO</CharacterSelectPortrait>
 		<iAge>24</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -417,6 +443,7 @@
 		<FirstName>NAME_KLEOMBROTOS</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_KLEOMBROTOS</CharacterSelectPortrait>
 		<iAge>27</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -431,6 +458,7 @@
 		<FirstName>NAME_DORIEUS</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_DORIEUS</CharacterSelectPortrait>
 		<iAge>26</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -447,6 +475,7 @@
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_LEONIDAS</Father>
 		<Mother>CHARACTER_GORGO</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_PLEISTARCHOS</CharacterSelectPortrait>
 		<iAge>5</iAge>
 		<bInfertile>1</bInfertile>
 		<aeTraits>
@@ -459,6 +488,7 @@
 		<FirstName>NAME_EURYANAX</FirstName>
 		<Nation>NATION_GREECE</Nation>
 		<Father>CHARACTER_DORIEUS</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_EURYANAX</CharacterSelectPortrait>
 		<iAge>1</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -470,6 +500,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ORODES</FirstName>
 		<Nation>NATION_ASSYRIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_ORODES</CharacterSelectPortrait>
 		<iAge>55</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -487,6 +518,7 @@
 		<Nation>NATION_ASSYRIA</Nation>
 		<Father>CHARACTER_ORODES</Father>
 		<Spouse>CHARACTER_BALHITI</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_PACORUS</CharacterSelectPortrait>
 		<iAge>37</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -501,6 +533,7 @@
 		<Nation>NATION_ASSYRIA</Nation>
 		<Father>CHARACTER_ORODES</Father>
 		<Spouse>CHARACTER_MUSA</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_PHRAATES</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -515,6 +548,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_MUSA</FirstName>
 		<Nation>NATION_ASSYRIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_MUSA</CharacterSelectPortrait>
 		<iAge>27</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -532,6 +566,7 @@
 		<Nation>NATION_ASSYRIA</Nation>
 		<Father>CHARACTER_PHRAATES</Father>
 		<Mother>CHARACTER_MUSA</Mother>
+		<CharacterSelectPortrait>CHARACTER_SELECT_PHRAATACES</CharacterSelectPortrait>
 		<iAge>6</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -545,6 +580,7 @@
 		<FirstName>NAME_VONONES</FirstName>
 		<Nation>NATION_ASSYRIA</Nation>
 		<Father>CHARACTER_PHRAATES</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_VONONES</CharacterSelectPortrait>
 		<iAge>10</iAge>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
@@ -557,6 +593,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_BALHITI</FirstName>
 		<Nation>NATION_ASSYRIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_BALHITI</CharacterSelectPortrait>
 		<iAge>35</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
@@ -569,6 +606,7 @@
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SIN_MUBALLIT</FirstName>
 		<Nation>NATION_BABYLONIA</Nation>
+		<CharacterSelectPortrait>CHARACTER_SELECT_SIN_MUBALLIT</CharacterSelectPortrait>
 		<iAge>52</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -585,6 +623,7 @@
 		<FirstName>NAME_HAMMURABI</FirstName>
 		<Nation>NATION_BABYLONIA</Nation>
 		<Father>CHARACTER_SIN_MUBALLIT</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_HAMMURABI</CharacterSelectPortrait>
 		<iAge>20</iAge>
 		<aeTraits>
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
@@ -602,6 +641,7 @@
 		<FirstName>NAME_SAMSU_ILUNA</FirstName>
 		<Nation>NATION_BABYLONIA</Nation>
 		<Father>CHARACTER_HAMMURABI</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_SAMSU_ILUNA</CharacterSelectPortrait>
 		<iAge>1</iAge>
 		<aeTraits>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
