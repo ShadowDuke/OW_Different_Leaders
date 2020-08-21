@@ -27,8 +27,9 @@
 		<FoundReligion comment="Religion founded."/>
 		<AdoptReligion comment="Religion adopted as your state Religion."/>
 		<FreeTheology comment="Theology added to your state Religion (if any)."/>
-		<Quest comment="A Goal given to the Player (similar to Ambitions)"/>
+		<Quest comment="A Quest given to the Player (similar to Ambitions)"/>
 		<Ambition comment="Adds this Ambition to the Player"/>
+		<FinishGoal comment="Finishes this Quest or Ambition"/>
 		<DesiredAmbition comment="Adds this Desired Ambition to the Character"/>
 		<Mission comment="Starts a Mission."/>
 		<Council comment="Makes the Character this Council member."/>
@@ -51,6 +52,7 @@
 		<iXPCharacter comment="Changes the XP of the Character"/>
 		<iLegitimacy comment="Amount of Legitimacy gained or lost by the Human."/>
 		<iDiplomacyPlayer comment="Changes the Diplomacy level by this value (Peace = 0, Truce = 1, War = 2)."/>
+		<iAllianceSubject comment="Player allies with the previous Subject at this index."/>
 		<iMarrySubject comment="Character will marry the previous Subject at this index."/>
 		<iPolyMarrySubject comment="Character will marry the previous Subject at this index (allows polygamy)."/>																								   
 		<iDivorceSubject comment="Character will divorce the previous Subject at this index."/>
@@ -93,6 +95,7 @@
 		<bHaveBastard comment="Character will have a bastard child"/>
 		<bKillUnit comment="If set to 1 (true), the Unit Subject dies immediately."/>
 		<bRemoveVegetation comment="Removes Vegetation from the Tile."/>
+		<bBarbRaid comment="Starts a raid from the Barbarian settlement on the Tile."/>																		 
 		<aiCityYields comment="List of Yields (Money, Science, etc.) gained in the City Subject."/>
 		<aiGlobalYieldsBase comment="List of Yields (Money, Science, etc.) gained by the Player. This is distinct from aicityYields in that it is added directly to the national stockpile, not to any particular City."/>
 		<aiGlobalYieldsPer comment="List of Yields per City gained by the Player. For example, if this is 20 Money, and the Player has 3 cities, the Player will gain 60 Money."/>
@@ -136,6 +139,7 @@
 	<Entry>
 		<zType/>
 		<zName/>
+		<Victory/>	
 		<MemoryPlayer/>
 		<ForgetPlayer/>
 		<MemoryBarb/>
@@ -182,6 +186,7 @@
 		<iXPCharacter/>
 		<iLegitimacy/>
 		<iDiplomacyPlayer/>
+		<iAllianceSubject/>			 
 		<iMarrySubject/>
 		<iPolyMarrySubject/>			  
 		<iDivorceSubject/>
@@ -223,6 +228,7 @@
 		<bHaveBastard/>
 		<bKillUnit/>
 		<bRemoveVegetation/>
+		<bBarbRaid/>	  
 		<aiCityYields/>
 		<aiGlobalYieldsBase/>
 		<aiGlobalYieldsPer/>
@@ -340,7 +346,7 @@
 		<zType>BONUS_BARBARIAN_WAR_LEGITIMACY</zType>
 		<zName>Unafraid of Tribes</zName>
 		<DiplomacyBarb>DIPLOMACY_WAR</DiplomacyBarb>
-		<iLegitimacy>2</iLegitimacy>
+		<iLegitimacy>4</iLegitimacy>
 	</Entry>
 	<Entry>
 		<zType>BONUS_DECLARE_WAR_BARBARIAN</zType>
@@ -407,7 +413,7 @@
 		<zType>BONUS_PLAYER_WAR_LEGITIMACY</zType>
 		<zName>Unafraid of War</zName>
 		<DiplomacyPlayer>DIPLOMACY_WAR</DiplomacyPlayer>
-		<iLegitimacy>2</iLegitimacy>
+		<iLegitimacy>4</iLegitimacy>
 		<aeBonuses>
 			<zValue>BONUS_PLAYER_OFFER</zValue>
 		</aeBonuses>
@@ -1004,14 +1010,8 @@
 		<iMarrySubject>0</iMarrySubject>
 	</Entry>
 	<Entry>
-		<zType>BONUS_MISSIONRESULT_DIVORCE_MUTUAL</zType>
-		<zName>Divorce (Mutual)</zName>
-		<iDivorceSubject>0</iDivorceSubject>
-	</Entry>
-	<Entry>
-		<zType>BONUS_MISSIONRESULT_DIVORCE_FORCED</zType>
-		<zName>Divorce (Forced)</zName>
-		<iLegitimacy>-2</iLegitimacy>
+		<zType>BONUS_MISSIONRESULT_DIVORCE</zType>
+		<zName>Divorce</zName>
 		<iDivorceSubject>0</iDivorceSubject>
 	</Entry>
 	<Entry>
@@ -1479,10 +1479,10 @@
 		</AddCourtierGender>
 	</Entry>
 	<Entry>
-		<zType>BONUS_TECH_PORTCULLIS_BONUS_AXEMAN</zType>
+		<zType>BONUS_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
 		<aiUnits>
 			<Pair>
-				<zIndex>UNIT_AXEMAN</zIndex>
+				<zIndex>UNIT_MACEMAN</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiUnits>
