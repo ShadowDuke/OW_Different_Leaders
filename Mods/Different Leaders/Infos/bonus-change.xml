@@ -4,6 +4,7 @@
 	<Entry>
 		<zType/>
 		<zName comment="Bonus title string. This is ONLY necessary if this bonus changes Legitimacy."/>
+		<Victory comment="Player achieves this Victory type."/>
 		<MemoryPlayer comment="Memory received by the Player Subject."/>
 		<ForgetPlayer comment="Memory forgotten by the Player Subject."/>
 		<MemoryAllPlayers comment="Memory received by all rival Players."/>
