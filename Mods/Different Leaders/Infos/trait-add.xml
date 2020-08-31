@@ -199,10 +199,9 @@
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
-		<bGeneralPrereq>1</bGeneralPrereq>
+		<bAgentPrereq>1</bAgentPrereq>
 		<bTeamAlliance>1</bTeamAlliance>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</LeaderEffectPlayer>
-		<GeneralEffectUnit>EFFECTUNIT_DIPLOMAT</GeneralEffectUnit>
 		<Cognomen>COGNOMEN_DIPLOMAT</Cognomen>
 		<aiRating>
 			<Pair>

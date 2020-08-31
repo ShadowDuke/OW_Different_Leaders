@@ -33,7 +33,7 @@
 		<iRandomPromotions/>
 		<iStrengthModifier/>
 		<iImprovementCostModifier/>
-		<iAdjacentClassCostModifier/>			   
+		<iAdjacentClassCostModifier/>
 		<iSpecialistCostModifier/>
 		<iSpecialistRuralTrainTimeModifier/>
 		<iSpecialistUrbanCostModifier/>
@@ -113,6 +113,10 @@
 		<zType>EFFECTCITY_CAPITAL</zType>
 		<Name>TEXT_EFFECTCITY_CAPITAL</Name>
 		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
 				<iValue>100</iValue>
@@ -203,6 +207,7 @@
 			<zValue>RESOURCE_GEM</zValue>
 			<zValue>RESOURCE_FUR</zValue>
 			<zValue>RESOURCE_INCENSE</zValue>
+			<zValue>RESOURCE_LAVENDER</zValue>
 			<zValue>RESOURCE_OLIVE</zValue>
 			<zValue>RESOURCE_WINE</zValue>
 			<zValue>RESOURCE_DYE</zValue>
@@ -216,9 +221,9 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_LANDOWNERS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_LANDOWNERS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_LANDOWNERS</zType>
+		<Name>TEXT_FAMILYCLASS_LANDOWNERS</Name>
+		<SourceFamilyClass>FAMILYCLASS_LANDOWNERS</SourceFamilyClass>
 		<iSpecialistRuralTrainTimeModifier>-50</iSpecialistRuralTrainTimeModifier>
 		<aiYieldRate>
 			<Pair>
@@ -237,16 +242,16 @@
 		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_LANDOWNERS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_LANDOWNERS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_LANDOWNERS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_LANDOWNERS</SourceFamilyClass>
 		<bBuyTile>1</bBuyTile>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_CHAMPIONS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_CHAMPIONS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_CHAMPIONS</zType>
+		<Name>TEXT_FAMILYCLASS_CHAMPIONS</Name>
+		<SourceFamilyClass>FAMILYCLASS_CHAMPIONS</SourceFamilyClass>
 		<iStrengthModifier>50</iStrengthModifier>
 		<aiYieldRate>
 			<Pair>
@@ -259,10 +264,10 @@
 		</aeFreePromotion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_CHAMPIONS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_CHAMPIONS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_CHAMPIONS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_CHAMPIONS</SourceFamilyClass>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -271,9 +276,9 @@
 		</aiYieldModifier>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</Name>
-		<SourceFamilyClass>FAMILY_CLASS_STATESMEN</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN</zType>
+		<Name>TEXT_FAMILYCLASS_STATESMEN</Name>
+		<SourceFamilyClass>FAMILYCLASS_STATESMEN</SourceFamilyClass>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -288,22 +293,22 @@
 		</aiYieldRateOpinion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_STATESMEN</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<EffectCityUnlock>EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</EffectCityUnlock>
-		<SourceFamilyClass>FAMILY_CLASS_STATESMEN</SourceFamilyClass>
+		<EffectCityUnlock>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</EffectCityUnlock>
+		<SourceFamilyClass>FAMILYCLASS_STATESMEN</SourceFamilyClass>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
+		<Name>TEXT_FAMILYCLASS_STATESMEN</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_STATESMEN</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_STATESMEN</SourceFamilyClass>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_PATRONS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_PATRONS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_PATRONS</zType>
+		<Name>TEXT_FAMILYCLASS_PATRONS</Name>
+		<SourceFamilyClass>FAMILYCLASS_PATRONS</SourceFamilyClass>
 		<aiYieldCultureGrowth>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -327,9 +332,9 @@
 		</aeHurryMoney>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_CLERICS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_CLERICS</zType>
+		<Name>TEXT_FAMILYCLASS_CLERICS</Name>
+		<SourceFamilyClass>FAMILYCLASS_CLERICS</SourceFamilyClass>
 		<iDiscipleTrainTimeModifier>-50</iDiscipleTrainTimeModifier>
 		<aiYieldRate>
 			<Pair>
@@ -343,10 +348,10 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_CLERICS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_CLERICS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_CLERICS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_CLERICS</SourceFamilyClass>
 		<aiImprovementClassModifier>
 			<Pair>
 				<zIndex>IMPROVEMENTCLASS_MONASTERY</zIndex>
@@ -363,9 +368,9 @@
 		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_SAGES</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES</Name>
-		<SourceFamilyClass>FAMILY_CLASS_SAGES</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_SAGES</zType>
+		<Name>TEXT_FAMILYCLASS_SAGES</Name>
+		<SourceFamilyClass>FAMILYCLASS_SAGES</SourceFamilyClass>
 		<iSpecialistUrbanCostModifier>-25</iSpecialistUrbanCostModifier>
 		<aiYieldRate>
 			<Pair>
@@ -381,23 +386,23 @@
 		</aiYieldRatePopulation>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_SAGES_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_SAGES</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<EffectCityUnlock>EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</EffectCityUnlock>
-		<SourceFamilyClass>FAMILY_CLASS_SAGES</SourceFamilyClass>
+		<EffectCityUnlock>EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY</EffectCityUnlock>
+		<SourceFamilyClass>FAMILYCLASS_SAGES</SourceFamilyClass>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY</zType>
+		<Name>TEXT_FAMILYCLASS_SAGES</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_SAGES</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_SAGES</SourceFamilyClass>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_TRADERS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_TRADERS</zType>
+		<Name>TEXT_FAMILYCLASS_TRADERS</Name>
 		<SourceUnlock>EFFECTCITY_UNIT_CARAVAN</SourceUnlock>
-		<SourceFamilyClass>FAMILY_CLASS_TRADERS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_TRADERS</SourceFamilyClass>
 		<aiYieldRatePopulation>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -406,10 +411,10 @@
 		</aiYieldRatePopulation>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_TRADERS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_TRADERS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_TRADERS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_TRADERS</SourceFamilyClass>
 		<aiImprovementClassUpgradeTurnChange>
 			<Pair>
 				<zIndex>IMPROVEMENTCLASS_HAMLET</zIndex>
@@ -418,9 +423,9 @@
 		</aiImprovementClassUpgradeTurnChange>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_ARTISANS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_ARTISANS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_ARTISANS</zType>
+		<Name>TEXT_FAMILYCLASS_ARTISANS</Name>
+		<SourceFamilyClass>FAMILYCLASS_ARTISANS</SourceFamilyClass>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
@@ -449,16 +454,16 @@
 		</aeTraitPromotion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_ARTISANS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_ARTISANS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_ARTISANS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_ARTISANS</SourceFamilyClass>
 		<iUrbanBuildTurnChange>-1</iUrbanBuildTurnChange>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_RIDERS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_RIDERS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_RIDERS</zType>
+		<Name>TEXT_FAMILYCLASS_RIDERS</Name>
+		<SourceFamilyClass>FAMILYCLASS_RIDERS</SourceFamilyClass>
 		<bAlwaysConnected>1</bAlwaysConnected>
 		<aiYieldRate>
 			<Pair>
@@ -474,10 +479,10 @@
 		</aeTraitPromotion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_RIDERS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_RIDERS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_RIDERS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_RIDERS</SourceFamilyClass>
 		<aeFreeUnitEffectCity>
 			<zValue>EFFECTCITY_RESOURCE_HORSE</zValue>
 			<zValue>EFFECTCITY_RESOURCE_CAMEL</zValue>
@@ -485,9 +490,9 @@
 		</aeFreeUnitEffectCity>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_HUNTERS</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS</Name>
-		<SourceFamilyClass>FAMILY_CLASS_HUNTERS</SourceFamilyClass>
+		<zType>EFFECTCITY_FAMILYCLASS_HUNTERS</zType>
+		<Name>TEXT_FAMILYCLASS_HUNTERS</Name>
+		<SourceFamilyClass>FAMILYCLASS_HUNTERS</SourceFamilyClass>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -512,17 +517,17 @@
 		</aeTraitPromotion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_HUNTERS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<EffectCityUnlock>EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</EffectCityUnlock>
-		<SourceFamilyClass>FAMILY_CLASS_HUNTERS</SourceFamilyClass>
+		<EffectCityUnlock>EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</EffectCityUnlock>
+		<SourceFamilyClass>FAMILYCLASS_HUNTERS</SourceFamilyClass>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</zType>
-		<Name>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</Name>
+		<zType>EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</zType>
+		<Name>TEXT_FAMILYCLASS_HUNTERS</Name>
 		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
-		<SourceFamilyClass>FAMILY_CLASS_HUNTERS</SourceFamilyClass>
+		<SourceFamilyClass>FAMILYCLASS_HUNTERS</SourceFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_CULTURE_DEVELOPING</zType>
@@ -829,22 +834,22 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HAMLET</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</Name>
+		<Name>TEXT_IMPROVEMENT_HAMLET</Name>
 		<SourceImprovement>IMPROVEMENT_HAMLET</SourceImprovement>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_VILLAGE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_VILLAGE</Name>
+		<Name>TEXT_IMPROVEMENT_VILLAGE</Name>
 		<SourceImprovement>IMPROVEMENT_VILLAGE</SourceImprovement>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_TOWN</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_TOWN</Name>
+		<Name>TEXT_IMPROVEMENT_TOWN</Name>
 		<SourceImprovement>IMPROVEMENT_TOWN</SourceImprovement>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_BARRACKS</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_BARRACKS</Name>
+		<Name>TEXT_IMPROVEMENT_BARRACKS</Name>
 		<SourceImprovement>IMPROVEMENT_BARRACKS</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -855,7 +860,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_RANGE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_RANGE</Name>
+		<Name>TEXT_IMPROVEMENT_RANGE</Name>
 		<SourceImprovement>IMPROVEMENT_RANGE</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -866,13 +871,13 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GARRISON_1</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_1</Name>
+		<Name>TEXT_IMPROVEMENT_GARRISON_1</Name>
 		<SourceImprovement>IMPROVEMENT_GARRISON_1</SourceImprovement>
 		<bEnablesGovernor>1</bEnablesGovernor>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GARRISON_2</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_2</Name>
+		<Name>TEXT_IMPROVEMENT_GARRISON_2</Name>
 		<SourceImprovement>IMPROVEMENT_GARRISON_2</SourceImprovement>
 		<bEnablesGovernor>1</bEnablesGovernor>
 		<aiYieldModifier>
@@ -884,7 +889,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GARRISON_3</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_3</Name>
+		<Name>TEXT_IMPROVEMENT_GARRISON_3</Name>
 		<SourceImprovement>IMPROVEMENT_GARRISON_3</SourceImprovement>
 		<bEnablesGovernor>1</bEnablesGovernor>
 		<aiYieldModifier>
@@ -900,7 +905,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MARKET_1</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_1</Name>
+		<Name>TEXT_IMPROVEMENT_MARKET_1</Name>
 		<SourceImprovement>IMPROVEMENT_MARKET_1</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -920,7 +925,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MARKET_2</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_2</Name>
+		<Name>TEXT_IMPROVEMENT_MARKET_2</Name>
 		<SourceImprovement>IMPROVEMENT_MARKET_2</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -940,7 +945,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MARKET_3</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_3</Name>
+		<Name>TEXT_IMPROVEMENT_MARKET_3</Name>
 		<SourceImprovement>IMPROVEMENT_MARKET_3</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -964,7 +969,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_1</Name>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_1</Name>
 		<SourceImprovement>IMPROVEMENT_LIBRARY_1</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -975,7 +980,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_2</Name>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_2</Name>
 		<SourceImprovement>IMPROVEMENT_LIBRARY_2</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -986,7 +991,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_3</Name>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_3</Name>
 		<SourceImprovement>IMPROVEMENT_LIBRARY_3</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1001,7 +1006,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</Name>
+		<Name>TEXT_IMPROVEMENT_COURTHOUSE_1</Name>
 		<SourceImprovement>IMPROVEMENT_COURTHOUSE_1</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1012,7 +1017,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</Name>
+		<Name>TEXT_IMPROVEMENT_COURTHOUSE_2</Name>
 		<SourceImprovement>IMPROVEMENT_COURTHOUSE_2</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1023,7 +1028,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</Name>
+		<Name>TEXT_IMPROVEMENT_COURTHOUSE_3</Name>
 		<SourceImprovement>IMPROVEMENT_COURTHOUSE_3</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1070,7 +1075,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</Name>
+		<Name>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</Name>
 		<SourceReligion>RELIGION_ZOROASTRIANISM</SourceReligion>
 		<aiYieldRateReligionWorld>
 			<Pair>
@@ -1081,7 +1086,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</Name>
+		<Name>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</Name>
 		<SourceReligion>RELIGION_JUDAISM</SourceReligion>
 		<aiYieldRateReligionWorld>
 			<Pair>
@@ -1092,7 +1097,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</Name>
+		<Name>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</Name>
 		<SourceReligion>RELIGION_CHRISTIANITY</SourceReligion>
 		<aiYieldRateReligionWorld>
 			<Pair>
@@ -1103,7 +1108,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</Name>
+		<Name>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</Name>
 		<SourceReligion>RELIGION_MANICHAEISM</SourceReligion>
 		<aiYieldRateReligionWorld>
 			<Pair>
@@ -1114,18 +1119,18 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</Name>
+		<Name>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</Name>
 		<SourceImprovement>IMPROVEMENT_GREAT_ZIGGURAT</SourceImprovement>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</Name>
 		<SourceImprovement>IMPROVEMENT_GREAT_ZIGGURAT</SourceImprovement>
 		<iImprovementCostModifier>-10</iImprovementCostModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_ORACLE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</Name>
+		<Name>TEXT_IMPROVEMENT_ORACLE</Name>
 		<SourceImprovement>IMPROVEMENT_ORACLE</SourceImprovement>
 		<aiYieldRateReligion>
 			<Pair>
@@ -1136,7 +1141,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_HANGING_GARDENS</Name>
 		<SourceImprovement>IMPROVEMENT_HANGING_GARDENS</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1147,7 +1152,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_NECROPOLIS</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS</Name>
+		<Name>TEXT_IMPROVEMENT_NECROPOLIS</Name>
 		<SourceImprovement>IMPROVEMENT_NECROPOLIS</SourceImprovement>
 		<aiYieldRateSpecialist>
 			<Pair>
@@ -1158,7 +1163,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_NECROPOLIS</Name>
 		<SourceImprovement>IMPROVEMENT_NECROPOLIS</SourceImprovement>
 		<aaiEffectCityYieldRate>
 			<Pair>
@@ -1172,7 +1177,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</Name>
+		<Name>TEXT_IMPROVEMENT_ISHTAR_GATE</Name>
 		<SourceImprovement>IMPROVEMENT_ISHTAR_GATE</SourceImprovement>
 		<aiYieldRateCulture>
 			<Pair>
@@ -1183,7 +1188,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</Name>
+		<Name>TEXT_IMPROVEMENT_LIGHTHOUSE</Name>
 		<SourceImprovement>IMPROVEMENT_LIGHTHOUSE</SourceImprovement>
 		<aiYieldRateSpecialist>
 			<Pair>
@@ -1194,7 +1199,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</Name>
+		<Name>TEXT_IMPROVEMENT_LIGHTHOUSE</Name>
 		<SourceImprovement>IMPROVEMENT_LIGHTHOUSE</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1205,7 +1210,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_APADANA_STATE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_APADANA_STATE</Name>
+		<Name>TEXT_IMPROVEMENT_APADANA</Name>
 		<SourceImprovement>IMPROVEMENT_APADANA</SourceImprovement>
 		<aiYieldRate>
 			<Pair>
@@ -1216,7 +1221,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</Name>
+		<Name>TEXT_IMPROVEMENT_ACROPOLIS</Name>
 		<SourceImprovement>IMPROVEMENT_ACROPOLIS</SourceImprovement>
 		<aiYieldRateReligion>
 			<Pair>
@@ -1227,7 +1232,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_ACROPOLIS</Name>
 		<SourceImprovement>IMPROVEMENT_ACROPOLIS</SourceImprovement>
 		<aaiEffectCityYieldRate>
 			<Pair>
@@ -1241,7 +1246,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_COLOSSUS</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS</Name>
+		<Name>TEXT_IMPROVEMENT_COLOSSUS</Name>
 		<SourceImprovement>IMPROVEMENT_COLOSSUS</SourceImprovement>
 		<aiYieldRateCulture>
 			<Pair>
@@ -1252,7 +1257,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_COLOSSUS</Name>
 		<SourceImprovement>IMPROVEMENT_COLOSSUS</SourceImprovement>
 		<aeFreePromotion>
 			<zValue>PROMOTION_GUARD1</zValue>
@@ -1260,7 +1265,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MUSAEUM</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM</Name>
+		<Name>TEXT_IMPROVEMENT_MUSAEUM</Name>
 		<SourceImprovement>IMPROVEMENT_MUSAEUM</SourceImprovement>
 		<aiYieldRateCulture>
 			<Pair>
@@ -1271,7 +1276,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_MUSAEUM</Name>
 		<SourceImprovement>IMPROVEMENT_MUSAEUM</SourceImprovement>
 		<aaiEffectCityYieldRate>
 			<Pair>
@@ -1285,7 +1290,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</Name>
 		<SourceImprovement>IMPROVEMENT_CIRCUS_MAXIMUS</SourceImprovement>
 		<aeTraitPromotion>
 			<Pair>
@@ -1296,7 +1301,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_MAUSOLEUM</Name>
 		<SourceImprovement>IMPROVEMENT_MAUSOLEUM</SourceImprovement>
 		<aaiEffectCityYieldRate>
 			<Pair>
@@ -1310,7 +1315,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_PANTHEON</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON</Name>
+		<Name>TEXT_IMPROVEMENT_PANTHEON</Name>
 		<SourceImprovement>IMPROVEMENT_PANTHEON</SourceImprovement>
 		<aiYieldRateReligion>
 			<Pair>
@@ -1321,7 +1326,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</Name>
+		<Name>TEXT_IMPROVEMENT_PANTHEON</Name>
 		<SourceImprovement>IMPROVEMENT_PANTHEON</SourceImprovement>
 		<aiYieldRateCulture>
 			<Pair>
@@ -1332,7 +1337,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_HAGIA_SOPHIA</Name>
 		<SourceImprovement>IMPROVEMENT_HAGIA_SOPHIA</SourceImprovement>
 		<aiYieldModifier>
 			<Pair>
@@ -1343,7 +1348,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</Name>
+		<Name>TEXT_IMPROVEMENT_GRAND_BAZAAR</Name>
 		<SourceImprovement>IMPROVEMENT_GRAND_BAZAAR</SourceImprovement>
 		<aaiEffectCityYieldRate>
 			<Pair>
@@ -1356,8 +1361,23 @@
 		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+		<Name>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</Name>
+		<SourceImprovement>IMPROVEMENT_GODS_CONSORT_SHRINE</SourceImprovement>
+		<iFamilyOpinion>40</iFamilyOpinion>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_CITIZEN</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_ORDERS</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_ODEON</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_ODEON</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_ODEON</Name>
 		<aeSourceImprovements>
 			<zValue>IMPROVEMENT_THEATER_1</zValue>
 			<zValue>IMPROVEMENT_THEATER_2</zValue>
@@ -1366,7 +1386,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_MARKET</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MARKET</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_MARKET</Name>
 		<aeSourceImprovements>
 			<zValue>IMPROVEMENT_MARKET_1</zValue>
 			<zValue>IMPROVEMENT_MARKET_2</zValue>
@@ -1375,7 +1395,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_LIBRARY</Name>
 		<aeSourceImprovements>
 			<zValue>IMPROVEMENT_LIBRARY_1</zValue>
 			<zValue>IMPROVEMENT_LIBRARY_2</zValue>
@@ -1384,7 +1404,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_COURTHOUSE</Name>
 		<aeSourceImprovements>
 			<zValue>IMPROVEMENT_COURTHOUSE_1</zValue>
 			<zValue>IMPROVEMENT_COURTHOUSE_2</zValue>
@@ -1393,7 +1413,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_HOLY_SITE</Name>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
@@ -1436,7 +1456,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_TEMPLE</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_TEMPLE</Name>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -1468,7 +1488,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL</zType>
-		<Name>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL</Name>
+		<Name>TEXT_IMPROVEMENTCLASS_CATHEDRAL</Name>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
@@ -1708,7 +1728,7 @@
 		<Name>TEXT_EFFECTCITY_LAW_ENGINEERING</Name>
 		<SourceLaw>LAW_ENGINEERING</SourceLaw>
 		<iAdjacentClassCostModifier>-20</iAdjacentClassCostModifier>
-	</Entry>							  
+	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_LAW_ICONOGRAPHY</zType>
 		<Name>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</Name>
@@ -1721,16 +1741,14 @@
 					<iValue>20</iValue>
 				</SubPair>
 			</Pair>
-		</aaiImprovementClassYield>
-		<aaiEffectCityYieldRate>
 			<Pair>
-				<zIndex>EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zIndex>
+				<zIndex>IMPROVEMENTCLASS_CATHEDRAL</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_ORDERS</zSubIndex>
-					<iValue>50</iValue>
+					<iValue>10</iValue>
 				</SubPair>
 			</Pair>
-		</aaiEffectCityYieldRate>
+		</aaiImprovementClassYield>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_LAW_CALLIGRAPHY</zType>
@@ -1767,28 +1785,14 @@
 		</aeTraitPromotion>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_LAW_ASCETICISM</zType>
-		<Name>TEXT_EFFECTCITY_LAW_ASCETICISM</Name>
-		<SourceLaw>LAW_ASCETICISM</SourceLaw>
+		<zType>EFFECTCITY_LAW_PILGRIMAGE</zType>
+		<Name>TEXT_EFFECTCITY_LAW_PILGRIMAGE</Name>
+		<SourceLaw>LAW_PILGRIMAGE</SourceLaw>
 		<aaiImprovementClassYield>
-			<Pair>
-				<zIndex>IMPROVEMENTCLASS_PASTURE</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_GROWTH</zSubIndex>
-					<iValue>10</iValue>
-				</SubPair>
-			</Pair>
 			<Pair>
 				<zIndex>IMPROVEMENTCLASS_GROVE</zIndex>
 				<SubPair>
-					<zSubIndex>YIELD_GROWTH</zSubIndex>
-					<iValue>10</iValue>
-				</SubPair>
-			</Pair>
-			<Pair>
-				<zIndex>IMPROVEMENTCLASS_NETS</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<zSubIndex>YIELD_CIVICS</zSubIndex>
 					<iValue>10</iValue>
 				</SubPair>
 			</Pair>
@@ -1799,6 +1803,13 @@
 				<SubPair>
 					<zSubIndex>YIELD_GROWTH</zSubIndex>
 					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>1000</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
@@ -1918,7 +1929,7 @@
 				<zIndex>UNIT_AKKADIAN_ARCHER</zIndex>
 				<iValue>-25</iValue>
 			</Pair>
-		</aiUnitCostModifier>
+		</aiUnitCostModifier>			   
 		<aaiEffectCityYieldRate>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY</zIndex>
@@ -1985,7 +1996,7 @@
 		<zType>EFFECTCITY_NATION_GREECE</zType>
 		<Name>TEXT_EFFECTCITY_NATION_GREECE</Name>
 		<SourceNation>NATION_GREECE</SourceNation>
-		<iRebelProb>-10</iRebelProb>
+		<iRebelProb>-10</iRebelProb>					  
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -2000,7 +2011,7 @@
 		</aiUnitCostModifier>
 		<aeFreePromotion>
 			<zValue>PROMOTION_GUARD2</zValue>
-		</aeFreePromotion>
+		</aeFreePromotion>		
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_ROME</zType>
@@ -2199,7 +2210,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_GOVERNOR</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_GOVERNOR</Name>
+		<Name>TEXT_PROJECT_GOVERNOR</Name>
 		<SourceProject>PROJECT_GOVERNOR</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2226,20 +2237,20 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_WALLS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_WALLS</Name>
+		<Name>TEXT_PROJECT_WALLS</Name>
 		<SourceProject>PROJECT_WALLS</SourceProject>
 		<iCityHP>10</iCityHP>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_MOAT</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_MOAT</Name>
+		<Name>TEXT_PROJECT_MOAT</Name>
 		<SourceProject>PROJECT_MOAT</SourceProject>
 		<iCityHP>10</iCityHP>
 		<iStrengthModifier>25</iStrengthModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TOWERS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TOWERS</Name>
+		<Name>TEXT_PROJECT_TOWERS</Name>
 		<SourceProject>PROJECT_TOWERS</SourceProject>
 		<iCityHP>10</iCityHP>
 		<iRangeChange>1</iRangeChange>
@@ -2251,7 +2262,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TREASURY_1</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TREASURY_1</Name>
+		<Name>TEXT_PROJECT_TREASURY_1</Name>
 		<SourceProject>PROJECT_TREASURY_1</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2262,7 +2273,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TREASURY_2</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TREASURY_2</Name>
+		<Name>TEXT_PROJECT_TREASURY_2</Name>
 		<SourceProject>PROJECT_TREASURY_2</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2273,7 +2284,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TREASURY_3</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TREASURY_3</Name>
+		<Name>TEXT_PROJECT_TREASURY_3</Name>
 		<SourceProject>PROJECT_TREASURY_3</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2284,7 +2295,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TREASURY_4</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TREASURY_4</Name>
+		<Name>TEXT_PROJECT_TREASURY_4</Name>
 		<SourceProject>PROJECT_TREASURY_4</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2303,7 +2314,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FORUM_1</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FORUM_1</Name>
+		<Name>TEXT_PROJECT_FORUM_1</Name>
 		<SourceProject>PROJECT_FORUM_1</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2314,7 +2325,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FORUM_2</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FORUM_2</Name>
+		<Name>TEXT_PROJECT_FORUM_2</Name>
 		<SourceProject>PROJECT_FORUM_2</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2325,7 +2336,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FORUM_3</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FORUM_3</Name>
+		<Name>TEXT_PROJECT_FORUM_3</Name>
 		<SourceProject>PROJECT_FORUM_3</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2336,7 +2347,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FORUM_4</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FORUM_4</Name>
+		<Name>TEXT_PROJECT_FORUM_4</Name>
 		<SourceProject>PROJECT_FORUM_4</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2355,7 +2366,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_ARCHIVE_1</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_ARCHIVE_1</Name>
+		<Name>TEXT_PROJECT_ARCHIVE_1</Name>
 		<SourceProject>PROJECT_ARCHIVE_1</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2366,7 +2377,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_ARCHIVE_2</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_ARCHIVE_2</Name>
+		<Name>TEXT_PROJECT_ARCHIVE_2</Name>
 		<SourceProject>PROJECT_ARCHIVE_2</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2377,7 +2388,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_ARCHIVE_3</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_ARCHIVE_3</Name>
+		<Name>TEXT_PROJECT_ARCHIVE_3</Name>
 		<SourceProject>PROJECT_ARCHIVE_3</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2388,7 +2399,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_ARCHIVE_4</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_ARCHIVE_4</Name>
+		<Name>TEXT_PROJECT_ARCHIVE_4</Name>
 		<SourceProject>PROJECT_ARCHIVE_4</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2403,7 +2414,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FESTIVAL</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FESTIVAL</Name>
+		<Name>TEXT_PROJECT_FESTIVAL</Name>
 		<SourceProject>PROJECT_FESTIVAL</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2414,7 +2425,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_INQUIRY</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_INQUIRY</Name>
+		<Name>TEXT_PROJECT_INQUIRY</Name>
 		<SourceProject>PROJECT_INQUIRY</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2425,7 +2436,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_HUNT</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_HUNT</Name>
+		<Name>TEXT_PROJECT_HUNT</Name>
 		<SourceProject>PROJECT_HUNT</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2436,7 +2447,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_OLYMPICS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_OLYMPICS</Name>
+		<Name>TEXT_PROJECT_OLYMPICS</Name>
 		<SourceProject>PROJECT_OLYMPICS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2447,7 +2458,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CONVOY</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CONVOY</Name>
+		<Name>TEXT_PROJECT_CONVOY</Name>
 		<SourceProject>PROJECT_CONVOY</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2458,7 +2469,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_SWORD_CULT</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_SWORD_CULT</Name>
+		<Name>TEXT_PROJECT_SWORD_CULT</Name>
 		<SourceProject>PROJECT_SWORD_CULT</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2469,7 +2480,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</Name>
+		<Name>TEXT_PROJECT_SWORD_CULT_TITHE</Name>
 		<SourceProject>PROJECT_SWORD_CULT_TITHE</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2480,7 +2491,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_HOSTILE_GARRISON</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_HOSTILE_GARRISON</Name>
+		<Name>TEXT_PROJECT_HOSTILE_GARRISON</Name>
 		<SourceProject>PROJECT_HOSTILE_GARRISON</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2491,7 +2502,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_PUBLIC_MURAL</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_PUBLIC_MURAL</Name>
+		<Name>TEXT_PROJECT_PUBLIC_MURAL</Name>
 		<SourceProject>PROJECT_PUBLIC_MURAL</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2502,7 +2513,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TRIUMPH</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TRIUMPH</Name>
+		<Name>TEXT_PROJECT_TRIUMPH</Name>
 		<SourceProject>PROJECT_TRIUMPH</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2513,13 +2524,13 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_PURPLE_DYE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_PURPLE_DYE</Name>
+		<Name>TEXT_PROJECT_PURPLE_DYE</Name>
 		<SourceProject>PROJECT_PURPLE_DYE</SourceProject>
 		<iFamilyOpinion>20</iFamilyOpinion>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_PROPAGANDA</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_PROPAGANDA</Name>
+		<Name>TEXT_PROJECT_PROPAGANDA</Name>
 		<SourceProject>PROJECT_PROPAGANDA</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2530,7 +2541,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CHILD_LABOR</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CHILD_LABOR</Name>
+		<Name>TEXT_PROJECT_CHILD_LABOR</Name>
 		<SourceProject>PROJECT_CHILD_LABOR</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2541,7 +2552,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CORRUPTION_REFORM</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CORRUPTION_REFORM</Name>
+		<Name>TEXT_PROJECT_CORRUPTION_REFORM</Name>
 		<SourceProject>PROJECT_CORRUPTION_REFORM</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2558,7 +2569,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_ROYAL_INSCRIPTIONS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_ROYAL_INSCRIPTIONS</Name>
+		<Name>TEXT_PROJECT_ROYAL_INSCRIPTIONS</Name>
 		<SourceProject>PROJECT_ROYAL_INSCRIPTIONS</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2577,7 +2588,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_IMPERIAL_NECROPOLIS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_IMPERIAL_NECROPOLIS</Name>
+		<Name>TEXT_PROJECT_IMPERIAL_NECROPOLIS</Name>
 		<SourceImprovement>IMPROVEMENT_NECROPOLIS</SourceImprovement>
 		<SourceProject>PROJECT_IMPERIAL_NECROPOLIS</SourceProject>
 		<aiYieldRate>
@@ -2589,7 +2600,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FORCED_DEPORTATIONS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FORCED_DEPORTATIONS</Name>
+		<Name>TEXT_PROJECT_FORCED_DEPORTATIONS</Name>
 		<SourceProject>PROJECT_FORCED_DEPORTATIONS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2604,7 +2615,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_GLADIATORS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_GLADIATORS</Name>
+		<Name>TEXT_PROJECT_GLADIATORS</Name>
 		<SourceProject>PROJECT_GLADIATORS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2623,7 +2634,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_PLAYS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_PLAYS</Name>
+		<Name>TEXT_PROJECT_PLAYS</Name>
 		<SourceProject>PROJECT_PLAYS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2638,7 +2649,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_MERCHANT_TOWN</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_MERCHANT_TOWN</Name>
+		<Name>TEXT_PROJECT_MERCHANT_TOWN</Name>
 		<SourceProject>PROJECT_MERCHANT_TOWN</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2655,7 +2666,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_OUTBREAK</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_OUTBREAK</Name>
+		<Name>TEXT_PROJECT_OUTBREAK</Name>
 		<SourceProject>PROJECT_OUTBREAK</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2666,7 +2677,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_MIDWIFERY</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_MIDWIFERY</Name>
+		<Name>TEXT_PROJECT_MIDWIFERY</Name>
 		<SourceProject>PROJECT_MIDWIFERY</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2677,7 +2688,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_LUXURIOUS_DELIGHTS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_LUXURIOUS_DELIGHTS</Name>
+		<Name>TEXT_PROJECT_LUXURIOUS_DELIGHTS</Name>
 		<SourceProject>PROJECT_LUXURIOUS_DELIGHTS</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2692,7 +2703,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</Name>
+		<Name>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</Name>
 		<SourceProject>PROJECT_NEIGHBORS_FEAST_PERSIA</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2707,7 +2718,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_MISTHOPHORIA</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_MISTHOPHORIA</Name>
+		<Name>TEXT_PROJECT_MISTHOPHORIA</Name>
 		<SourceProject>PROJECT_MISTHOPHORIA</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2726,7 +2737,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_GRAIN_DOLE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_GRAIN_DOLE</Name>
+		<Name>TEXT_PROJECT_GRAIN_DOLE</Name>
 		<SourceProject>PROJECT_GRAIN_DOLE</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2743,7 +2754,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</Name>
+		<Name>TEXT_PROJECT_FOREIGN_FIGHTERS</Name>
 		<SourceProject>PROJECT_FOREIGN_FIGHTERS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2760,7 +2771,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_WAR_COUNCIL</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_WAR_COUNCIL</Name>
+		<Name>TEXT_PROJECT_WAR_COUNCIL</Name>
 		<SourceProject>PROJECT_WAR_COUNCIL</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2781,7 +2792,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_SEWER_SYSTEM</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_SEWER_SYSTEM</Name>
+		<Name>TEXT_PROJECT_SEWER_SYSTEM</Name>
 		<SourceProject>PROJECT_SEWER_SYSTEM</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2802,7 +2813,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CASE_HARDENING</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CASE_HARDENING</Name>
+		<Name>TEXT_PROJECT_CASE_HARDENING</Name>
 		<SourceProject>PROJECT_CASE_HARDENING</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2816,7 +2827,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TURPAN_WELLS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TURPAN_WELLS</Name>
+		<Name>TEXT_PROJECT_TURPAN_WELLS</Name>
 		<SourceProject>PROJECT_TURPAN_WELLS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2837,7 +2848,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_NATIONAL_HOLIDAY</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_NATIONAL_HOLIDAY</Name>
+		<Name>TEXT_PROJECT_NATIONAL_HOLIDAY</Name>
 		<SourceProject>PROJECT_NATIONAL_HOLIDAY</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2860,7 +2871,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_SCIENTIFIC_METHOD</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_SCIENTIFIC_METHOD</Name>
+		<Name>TEXT_PROJECT_SCIENTIFIC_METHOD</Name>
 		<SourceProject>PROJECT_SCIENTIFIC_METHOD</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2875,7 +2886,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_HORREUM</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_HORREUM</Name>
+		<Name>TEXT_PROJECT_HORREUM</Name>
 		<SourceProject>PROJECT_HORREUM</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2900,7 +2911,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_AVESTA_TREASURY</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_AVESTA_TREASURY</Name>
+		<Name>TEXT_PROJECT_AVESTA_TREASURY</Name>
 		<SourceProject>PROJECT_AVESTA_TREASURY</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2921,7 +2932,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_DISEASED_SETTLERS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_DISEASED_SETTLERS</Name>
+		<Name>TEXT_PROJECT_DISEASED_SETTLERS</Name>
 		<SourceProject>PROJECT_DISEASED_SETTLERS</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -2942,7 +2953,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TERRACE_LOVE_SHRINE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TERRACE_LOVE_SHRINE</Name>
+		<Name>TEXT_PROJECT_TERRACE_LOVE_SHRINE</Name>
 		<SourceProject>PROJECT_TERRACE_LOVE_SHRINE</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2957,7 +2968,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TERRACE_WISDOM_SHRINE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TERRACE_WISDOM_SHRINE</Name>
+		<Name>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</Name>
 		<SourceProject>PROJECT_TERRACE_WISDOM_SHRINE</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2972,7 +2983,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_TERRACE_WAR_SHRINE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_TERRACE_WAR_SHRINE</Name>
+		<Name>TEXT_PROJECT_TERRACE_WAR_SHRINE</Name>
 		<SourceProject>PROJECT_TERRACE_WAR_SHRINE</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -2987,7 +2998,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CONSULAR_TRIBUNES</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CONSULAR_TRIBUNES</Name>
+		<Name>TEXT_PROJECT_CONSULAR_TRIBUNES</Name>
 		<SourceProject>PROJECT_CONSULAR_TRIBUNES</SourceProject>
 		<aiYieldModifier>
 			<Pair>
@@ -3006,7 +3017,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_CONFUCIANISM</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_CONFUCIANISM</Name>
+		<Name>TEXT_PROJECT_CONFUCIANISM</Name>
 		<SourceProject>PROJECT_CONFUCIANISM</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -3027,7 +3038,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_SALT_PRODUCTION</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_SALT_PRODUCTION</Name>
+		<Name>TEXT_PROJECT_SALT_PRODUCTION</Name>
 		<SourceProject>PROJECT_SALT_PRODUCTION</SourceProject>
 		<aiYieldRate>
 			<Pair>
@@ -3052,29 +3063,80 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_AUTONOMOUS_RULE</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_AUTONOMOUS_RULE</Name>
+		<Name>TEXT_PROJECT_AUTONOMOUS_RULE</Name>
 		<SourceProject>PROJECT_AUTONOMOUS_RULE</SourceProject>
 		<bAutoBuild>1</bAutoBuild>
 		<bNoHurry>1</bNoHurry>
 	</Entry>
-	 <Entry>
-    <zType>EFFECTCITY_PROJECT_MONUMENTAL_GATE</zType>
-    <Name>TEXT_EFFECTCITY_PROJECT_MONUMENTAL_GATE</Name>
-    <SourceProject>PROJECT_MONUMENTAL_GATE</SourceProject>
-    <aiYieldRate>
-      <Pair>
-        <zIndex>YIELD_TRAINING</zIndex>
-        <iValue>10</iValue>
-      </Pair>
-      <Pair>
-        <zIndex>YIELD_CULTURE</zIndex>
-        <iValue>10</iValue>
-      </Pair>
-    </aiYieldRate>
-  </Entry>
-  <Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MONUMENTAL_GATE</zType>
+		<Name>TEXT_PROJECT_MONUMENTAL_GATE</Name>
+		<SourceProject>PROJECT_MONUMENTAL_GATE</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_LEVIATHAN</zType>
+		<Name>TEXT_PROJECT_LEVIATHAN</Name>
+		<SourceProject>PROJECT_LEVIATHAN</SourceProject>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_GODS_CONSORT_CULT</zType>
+		<Name>TEXT_PROJECT_GODS_CONSORT_CULT</Name>
+		<SourceProject>PROJECT_GODS_CONSORT_CULT</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_LABYRINTH</zType>
+		<Name>TEXT_PROJECT_LABYRINTH</Name>
+		<SourceProject>PROJECT_LABYRINTH</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_RELIGION_JUDAISM</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_JUDAISM</Name>
+		<Name>TEXT_RELIGION_JUDAISM</Name>
 		<SourceReligion>RELIGION_JUDAISM</SourceReligion>
 		<aiYieldRate>
 			<Pair>
@@ -3085,7 +3147,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_JUDAISM_STATE</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_JUDAISM_STATE</Name>
+		<Name>TEXT_RELIGION_JUDAISM</Name>
 		<Source>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</Source>
 		<SourceReligion>RELIGION_JUDAISM</SourceReligion>
 		<aiYieldRate>
@@ -3101,7 +3163,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_ZOROASTRIANISM</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM</Name>
+		<Name>TEXT_RELIGION_ZOROASTRIANISM</Name>
 		<SourceReligion>RELIGION_ZOROASTRIANISM</SourceReligion>
 		<aiYieldRate>
 			<Pair>
@@ -3112,7 +3174,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_ZOROASTRIANISM_STATE</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM_STATE</Name>
+		<Name>TEXT_RELIGION_ZOROASTRIANISM</Name>
 		<Source>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</Source>
 		<SourceReligion>RELIGION_ZOROASTRIANISM</SourceReligion>
 		<aiYieldRate>
@@ -3128,7 +3190,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_CHRISTIANITY</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY</Name>
+		<Name>TEXT_RELIGION_CHRISTIANITY</Name>
 		<SourceReligion>RELIGION_CHRISTIANITY</SourceReligion>
 		<aiYieldRate>
 			<Pair>
@@ -3139,7 +3201,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_CHRISTIANITY_STATE</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY_STATE</Name>
+		<Name>TEXT_RELIGION_CHRISTIANITY</Name>
 		<Source>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</Source>
 		<SourceReligion>RELIGION_CHRISTIANITY</SourceReligion>
 		<aiYieldRate>
@@ -3155,7 +3217,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_MANICHAEISM</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_MANICHAEISM</Name>
+		<Name>TEXT_RELIGION_MANICHAEISM</Name>
 		<SourceReligion>RELIGION_MANICHAEISM</SourceReligion>
 		<aiYieldRate>
 			<Pair>
@@ -3166,7 +3228,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RELIGION_MANICHAEISM_STATE</zType>
-		<Name>TEXT_EFFECTCITY_RELIGION_MANICHAEISM_STATE</Name>
+		<Name>TEXT_RELIGION_MANICHAEISM</Name>
 		<Source>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</Source>
 		<SourceReligion>RELIGION_MANICHAEISM</SourceReligion>
 		<aiYieldRate>
@@ -3225,15 +3287,21 @@
 		<bLuxury>1</bLuxury>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_RESOURCE_WINE</zType>
-		<Name>TEXT_EFFECTCITY_RESOURCE_WINE</Name>
-		<SourceResource>RESOURCE_WINE</SourceResource>
+		<zType>EFFECTCITY_RESOURCE_LAVENDER</zType>
+		<Name>TEXT_EFFECTCITY_RESOURCE_LAVENDER</Name>
+		<SourceResource>RESOURCE_LAVENDER</SourceResource>
 		<bLuxury>1</bLuxury>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RESOURCE_OLIVE</zType>
 		<Name>TEXT_EFFECTCITY_RESOURCE_OLIVE</Name>
 		<SourceResource>RESOURCE_OLIVE</SourceResource>
+		<bLuxury>1</bLuxury>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_WINE</zType>
+		<Name>TEXT_EFFECTCITY_RESOURCE_WINE</Name>
+		<SourceResource>RESOURCE_WINE</SourceResource>
 		<bLuxury>1</bLuxury>
 	</Entry>
 	<Entry>
@@ -3268,7 +3336,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_FARMER</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_FARMER</Name>
+		<Name>TEXT_SPECIALIST_FARMER</Name>
 		<SourceSpecialist>SPECIALIST_FARMER</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3279,7 +3347,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_WOODCUTTER</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_WOODCUTTER</Name>
+		<Name>TEXT_SPECIALIST_WOODCUTTER</Name>
 		<SourceSpecialist>SPECIALIST_WOODCUTTER</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3290,7 +3358,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_STONECUTTER</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_STONECUTTER</Name>
+		<Name>TEXT_SPECIALIST_STONECUTTER</Name>
 		<SourceSpecialist>SPECIALIST_STONECUTTER</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3301,7 +3369,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_MINER</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_MINER</Name>
+		<Name>TEXT_SPECIALIST_MINER</Name>
 		<SourceSpecialist>SPECIALIST_MINER</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3312,7 +3380,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_DOCTOR_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_1</Name>
+		<Name>TEXT_SPECIALIST_DOCTOR_1</Name>
 		<SourceSpecialist>SPECIALIST_DOCTOR_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3323,7 +3391,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_DOCTOR_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_2</Name>
+		<Name>TEXT_SPECIALIST_DOCTOR_2</Name>
 		<SourceSpecialist>SPECIALIST_DOCTOR_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3340,7 +3408,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_DOCTOR_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_3</Name>
+		<Name>TEXT_SPECIALIST_DOCTOR_3</Name>
 		<SourceSpecialist>SPECIALIST_DOCTOR_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3357,7 +3425,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_ACOLYTE_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_1</Name>
+		<Name>TEXT_SPECIALIST_ACOLYTE_1</Name>
 		<SourceSpecialist>SPECIALIST_ACOLYTE_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3368,7 +3436,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_ACOLYTE_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_2</Name>
+		<Name>TEXT_SPECIALIST_ACOLYTE_2</Name>
 		<SourceSpecialist>SPECIALIST_ACOLYTE_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3383,7 +3451,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_ACOLYTE_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_3</Name>
+		<Name>TEXT_SPECIALIST_ACOLYTE_3</Name>
 		<SourceSpecialist>SPECIALIST_ACOLYTE_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3398,7 +3466,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_MONK_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_MONK_1</Name>
+		<Name>TEXT_SPECIALIST_MONK_1</Name>
 		<SourceSpecialist>SPECIALIST_MONK_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3409,7 +3477,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_MONK_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_MONK_2</Name>
+		<Name>TEXT_SPECIALIST_MONK_2</Name>
 		<SourceSpecialist>SPECIALIST_MONK_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3426,7 +3494,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_MONK_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_MONK_3</Name>
+		<Name>TEXT_SPECIALIST_MONK_3</Name>
 		<SourceSpecialist>SPECIALIST_MONK_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3443,7 +3511,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PRIEST_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PRIEST_1</Name>
+		<Name>TEXT_SPECIALIST_PRIEST_1</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3454,7 +3522,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PRIEST_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PRIEST_2</Name>
+		<Name>TEXT_SPECIALIST_PRIEST_2</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3474,7 +3542,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PRIEST_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PRIEST_3</Name>
+		<Name>TEXT_SPECIALIST_PRIEST_3</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3494,7 +3562,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_BISHOP_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_BISHOP_1</Name>
+		<Name>TEXT_SPECIALIST_BISHOP_1</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_1</SourceSpecialist>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3505,7 +3573,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_BISHOP_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_BISHOP_2</Name>
+		<Name>TEXT_SPECIALIST_BISHOP_2</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3522,7 +3590,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_BISHOP_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_BISHOP_3</Name>
+		<Name>TEXT_SPECIALIST_BISHOP_3</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3539,7 +3607,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_POET_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_POET_1</Name>
+		<Name>TEXT_SPECIALIST_POET_1</Name>
 		<SourceSpecialist>SPECIALIST_POET_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3550,7 +3618,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_POET_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_POET_2</Name>
+		<Name>TEXT_SPECIALIST_POET_2</Name>
 		<SourceSpecialist>SPECIALIST_POET_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3570,7 +3638,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_POET_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_POET_3</Name>
+		<Name>TEXT_SPECIALIST_POET_3</Name>
 		<SourceSpecialist>SPECIALIST_POET_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3590,7 +3658,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_1</Name>
+		<Name>TEXT_SPECIALIST_SHOPKEEPER_1</Name>
 		<SourceSpecialist>SPECIALIST_SHOPKEEPER_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3601,7 +3669,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_2</Name>
+		<Name>TEXT_SPECIALIST_SHOPKEEPER_2</Name>
 		<SourceSpecialist>SPECIALIST_SHOPKEEPER_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3618,7 +3686,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SHOPKEEPER_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_3</Name>
+		<Name>TEXT_SPECIALIST_SHOPKEEPER_3</Name>
 		<SourceSpecialist>SPECIALIST_SHOPKEEPER_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3635,7 +3703,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_1</Name>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_1</Name>
 		<SourceSpecialist>SPECIALIST_PHILOSOPHER_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3646,7 +3714,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_2</Name>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_2</Name>
 		<SourceSpecialist>SPECIALIST_PHILOSOPHER_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3666,7 +3734,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_3</Name>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_3</Name>
 		<SourceSpecialist>SPECIALIST_PHILOSOPHER_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3686,7 +3754,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</Name>
+		<Name>TEXT_SPECIALIST_SCRIBE_1</Name>
 		<SourceSpecialist>SPECIALIST_SCRIBE_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3697,7 +3765,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</Name>
+		<Name>TEXT_SPECIALIST_SCRIBE_2</Name>
 		<SourceSpecialist>SPECIALIST_SCRIBE_2</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3717,7 +3785,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_SCRIBE_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_3</Name>
+		<Name>TEXT_SPECIALIST_SCRIBE_3</Name>
 		<SourceSpecialist>SPECIALIST_SCRIBE_3</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3737,7 +3805,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_OFFICER_1</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</Name>
+		<Name>TEXT_SPECIALIST_OFFICER_1</Name>
 		<SourceSpecialist>SPECIALIST_OFFICER_1</SourceSpecialist>
 		<aiYieldRate>
 			<Pair>
@@ -3748,7 +3816,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_OFFICER_2</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_OFFICER_2</Name>
+		<Name>TEXT_SPECIALIST_OFFICER_2</Name>
 		<SourceSpecialist>SPECIALIST_OFFICER_2</SourceSpecialist>
 		<iUnitXP>25</iUnitXP>
 		<aiYieldRate>
@@ -3760,7 +3828,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_OFFICER_3</zType>
-		<Name>TEXT_EFFECTCITY_SPECIALIST_OFFICER_3</Name>
+		<Name>TEXT_SPECIALIST_OFFICER_3</Name>
 		<SourceSpecialist>SPECIALIST_OFFICER_3</SourceSpecialist>
 		<iUnitXP>50</iUnitXP>
 		<aiYieldRate>
@@ -3857,7 +3925,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_AFFABLE</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_AFFABLE</Name>
+		<Name>TEXT_TRAIT_AFFABLE</Name>
 		<SourceTrait>TRAIT_AFFABLE</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3868,7 +3936,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_ELOQUENT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_ELOQUENT</Name>
+		<Name>TEXT_TRAIT_ELOQUENT</Name>
 		<SourceTrait>TRAIT_ELOQUENT</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3879,7 +3947,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_WARLIKE</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_WARLIKE</Name>
+		<Name>TEXT_TRAIT_WARLIKE</Name>
 		<SourceTrait>TRAIT_WARLIKE</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3890,7 +3958,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_INSPIRING</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_INSPIRING</Name>
+		<Name>TEXT_TRAIT_INSPIRING</Name>
 		<SourceTrait>TRAIT_INSPIRING</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3901,7 +3969,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_INTELLIGENT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</Name>
+		<Name>TEXT_TRAIT_INTELLIGENT</Name>
 		<SourceTrait>TRAIT_INTELLIGENT</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3912,7 +3980,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_PROSPEROUS</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_PROSPEROUS</Name>
+		<Name>TEXT_TRAIT_PROSPEROUS</Name>
 		<SourceTrait>TRAIT_PROSPEROUS</SourceTrait>
 		<aiYieldRateCulture>
 			<Pair>
@@ -3923,13 +3991,13 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_FRUGAL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_FRUGAL</Name>
+		<Name>TEXT_TRAIT_FRUGAL</Name>
 		<SourceTrait>TRAIT_FRUGAL</SourceTrait>
 		<iImprovementCostModifier>-50</iImprovementCostModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_RIGHTEOUS</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS</Name>
+		<Name>TEXT_TRAIT_RIGHTEOUS</Name>
 		<SourceTrait>TRAIT_RIGHTEOUS</SourceTrait>
 		<aiYieldRate>
 			<Pair>
@@ -3940,7 +4008,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_CRUEL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_CRUEL</Name>
+		<Name>TEXT_TRAIT_CRUEL</Name>
 		<SourceTrait>TRAIT_CRUEL</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -3950,9 +4018,9 @@
 		</aiYieldModifier>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_TRAIT_CARELESS</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_CARELESS</Name>
-		<SourceTrait>TRAIT_CARELESS</SourceTrait>
+		<zType>EFFECTCITY_TRAIT_INTOLERANT</zType>
+		<Name>TEXT_TRAIT_INTOLERANT</Name>
+		<SourceTrait>TRAIT_INTOLERANT</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -3962,7 +4030,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_SLOTHFUL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_SLOTHFUL</Name>
+		<Name>TEXT_TRAIT_SLOTHFUL</Name>
 		<SourceTrait>TRAIT_SLOTHFUL</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -3973,7 +4041,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_UNCOUTH</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_UNCOUTH</Name>
+		<Name>TEXT_TRAIT_UNCOUTH</Name>
 		<SourceTrait>TRAIT_UNCOUTH</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -3984,7 +4052,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_FOOLISH</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_FOOLISH</Name>
+		<Name>TEXT_TRAIT_FOOLISH</Name>
 		<SourceTrait>TRAIT_FOOLISH</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -3995,7 +4063,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_EXTRAVAGANT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT</Name>
+		<Name>TEXT_TRAIT_EXTRAVAGANT</Name>
 		<SourceTrait>TRAIT_EXTRAVAGANT</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -4006,7 +4074,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_CORRUPT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_CORRUPT</Name>
+		<Name>TEXT_TRAIT_CORRUPT</Name>
 		<SourceTrait>TRAIT_CORRUPT</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -4017,7 +4085,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_DEBAUCHED</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_DEBAUCHED</Name>
+		<Name>TEXT_TRAIT_DEBAUCHED</Name>
 		<SourceTrait>TRAIT_DEBAUCHED</SourceTrait>
 		<aiYieldRate>
 			<Pair>
@@ -4028,7 +4096,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_ROBUST</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_ROBUST</Name>
+		<Name>TEXT_TRAIT_ROBUST</Name>
 		<SourceTrait>TRAIT_ROBUST</SourceTrait>
 		<aiYieldRate>
 			<Pair>
@@ -4039,19 +4107,19 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_VIGILANT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_VIGILANT</Name>
+		<Name>TEXT_TRAIT_VIGILANT</Name>
 		<SourceTrait>TRAIT_VIGILANT</SourceTrait>
 		<iStrengthModifier>50</iStrengthModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_STRICT</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_STRICT</Name>
+		<Name>TEXT_TRAIT_STRICT</Name>
 		<SourceTrait>TRAIT_STRICT</SourceTrait>
 		<iUnitXP>50</iUnitXP>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_DRILLMASTER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</Name>
+		<Name>TEXT_TRAIT_DRILLMASTER</Name>
 		<SourceTrait>TRAIT_DRILLMASTER</SourceTrait>
 		<aiUnitTraitXP>
 			<Pair>
@@ -4062,7 +4130,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_KEEN</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_KEEN</Name>
+		<Name>TEXT_TRAIT_KEEN</Name>
 		<SourceTrait>TRAIT_KEEN</SourceTrait>
 		<aiUnitTraitXP>
 			<Pair>
@@ -4073,7 +4141,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_EQUESTRIAN</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</Name>
+		<Name>TEXT_TRAIT_EQUESTRIAN</Name>
 		<SourceTrait>TRAIT_EQUESTRIAN</SourceTrait>
 		<aiUnitTraitXP>
 			<Pair>
@@ -4084,7 +4152,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_ANGLER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_ANGLER</Name>
+		<Name>TEXT_TRAIT_ANGLER</Name>
 		<SourceTrait>TRAIT_ANGLER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4095,7 +4163,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_PLANTER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_PLANTER</Name>
+		<Name>TEXT_TRAIT_PLANTER</Name>
 		<SourceTrait>TRAIT_PLANTER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4110,7 +4178,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_FORESTER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_FORESTER</Name>
+		<Name>TEXT_TRAIT_FORESTER</Name>
 		<SourceTrait>TRAIT_FORESTER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4121,7 +4189,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_DELVER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_DELVER</Name>
+		<Name>TEXT_TRAIT_DELVER</Name>
 		<SourceTrait>TRAIT_DELVER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4132,7 +4200,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_SMELTER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_SMELTER</Name>
+		<Name>TEXT_TRAIT_SMELTER</Name>
 		<SourceTrait>TRAIT_SMELTER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4143,7 +4211,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_HERDER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_HERDER</Name>
+		<Name>TEXT_TRAIT_HERDER</Name>
 		<SourceTrait>TRAIT_HERDER</SourceTrait>
 		<aiImprovementModifier>
 			<Pair>
@@ -4158,13 +4226,13 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_DEALMAKER</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_DEALMAKER</Name>
-		<SourceUnlock>EFFECTCITY_UNIT_CARAVAN</SourceUnlock>											  
+		<Name>TEXT_TRAIT_DEALMAKER</Name>
+		<SourceUnlock>EFFECTCITY_UNIT_CARAVAN</SourceUnlock>
 		<SourceTrait>TRAIT_DEALMAKER</SourceTrait>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_MISERABLE_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_MISERABLE</Name>
+		<Name>TEXT_TRAIT_MISERABLE</Name>
 		<SourceTrait>TRAIT_MISERABLE</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -4175,7 +4243,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_MOURNING_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_MOURNING</Name>
+		<Name>TEXT_TRAIT_MOURNING</Name>
 		<SourceTrait>TRAIT_MOURNING</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -4186,7 +4254,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_SOLDIER_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_SOLDIER</Name>
+		<Name>TEXT_TRAIT_SOLDIER</Name>
 		<SourceTrait>TRAIT_SOLDIER</SourceTrait>
 		<aiYieldModifier>
 			<Pair>
@@ -4197,13 +4265,13 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_FAMOUS</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_FAMOUNS</Name>
+		<Name>TEXT_TRAIT_FAMOUS</Name>
 		<SourceTrait>TRAIT_FAMOUS</SourceTrait>
 		<iSpecialistCostModifier>-25</iSpecialistCostModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</Name>
+		<Name>TEXT_TRAIT_ENEMY_OF_THE_STATE</Name>
 		<SourceTrait>TRAIT_ENEMY_OF_THE_STATE</SourceTrait>
 		<iRebelProb>10</iRebelProb>
 		<aiYieldRate>
@@ -4221,7 +4289,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_UNIT_CARAVAN</zType>
-		<Name>TEXT_EFFECTCITY_UNIT_CARAVAN</Name>
+		<Name>TEXT_UNIT_CARAVAN</Name>
 		<SourceUnit>UNIT_CARAVAN</SourceUnit>
 	</Entry>
 </Root>

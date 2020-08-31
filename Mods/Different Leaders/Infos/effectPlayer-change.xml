@@ -1,9 +1,8 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+
 <Root>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_EGYPT</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_EGYPT</Name>
+		<Name>TEXT_NATION_EGYPT</Name>
 		<SourceNation>NATION_EGYPT</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_EGYPT</EffectCity>
 		<StartBonus>BONUS_NATION_EGYPT</StartBonus>
@@ -20,7 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_ROME</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_ROME</Name>
+		<Name>TEXT_NATION_ROME</Name>
 		<SourceNation>NATION_ROME</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ROME</EffectCity>
 		<iXPModifier>0</iXPModifier>
@@ -36,7 +35,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_PERSIA</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_PERSIA</Name>
+		<Name>TEXT_NATION_PERSIA</Name>
 		<SourceNation>NATION_PERSIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_PERSIA</EffectCity>
 		<iXPModifier>50</iXPModifier>
@@ -65,7 +64,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_CARTHAGE</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_CARTHAGE</Name>
+		<Name>TEXT_NATION_CARTHAGE</Name>
 		<SourceNation>NATION_CARTHAGE</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_CARTHAGE</EffectCity>
 		<FoundBonus>BONUS_NATION_CARTHAGE</FoundBonus>
@@ -78,14 +77,14 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_GREECE</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_GREECE</Name>
+		<Name>TEXT_NATION_GREECE</Name>
 		<SourceNation>NATION_GREECE</SourceNation>
 		<EffectPlayer>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</EffectPlayer>
 		<EffectCity>EFFECTCITY_NATION_GREECE</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_ASSYRIA</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_ASSYRIA</Name>
+		<Name>TEXT_NATION_ASSYRIA</Name>
 		<SourceNation>NATION_ASSYRIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
 		<aiUnitKillYield>
@@ -105,7 +104,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_BABYLONIA</zType>
-		<Name>TEXT_EFFECTPLAYER_NATION_BABYLONIA</Name>
+		<Name>TEXT_NATION_BABYLONIA</Name>
 		<SourceNation>NATION_BABYLONIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_BABYLONIA</EffectCity>
 		<iSwitchLawModifier>-25</iSwitchLawModifier>
