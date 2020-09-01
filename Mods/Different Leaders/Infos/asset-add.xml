@@ -5,6 +5,10 @@
 		<zAsset>leaders/Amestris</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_AMESTRIS_old</zType>
+		<zAsset>leaders/Amestris_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ARTAXERXES</zType>
 		<zAsset>leaders/Artaxerxes</zAsset>
 	</Entry>
@@ -13,8 +17,16 @@
 		<zAsset>leaders/Atia</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ATIA_old</zType>
+		<zAsset>leaders/Atia_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_AUGUSTUS</zType>
 		<zAsset>leaders/Augustus</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_AUGUSTUS_old</zType>
+		<zAsset>leaders/Augustus_old</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_CHEOPS</zType>
@@ -25,20 +37,44 @@
 		<zAsset>leaders/Darius</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_DARIUS_old</zType>
+		<zAsset>leaders/Darius_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GORGO</zType>
 		<zAsset>leaders/Gorgo</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_GORGO_old</zType>
+		<zAsset>leaders/Gorgo_old</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_HAMILCAR</zType>
 		<zAsset>leaders/Hamilcar</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_HAMILCAR_old</zType>
+		<zAsset>leaders/Hamilcar_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_HANNIBAL</zType>
 		<zAsset>leaders/Hannibal</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_HANNIBAL_old</zType>
+		<zAsset>leaders/Hannibal_old</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_HANNIBAL_young</zType>
+		<zAsset>leaders/Hannibal_young</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_LEONIDAS</zType>
 		<zAsset>leaders/Leonidas</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_LEONIDAS_old</zType>
+		<zAsset>leaders/Leonidas_old</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_MAGO</zType>
@@ -53,15 +89,35 @@
 		<zAsset>leaders/Nofret</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_NOFRET_old</zType>
+		<zAsset>leaders/Nofret_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_RAHOTEP</zType>
 		<zAsset>leaders/Rahotep</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_RAHOTEP_old</zType>
+		<zAsset>leaders/Rahotep_old</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_TIBERIUS</zType>
 		<zAsset>leaders/Tiberius</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_TIBERIUS_young</zType>
+		<zAsset>leaders/Tiberius_young</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_TIBERIUS_old</zType>
+		<zAsset>leaders/Tiberius_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_XERXES</zType>
 		<zAsset>leaders/Xerxes</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_XERXES_old</zType>
+		<zAsset>leaders/Xerxes_old</zAsset>
 	</Entry>
 </Root>

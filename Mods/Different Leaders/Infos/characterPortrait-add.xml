@@ -23,7 +23,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Hamilcar</zValue>
+        <zValue>Hamilcar_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -59,7 +59,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_09_YOUTH</zValue>
+        <zValue>Hannibal_young</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -67,7 +67,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Hannibal</zValue>
+        <zValue>Hannibal_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -177,7 +177,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Rahotep</zValue>
+        <zValue>Rahotep_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -199,7 +199,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Nofret</zValue>
+        <zValue>Nofret_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -243,7 +243,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Augustus</zValue>
+        <zValue>Augustus_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -265,7 +265,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Atia</zValue>
+        <zValue>Atia_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -367,7 +367,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_04_YOUTH</zValue>
+        <zValue>Tiberius_young</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -375,7 +375,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Tiberius</zValue>
+        <zValue>Tiberius_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -419,7 +419,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Darius</zValue>
+        <zValue>Darius_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -463,7 +463,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Xerxes</zValue>
+        <zValue>Xerxes_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -485,7 +485,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Amestris</zValue>
+        <zValue>Amestris_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -595,7 +595,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Leonidas</zValue>
+        <zValue>Leonidas_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -617,7 +617,7 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>Gorgo</zValue>
+        <zValue>Gorgo_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
