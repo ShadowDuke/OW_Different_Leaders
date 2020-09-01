@@ -13,6 +13,18 @@
 		<zAsset>leaders/Artaxerxes</zAsset>
 	</Entry>
 	<Entry>
+		<zType>ASSET_SPRITE_SHEET_AMYTIS_young</zType>
+		<zAsset>leaders/Amytis_young</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_AMYTIS</zType>
+		<zAsset>leaders/Amytis</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_AMYTIS_old</zType>
+		<zAsset>leaders/Amytis_old</zAsset>
+	</Entry>
+	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ATIA</zType>
 		<zAsset>leaders/Atia</zAsset>
 	</Entry>
@@ -47,6 +59,18 @@
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_GORGO_old</zType>
 		<zAsset>leaders/Gorgo_old</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PLEISTARCHOS_young</zType>
+		<zAsset>leaders/Pleistarchos_young</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PLEISTARCHOS</zType>
+		<zAsset>leaders/Pleistarchos</zAsset>
+	</Entry>	
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_PLEISTARCHOS_old</zType>
+		<zAsset>leaders/Pleistarchos_old</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_HAMILCAR</zType>

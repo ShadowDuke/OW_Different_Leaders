@@ -34,6 +34,12 @@
 			<zValue>ASSET_SPRITE_SHEET_TIBERIUS_old</zValue>
 			<zValue>ASSET_SPRITE_SHEET_XERXES</zValue>
 			<zValue>ASSET_SPRITE_SHEET_XERXES_old</zValue>
+			<zValue>ASSET_SPRITE_SHEET_AMYTIS_young</zValue>
+			<zValue>ASSET_SPRITE_SHEET_AMYTIS</zValue>
+			<zValue>ASSET_SPRITE_SHEET_AMYTIS_old</zValue>
+			<zValue>ASSET_SPRITE_SHEET_PLEISTARCHOS_young</zValue>
+			<zValue>ASSET_SPRITE_SHEET_PLEISTARCHOS</zValue>
+			<zValue>ASSET_SPRITE_SHEET_PLEISTARCHOS_old</zValue>
         </aeSpriteSheets>
     </Entry>
 </Root>

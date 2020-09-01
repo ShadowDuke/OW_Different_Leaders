@@ -521,15 +521,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_FEMALE_07_YOUTH</zValue>
+        <zValue>Amytis_young</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>PERSIA_LEADER_FEMALE_11_ADULT</zValue>
+        <zValue>Amytis</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>PERSIA_LEADER_FEMALE_11_SENIOR</zValue>
+        <zValue>Amytis_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
@@ -675,15 +675,15 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-        <zValue>GENERIC_MALE_11_YOUTH</zValue>
+        <zValue>Pleistarchos_young</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-        <zValue>GREECE_LEADER_MALE_09_ADULT</zValue>
+        <zValue>Pleistarchos</zValue>
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-        <zValue>GREECE_LEADER_MALE_09_SENIOR</zValue>
+        <zValue>Pleistarchos_old</zValue>
       </Pair>
     </azAgeGroupSpriteNames>
   </Entry>
