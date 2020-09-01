@@ -107,6 +107,6 @@
 		<Name>TEXT_NATION_BABYLONIA</Name>
 		<SourceNation>NATION_BABYLONIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_BABYLONIA</EffectCity>
-		<iSwitchLawModifier>-25</iSwitchLawModifier>
+		<iSwitchLawModifier>-50</iSwitchLawModifier>
 	</Entry>
 </Root>

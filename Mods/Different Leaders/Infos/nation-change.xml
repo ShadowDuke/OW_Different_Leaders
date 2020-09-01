@@ -1,34 +1,5 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
 <Root>
-	<Entry>
-		<zType/>
-		<Name/>
-		<TeamColor/>
-		<Crest/>
-		<zAttackPortraitName/>
-		<zCharacterPortraitBackground/>
-		<CapitalAsset/>
-		<CityAsset/>
-		<UrbanAsset/>
-		<Founder/>
-		<FirstRuler/>
-		<FirstBuild/>
-		<EffectPlayer/>
-		<MapElementNames/>
-		<iFirstBuildPercent/>
-		<bShowSurname/>
-		<aiStartUnit/>
-		<aiStartYield/>
-		<aiNationOpinion/>
-		<aeStartingTech/>
-		<aeStartingLaw/>
-		<aeFirstNamesMale/>
-		<aeFirstNamesFemale/>
-		<aeCityNames/>
-		<aeCharacterPortraits/>
-		<Story/>
-	</Entry>
+
 	<Entry>
 		<zType>NATION_ASSYRIA</zType>
 		<Name>TEXT_NATION_PARTHIA</Name>

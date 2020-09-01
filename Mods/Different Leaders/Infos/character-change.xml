@@ -1,31 +1,4 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
-	<Entry>
-		<zType/>
-		<Gender/>
-		<FirstName/>
-		<Nation/>
-		<Father/>
-		<Mother/>
-		<Spouse/>
-		<CharacterSelectPortrait/>
-		<iAge/>
-		<iRating/>
-		<bInfertile/>
-		<bSuitorTemp/>
-		<aeTraits/>
-		<aeRelationships/>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_SUITOR_TEMP</zType>
-		<bSuitorTemp>1</bSuitorTemp>
-	</Entry>
-	<Entry>
-		<zType>CHARACTER_SUITOR_TEMP_BAD</zType>
-		<iRating>-2</iRating>
-		<bSuitorTemp>1</bSuitorTemp>
-	</Entry>
 	<Entry>
 		<zType>CHARACTER_ASHURBANIPAL</zType>
 		<Gender>GENDER_MALE</Gender>
