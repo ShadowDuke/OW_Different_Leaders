@@ -78,7 +78,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 **Augustus**<br>
 - 34 Years old
 - Archetype: Orator
-- Traits: Righteous, Robust, Famous Person & Adopted
+- Traits: Righteous, Robust & Famous Person
 - Wife: Livia, 28 Years old, Schemer, Famous & Gracious
 - Mother: Atia, 62 Years Old, Orator & (hidden)
 <br><br>
