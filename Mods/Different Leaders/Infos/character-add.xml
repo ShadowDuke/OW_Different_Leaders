@@ -1,11 +1,10 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
 		<zType/>
 		<Gender/>
 		<FirstName/>
-		<Nation/>
+		<PlayerNation/>
 		<Father/>
 		<Mother/>
 		<Spouse/>
@@ -21,7 +20,7 @@
 		<zType>CHARACTER_HAMILCAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HAMILCAR</FirstName>
-		<Nation>NATION_CARTHAGE</Nation>
+		<PlayerNation>NATION_CARTHAGE</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HAMILCAR</CharacterSelectPortrait>
 		<iAge>36</iAge>
 		<aeTraits>
@@ -38,7 +37,7 @@
 		<zType>CHARACTER_HASDRUBAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HASDRUBAL</FirstName>
-		<Nation>NATION_CARTHAGE</Nation>
+		<PlayerNation>NATION_CARTHAGE</PlayerNation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HASDRUBAL</CharacterSelectPortrait>
 		<iAge>18</iAge>
@@ -52,7 +51,7 @@
 		<zType>CHARACTER_HANNIBAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HANNIBAL</FirstName>
-		<Nation>NATION_CARTHAGE</Nation>
+		<PlayerNation>NATION_CARTHAGE</PlayerNation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HANNIBAL</CharacterSelectPortrait>
 		<iAge>13</iAge>
@@ -69,7 +68,7 @@
 		<zType>CHARACTER_MAGO</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MAGO</FirstName>
-		<Nation>NATION_CARTHAGE</Nation>
+		<PlayerNation>NATION_CARTHAGE</PlayerNation>
 		<Father>CHARACTER_HAMILCAR</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_MAGO</CharacterSelectPortrait>
 		<iAge>10</iAge>
@@ -81,7 +80,7 @@
 		<zType>CHARACTER_SNEFERU</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SNEFERU</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Spouse>CHARACTER_HETEPHERES</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_SNEFERU</CharacterSelectPortrait>
 		<iAge>37</iAge>
@@ -98,7 +97,7 @@
 		<zType>CHARACTER_HETEPHERES</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HETEPHERES</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HETEPHERES</CharacterSelectPortrait>
 		<iAge>36</iAge>
 		<aeTraits>
@@ -110,7 +109,7 @@
 		<zType>CHARACTER_CHEOPS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CHEOPS</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_CHEOPS</CharacterSelectPortrait>
 		<iAge>18</iAge>
@@ -126,7 +125,7 @@
 		<zType>CHARACTER_RAHOTEP</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_RAHOTEP</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<Spouse>CHARACTER_NOFRET</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_RAHOTEP</CharacterSelectPortrait>
@@ -140,7 +139,7 @@
 		<zType>CHARACTER_NOFRET</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_NOFRET</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NOFRET</CharacterSelectPortrait>
 		<iAge>21</iAge>
 		<aeTraits>
@@ -152,7 +151,7 @@
 		<zType>CHARACTER_NEFERMAAT</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_NEFERMAAT</FirstName>
-		<Nation>NATION_EGYPT</Nation>
+		<PlayerNation>NATION_EGYPT</PlayerNation>
 		<Father>CHARACTER_SNEFERU</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NEFERMAAT</CharacterSelectPortrait>
 		<iAge>19</iAge>
@@ -167,7 +166,7 @@
 		<zType>CHARACTER_AUGUSTUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_AUGUSTUS</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Mother>CHARACTER_ATIA</Mother>
 		<Spouse>CHARACTER_LIVIA</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_AUGUSTUS</CharacterSelectPortrait>
@@ -184,7 +183,7 @@
 		<zType>CHARACTER_ATIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATIA</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ATIA</CharacterSelectPortrait>
 		<iAge>62</iAge>
 		<aeTraits>
@@ -196,7 +195,7 @@
 		<zType>CHARACTER_OCTAVIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_OCTAVIA</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Mother>CHARACTER_ATIA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_OCTAVIA</CharacterSelectPortrait>
 		<iAge>28</iAge>
@@ -212,7 +211,7 @@
 		<zType>CHARACTER_MARK_ANTONY</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_MARK_ANTONY</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Spouse>CHARACTER_OCTAVIA</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_MARK_ANTONY</CharacterSelectPortrait>
 		<iAge>44</iAge>
@@ -229,7 +228,7 @@
 		<zType>CHARACTER_ANTONIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ANTONIA</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Father>CHARACTER_MARK_ANTONY</Father>
 		<Mother>CHARACTER_OCTAVIA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ANTONIA</CharacterSelectPortrait>
@@ -239,7 +238,7 @@
 		<zType>CHARACTER_LIVIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_LIVIA</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_LIVIA</CharacterSelectPortrait>
 		<iAge>28</iAge>
 		<aeTraits>
@@ -252,7 +251,7 @@
 		<zType>CHARACTER_TIBERIUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_TIBERIUS</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Father>CHARACTER_AUGUSTUS</Father>
 		<Mother>CHARACTER_LIVIA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_TIBERIUS</CharacterSelectPortrait>
@@ -269,7 +268,7 @@
 		<zType>CHARACTER_IULIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_IULIA</FirstName>
-		<Nation>NATION_ROME</Nation>
+		<PlayerNation>NATION_ROME</PlayerNation>
 		<Father>CHARACTER_AUGUSTUS</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_IULIA</CharacterSelectPortrait>
 		<iAge>11</iAge>
@@ -284,7 +283,7 @@
 		<zType>CHARACTER_DARIUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DARIUS</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<Spouse>CHARACTER_ATOSSA_NEW</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_DARIUS</CharacterSelectPortrait>
 		<iAge>63</iAge>
@@ -302,7 +301,7 @@
 		<zType>CHARACTER_ATOSSA_NEW</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ATOSSA_NEW</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ATOSSA_NEW</CharacterSelectPortrait>
 		<iAge>64</iAge>
 		<aeTraits>
@@ -317,7 +316,7 @@
 		<zType>CHARACTER_XERXES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_XERXES</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<Father>CHARACTER_DARIUS</Father>
 		<Mother>CHARACTER_ATOSSA_NEW</Mother>
 		<Spouse>CHARACTER_AMESTRIS</Spouse>
@@ -336,7 +335,7 @@
 		<zType>CHARACTER_AMESTRIS</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_AMESTRIS</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_AMESTRIS</CharacterSelectPortrait>
 		<iAge>28</iAge>
 		<aeTraits>
@@ -351,7 +350,7 @@
 		<zType>CHARACTER_ARTAXERXES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ARTAXERXES</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<Father>CHARACTER_XERXES</Father>
 		<Mother>CHARACTER_AMESTRIS</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ARTAXERXES</CharacterSelectPortrait>
@@ -366,7 +365,7 @@
 		<zType>CHARACTER_AMYTIS_NEW</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_AMYTIS_NEW</FirstName>
-		<Nation>NATION_PERSIA</Nation>
+		<PlayerNation>NATION_PERSIA</PlayerNation>
 		<Father>CHARACTER_XERXES</Father>
 		<Mother>CHARACTER_AMESTRIS</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_AMYTIS_NEW</CharacterSelectPortrait>
@@ -381,7 +380,7 @@
 		<zType>CHARACTER_ANAXANDRIDAS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ANAXANDRIDAS</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ANAXANDRIDAS</CharacterSelectPortrait>
 		<iAge>64</iAge>
 		<aeTraits>
@@ -395,7 +394,7 @@
 		<zType>CHARACTER_CLEOMENES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CLEOMENES</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_CLEOMENES</CharacterSelectPortrait>
 		<iAge>46</iAge>
@@ -409,7 +408,7 @@
 		<zType>CHARACTER_LEONIDAS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_LEONIDAS</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<Spouse>CHARACTER_GORGO</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_LEONIDAS</CharacterSelectPortrait>
@@ -426,7 +425,7 @@
 		<zType>CHARACTER_GORGO</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_GORGO</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_CLEOMENES</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_GORGO</CharacterSelectPortrait>
 		<iAge>24</iAge>
@@ -441,7 +440,7 @@
 		<zType>CHARACTER_KLEOMBROTOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_KLEOMBROTOS</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_KLEOMBROTOS</CharacterSelectPortrait>
 		<iAge>27</iAge>
@@ -456,7 +455,7 @@
 		<zType>CHARACTER_DORIEUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_DORIEUS</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_ANAXANDRIDAS</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_DORIEUS</CharacterSelectPortrait>
 		<iAge>26</iAge>
@@ -472,7 +471,7 @@
 		<zType>CHARACTER_PLEISTARCHOS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_PLEISTARCHOS</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_LEONIDAS</Father>
 		<Mother>CHARACTER_GORGO</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PLEISTARCHOS</CharacterSelectPortrait>
@@ -486,7 +485,7 @@
 		<zType>CHARACTER_EURYANAX</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_EURYANAX</FirstName>
-		<Nation>NATION_GREECE</Nation>
+		<PlayerNation>NATION_GREECE</PlayerNation>
 		<Father>CHARACTER_DORIEUS</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_EURYANAX</CharacterSelectPortrait>
 		<iAge>1</iAge>
@@ -499,7 +498,7 @@
 		<zType>CHARACTER_ORODES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ORODES</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ORODES</CharacterSelectPortrait>
 		<iAge>55</iAge>
 		<aeTraits>
@@ -515,7 +514,7 @@
 		<zType>CHARACTER_PACORUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_PACORUS</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<Father>CHARACTER_ORODES</Father>
 		<Spouse>CHARACTER_BALHITI</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PACORUS</CharacterSelectPortrait>
@@ -530,7 +529,7 @@
 		<zType>CHARACTER_PHRAATES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_PHRAATES</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<Father>CHARACTER_ORODES</Father>
 		<Spouse>CHARACTER_MUSA</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PHRAATES</CharacterSelectPortrait>
@@ -547,7 +546,7 @@
 		<zType>CHARACTER_MUSA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_MUSA</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_MUSA</CharacterSelectPortrait>
 		<iAge>27</iAge>
 		<aeTraits>
@@ -563,7 +562,7 @@
 		<zType>CHARACTER_PHRAATACES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_PHRAATACES</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<Father>CHARACTER_PHRAATES</Father>
 		<Mother>CHARACTER_MUSA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PHRAATACES</CharacterSelectPortrait>
@@ -578,7 +577,7 @@
 		<zType>CHARACTER_VONONES</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_VONONES</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<Father>CHARACTER_PHRAATES</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_VONONES</CharacterSelectPortrait>
 		<iAge>10</iAge>
@@ -592,7 +591,7 @@
 		<zType>CHARACTER_BALHITI</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_BALHITI</FirstName>
-		<Nation>NATION_ASSYRIA</Nation>
+		<PlayerNation>NATION_ASSYRIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_BALHITI</CharacterSelectPortrait>
 		<iAge>35</iAge>
 		<aeTraits>
@@ -605,7 +604,7 @@
 		<zType>CHARACTER_SIN_MUBALLIT</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SIN_MUBALLIT</FirstName>
-		<Nation>NATION_BABYLONIA</Nation>
+		<PlayerNation>NATION_BABYLONIA</PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_SIN_MUBALLIT</CharacterSelectPortrait>
 		<iAge>52</iAge>
 		<aeTraits>
@@ -621,7 +620,7 @@
 		<zType>CHARACTER_HAMMURABI</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HAMMURABI</FirstName>
-		<Nation>NATION_BABYLONIA</Nation>
+		<PlayerNation>NATION_BABYLONIA</PlayerNation>
 		<Father>CHARACTER_SIN_MUBALLIT</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HAMMURABI</CharacterSelectPortrait>
 		<iAge>20</iAge>
@@ -639,7 +638,7 @@
 		<zType>CHARACTER_SAMSU_ILUNA</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_SAMSU_ILUNA</FirstName>
-		<Nation>NATION_BABYLONIA</Nation>
+		<PlayerNation>NATION_BABYLONIA</PlayerNation>
 		<Father>CHARACTER_HAMMURABI</Father>
 		<CharacterSelectPortrait>CHARACTER_SELECT_SAMSU_ILUNA</CharacterSelectPortrait>
 		<iAge>1</iAge>

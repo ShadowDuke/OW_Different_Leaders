@@ -1,9 +1,10 @@
+<!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
 		<zType>CHARACTER_ASHURBANIPAL</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ASHURBANIPAL</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ASHURBANIPAL</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -15,7 +16,7 @@
 		<zType>CHARACTER_NEBUCHADNEZZAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_NEBUCHADNEZZAR</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NEBUCHADNEZZAR</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -27,7 +28,7 @@
 		<zType>CHARACTER_DIDO</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_DIDO</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_DIDO</CharacterSelectPortrait>
 		<iAge>20</iAge>
 		<aeTraits>
@@ -39,7 +40,7 @@
 		<zType>CHARACTER_HATSHEPSUT</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_HATSHEPSUT</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_HATSHEPSUT</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<bInfertile>1</bInfertile>
@@ -52,7 +53,7 @@
 		<zType>CHARACTER_NEFERURE</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_NEFERURE</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<Mother>CHARACTER_HATSHEPSUT</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_NEFERURE</CharacterSelectPortrait>
 		<iAge>8</iAge>
@@ -61,7 +62,7 @@
 		<zType>CHARACTER_PHILIP</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_PHILIP</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<Spouse>CHARACTER_OLYMPIAS</Spouse>
 		<CharacterSelectPortrait>CHARACTER_SELECT_PHILIP</CharacterSelectPortrait>
 		<iAge>39</iAge>
@@ -74,7 +75,7 @@
 		<zType>CHARACTER_OLYMPIAS</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_OLYMPIAS</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_OLYMPIAS</CharacterSelectPortrait>
 		<iAge>32</iAge>
 		<aeTraits>
@@ -86,7 +87,7 @@
 		<zType>CHARACTER_ALEXANDER</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ALEXANDER</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<Father>CHARACTER_PHILIP</Father>
 		<Mother>CHARACTER_OLYMPIAS</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ALEXANDER</CharacterSelectPortrait>
@@ -100,7 +101,7 @@
 		<zType>CHARACTER_CYRUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_CYRUS</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_CYRUS</CharacterSelectPortrait>
 		<iAge>30</iAge>
 		<aeTraits>
@@ -112,7 +113,7 @@
 		<zType>CHARACTER_ILIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ILIA</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ILIA</CharacterSelectPortrait>
 		<iAge>44</iAge>
 		<aeTraits>
@@ -124,7 +125,7 @@
 		<zType>CHARACTER_ROMULUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ROMULUS</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<Mother>CHARACTER_ILIA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_ROMULUS</CharacterSelectPortrait>
 		<iAge>22</iAge>
@@ -137,7 +138,7 @@
 		<zType>CHARACTER_REMUS</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_REMUS</FirstName>
-		<Nation></Nation>
+		<PlayerNation></PlayerNation>
 		<Mother>CHARACTER_ILIA</Mother>
 		<CharacterSelectPortrait>CHARACTER_SELECT_REMUS</CharacterSelectPortrait>
 		<iAge>22</iAge>
