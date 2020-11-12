@@ -6,7 +6,6 @@
 		<Text>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_HAMILCAR</zValue>
@@ -42,7 +41,6 @@
 		<Text>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_CLEOMENES</zValue>
@@ -82,7 +80,6 @@
 		<Text>TEXT_EVENTSTORY_ORODES_MURDERED</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_LEADER_US</zValue>
 			<zValue>SUBJECT_ORODES</zValue>
@@ -118,7 +115,6 @@
 		<Text>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_HEIR_US</zValue>
 			<zValue>SUBJECT_LEADER_US</zValue>
@@ -159,7 +155,6 @@
 		<Text>TEXT_EVENTSTORY_PHRAATES_POISONED</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_PHRAATES</zValue>
@@ -195,7 +190,6 @@
 		<Text>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA</Text>
 		<zBackgroundName>Death</zBackgroundName>
 		<zAudioTrigger>AUDIO_UI_EVENT_DESPAIR</zAudioTrigger>
-		<zEventAuthor>Dominik Hertel</zEventAuthor>
 		<aeSubjects>
 			<zValue>SUBJECT_CHARACTER_US</zValue>
 			<zValue>SUBJECT_MARK_ANTONY</zValue>
