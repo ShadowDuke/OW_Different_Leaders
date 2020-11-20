@@ -13,7 +13,6 @@
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_HERO</GeneralEffectUnit>
 		<LeaderEffectUnit>EFFECTUNIT_HERO_LEADER</LeaderEffectUnit>
-		<Cognomen>COGNOMEN_HERO</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -35,7 +34,6 @@
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_COMMANDER</GeneralEffectUnit>
-		<Cognomen>COGNOMEN_COMMANDER</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -61,7 +59,6 @@
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_TACTICIAN</GeneralEffectUnit>
-		<Cognomen>COGNOMEN_TACTICIAN</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -87,7 +84,6 @@
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_ZEALOT</GeneralEffectUnit>
-		<Cognomen>COGNOMEN_ZEALOT</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -111,7 +107,6 @@
 		<bArchetype>1</bArchetype>
 		<bAgentPrereq>1</bAgentPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</LeaderEffectPlayer>
-		<Cognomen>COGNOMEN_SCHEMER</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -134,7 +129,6 @@
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</LeaderEffectPlayer>
-		<Cognomen>COGNOMEN_ORATOR</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -158,7 +152,6 @@
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</LeaderEffectPlayer>
-		<Cognomen>COGNOMEN_JUDGE</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
@@ -182,7 +175,6 @@
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</LeaderEffectPlayer>
-		<Cognomen>COGNOMEN_SCHOLAR</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -203,7 +195,6 @@
 		<bAgentPrereq>1</bAgentPrereq>
 		<bTeamAlliance>1</bTeamAlliance>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</LeaderEffectPlayer>
-		<Cognomen>COGNOMEN_DIPLOMAT</Cognomen>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
