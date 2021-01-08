@@ -44,7 +44,6 @@
 		<aeTraits>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
-			<zValue>TRAIT_EAGLE_EYE</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -385,7 +384,6 @@
 		<iAge>64</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
-			<zValue>TRAIT_GARRISON</zValue>
 			<zValue>TRAIT_HIGHLANDER</zValue>
 			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>

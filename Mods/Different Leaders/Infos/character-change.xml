@@ -106,7 +106,7 @@
 		<iAge>30</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
-			<zValue>TRAIT_HARDY</zValue>
+			<zValue>TRAIT_TOUGH</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
