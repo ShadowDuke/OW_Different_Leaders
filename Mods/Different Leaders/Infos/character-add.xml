@@ -290,7 +290,6 @@
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_PROUD</zValue>
 			<zValue>TRAIT_BRAVE</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_POPULAR_HERO</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_OLD_RULER</zValue>
@@ -550,7 +549,6 @@
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
 			<zValue>TRAIT_INSANE</zValue>
-			<zValue>TRAIT_POISONER</zValue>
 			<zValue>TRAIT_RUTHLESS</zValue>
 			<zValue>TRAIT_BOLD</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
@@ -608,7 +606,6 @@
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
 			<zValue>TRAIT_VIGILANT</zValue>
-			<zValue>TRAIT_KEEN</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_OLD_RULER</zValue>

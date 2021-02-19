@@ -10,7 +10,7 @@ For Leaders and Governors, Fame increases {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIE
 For Generals Fame increases the defense Strenght of a Unit.
 		</zHelp>
 		<iDefenseModifier>3</iDefenseModifier>
-		<aiYieldLeaderRate>
+		<aiYieldCourtRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
 				<iValue>10</iValue>
@@ -39,7 +39,7 @@ For Generals Fame increases the defense Strenght of a Unit.
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>-40</iValue>
 			</Pair>
-		</aiYieldLeaderRate>
+		</aiYieldCourtRate>
 		<aiYieldGovernorModifier>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
