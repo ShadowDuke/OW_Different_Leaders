@@ -60,6 +60,7 @@
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>			
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -88,6 +89,7 @@
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_DIVINE</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -114,6 +116,7 @@
 			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 			<zValue>TRAIT_PROSPEROUS</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 		</aeTraits>
 	</Entry>
@@ -172,6 +175,7 @@
 			<zValue>TRAIT_ROBUST</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_RIGHTEOUS</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -216,6 +220,7 @@
 			<zValue>TRAIT_RIGHTEOUS</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -285,6 +290,7 @@
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
 			<zValue>TRAIT_PROUD</zValue>
 			<zValue>TRAIT_BRAVE</zValue>
+			<zValue>TRAIT_INFAMOUS</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
 			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
