@@ -2,7 +2,7 @@
 <Root>
 	<Entry>
 		<zType>EFFECTCITY_NATION_ASSYRIA</zType>
-		<Name>TEXT_EFFECTCITY_NATION_ASSYRIA</Name>
+		<Name>TEXT_NATION_ASSYRIA</Name>
 		<SourceNation>NATION_ASSYRIA</SourceNation>
 		<aiYieldRate>
 			<Pair>
@@ -40,7 +40,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_BABYLONIA</zType>
-		<Name>TEXT_EFFECTCITY_NATION_BABYLONIA</Name>
+		<Name>TEXT_NATION_BABYLONIA</Name>
 		<SourceNation>NATION_BABYLONIA</SourceNation>
 		<aiYieldRate>
 			<Pair>
@@ -95,7 +95,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_CARTHAGE_COAST</zType>
-		<Name>TEXT_EFFECTCITY_NATION_CARTHAGE</Name>
+		<Name>TEXT_NATION_CARTHAGE</Name>
 		<SourceNation>NATION_CARTHAGE</SourceNation>
 		<aiYieldModifier>
 			<Pair>
@@ -121,7 +121,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_GREECE</zType>
-		<Name>TEXT_EFFECTCITY_NATION_GREECE</Name>
+		<Name>TEXT_NATION_GREECE</Name>
 		<SourceNation>NATION_GREECE</SourceNation>
 		<iRebelProb>-10</iRebelProb>					  
 		<aiYieldRate>
@@ -142,7 +142,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_ROME</zType>
-		<Name>TEXT_EFFECTCITY_NATION_ROME</Name>
+		<Name>TEXT_NATION_ROME</Name>
 		<SourceNation>NATION_ROME</SourceNation>
 		<aiYieldRate>
 			<Pair>
@@ -157,7 +157,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_PERSIA</zType>
-		<Name>TEXT_EFFECTCITY_NATION_PERSIA</Name>
+		<Name>TEXT_NATION_PERSIA</Name>
 		<SourceNation>NATION_PERSIA</SourceNation>
 		<iRebelProb>5</iRebelProb>
 		<aiYieldRate>
