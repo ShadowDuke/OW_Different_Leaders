@@ -56,7 +56,6 @@
 		<iAge>13</iAge>
 		<aeTraits>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
-			<zValue>TRAIT_DRILLMASTER</zValue>
 			<zValue>TRAIT_STRICT</zValue>
 			<zValue>TRAIT_WARLIKE</zValue>
 			<zValue>TRAIT_FAMOUS_PERSON</zValue>
@@ -72,7 +71,7 @@
 		<CharacterSelectPortrait>CHARACTER_SELECT_MAGO</CharacterSelectPortrait>
 		<iAge>10</iAge>
 		<aeTraits>
-			<zValue>TRAIT_HONEST</zValue>
+			<zValue>TRAIT_RIGHTEOUS</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -202,7 +201,7 @@
 			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_COMPASSIONATE</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_HUMBLE</zValue>
 		</aeTraits>
 	</Entry>
@@ -274,7 +273,7 @@
 		<aeTraits>
 			<zValue>TRAIT_BASTARD</zValue>
 			<zValue>TRAIT_EDUCATED</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
 		</aeTraits>
 	</Entry>
@@ -306,7 +305,7 @@
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_EDUCATED</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
-			<zValue>TRAIT_PLANTER</zValue>
+			<zValue>TRAIT_CULTIVATOR</zValue>
 			<zValue>TRAIT_OLD_RULER</zValue>
 		</aeTraits>
 	</Entry>
@@ -369,7 +368,7 @@
 		<CharacterSelectPortrait>CHARACTER_SELECT_AMYTIS_NEW</CharacterSelectPortrait>
 		<iAge>7</iAge>
 		<aeTraits>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_DEBAUCHED</zValue>
 			<zValue>TRAIT_EXTRAVAGANT</zValue>
 		</aeTraits>
@@ -428,7 +427,7 @@
 		<iAge>24</iAge>
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
+			<zValue>TRAIT_EXOTIC</zValue>
 			<zValue>TRAIT_INTELLIGENT</zValue>
 			<zValue>TRAIT_DEALMAKER</zValue>
 		</aeTraits>
@@ -445,7 +444,6 @@
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 			<zValue>TRAIT_LOYAL</zValue>
 			<zValue>TRAIT_ELOQUENT</zValue>
-			<zValue>TRAIT_DRILLMASTER</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -593,7 +591,6 @@
 		<aeTraits>
 			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
 			<zValue>TRAIT_EXOTIC</zValue>
-			<zValue>TRAIT_BEAUTIFUL</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
