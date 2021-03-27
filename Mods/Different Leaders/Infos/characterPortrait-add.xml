@@ -17,6 +17,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Hamilcar</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Hamilcar</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Hamilcar</zValue>
@@ -37,6 +41,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_02_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_02_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -61,6 +69,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Hannibal_young</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Hannibal_young</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Hannibal</zValue>
@@ -81,6 +93,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_07_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -105,6 +121,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>EGYPT_LEADER_MALE_12_ADULT</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>EGYPT_LEADER_MALE_12_ADULT</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>EGYPT_LEADER_MALE_12_ADULT</zValue>
@@ -125,6 +145,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_09_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_09_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -149,6 +173,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_09_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_09_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Cheops</zValue>
@@ -169,6 +197,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_07_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -193,6 +225,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_FEMALE_02_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_FEMALE_02_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Nofret</zValue>
@@ -213,6 +249,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_08_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_08_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -237,6 +277,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Augustus</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Augustus</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Augustus</zValue>
@@ -257,6 +301,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -281,6 +329,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ROME_LEADER_FEMALE_04_ADULT</zValue>
@@ -301,6 +353,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_01_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_01_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -325,6 +381,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_FEMALE_03_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_FEMALE_03_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ROME_LEADER_FEMALE_12_ADULT</zValue>
@@ -345,6 +405,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_09_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_09_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -369,6 +433,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Tiberius_young</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Tiberius_young</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Tiberius</zValue>
@@ -389,6 +457,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_04_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_04_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -413,6 +485,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_04_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_04_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Darius</zValue>
@@ -433,6 +509,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_04_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_04_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -457,6 +537,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Xerxes</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Xerxes</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Xerxes</zValue>
@@ -477,6 +561,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_FEMALE_06_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -501,6 +589,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_10_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_10_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Artaxerxes</zValue>
@@ -521,6 +613,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>Amytis_young</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>Amytis_young</zValue>
       </Pair>
       <Pair>
@@ -545,6 +641,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_07_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>GREECE_LEADER_MALE_09_ADULT</zValue>
@@ -565,6 +665,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GREECE_LEADER_MALE_13_ADULT</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GREECE_LEADER_MALE_13_ADULT</zValue>
       </Pair>
       <Pair>
@@ -589,6 +693,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GREECE_LEADER_MALE_03_ADULT</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GREECE_LEADER_MALE_03_ADULT</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Leonidas</zValue>
@@ -609,6 +717,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_03_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_03_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -633,6 +745,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_05_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_05_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>GREECE_LEADER_MALE_05_ADULT</zValue>
@@ -653,6 +769,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_07_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -677,6 +797,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>Pleistarchos_young</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>Pleistarchos_young</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>Pleistarchos</zValue>
@@ -697,6 +821,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_04_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_04_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -721,6 +849,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>ASSYRIA_LEADER_MALE_04_ADULT</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>ASSYRIA_LEADER_MALE_04_ADULT</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ASSYRIA_LEADER_MALE_04_ADULT</zValue>
@@ -741,6 +873,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_08_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_08_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -765,6 +901,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_FEMALE_07_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_FEMALE_07_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ASSYRIA_LEADER_FEMALE_03_ADULT</zValue>
@@ -785,6 +925,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_02_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_02_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -809,6 +953,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_MALE_04_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_MALE_04_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ASSYRIA_LEADER_MALE_05_ADULT</zValue>
@@ -829,6 +977,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_02_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_02_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -853,6 +1005,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>GENERIC_FEMALE_08_YOUTH</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>GENERIC_FEMALE_08_YOUTH</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>ASSYRIA_LEADER_FEMALE_06_ADULT</zValue>
@@ -873,6 +1029,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_07_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_07_YOUTH</zValue>
       </Pair>
       <Pair>
@@ -897,6 +1057,10 @@
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
         <zValue>BABYLONIA_LEADER_MALE_04_ADULT</zValue>
       </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+        <zValue>BABYLONIA_LEADER_MALE_04_ADULT</zValue>
+      </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
         <zValue>BABYLONIA_LEADER_MALE_04_ADULT</zValue>
@@ -917,6 +1081,10 @@
       </Pair>
       <Pair>
         <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+        <zValue>GENERIC_MALE_08_YOUTH</zValue>
+      </Pair>
+	  <Pair>
+        <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
         <zValue>GENERIC_MALE_08_YOUTH</zValue>
       </Pair>
       <Pair>
