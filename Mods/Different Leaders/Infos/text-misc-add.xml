@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE</zType>
+		<English>Sparta</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE</zType>
+		<English>Sparta Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_01</zType>
+		<English>Sparta Family 1</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_01_TEXT</zType>
+		<English>Sparta Family 1 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_02</zType>
+		<English>Sparta Family 2</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_02_TEXT</zType>
+		<English>Sparta Family 2 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_03</zType>
+		<English>Sparta Family 3</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_03_TEXT</zType>
+		<English>Sparta Family 3 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_04</zType>
+		<English>Sparta Family 4</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_04_TEXT</zType>
+		<English>Sparta Family 4 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE</zType>
+		<English>Sparta Family None</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE_TEXT</zType>
+		<English>Sparta Family Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA</zType>
+		<English>Parthia</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_TEXT</zType>
+		<English>Parthia Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01</zType>
+		<English>Parthia Family 1</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01_TEXT</zType>
+		<English>Parthia Family 1 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02</zType>
+		<English>Parthia Family 2</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02_TEXT</zType>
+		<English>Parthia Family 2 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03</zType>
+		<English>Parthia Family 3</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03_TEXT</zType>
+		<English>Parthia Family 3 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04</zType>
+		<English>Parthia Family 4</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04_TEXT</zType>
+		<English>Parthia Family 4 Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE</zType>
+		<English>Parthia Family None</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE_TEXT</zType>
+		<English>Parthia Family Text</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COLOR_RATING_FAME</zType>
+		<English>Fame</English>
+	</Entry>
+</Root>

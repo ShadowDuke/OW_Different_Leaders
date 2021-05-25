@@ -41,7 +41,7 @@
 		<iXPModifier>50</iXPModifier>
 		<iHarvestModifier>0</iHarvestModifier>
 		<iFatigueLimitChange>1</iFatigueLimitChange>
-		<aiUnitMilitaryKillYield>
+		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
 				<iValue>2</iValue>
@@ -54,7 +54,7 @@
 				<zIndex>YIELD_ORDERS</zIndex>
 				<iValue>1</iValue>
 			</Pair>
-		</aiUnitMilitaryKillYield>
+		</aiMilitaryKillYield>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -87,7 +87,7 @@
 		<Name>TEXT_NATION_ASSYRIA</Name>
 		<SourceNation>NATION_ASSYRIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-		<aiUnitMilitaryKillYield>
+		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>3</iValue>
@@ -100,7 +100,7 @@
 				<zIndex>YIELD_TRAINING</zIndex>
 				<iValue>2</iValue>
 			</Pair>
-		</aiUnitMilitaryKillYield>
+		</aiMilitaryKillYield>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_BABYLONIA</zType>

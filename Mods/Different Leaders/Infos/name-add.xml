@@ -3,211 +3,169 @@
 	<Entry>
 		<zType>NAME_HASDRUBAL</zType>
 		<zName>Hasdrubal</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HASDRUBAL</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HANNIBAL</zType>
 		<zName>Hannibal</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HANNIBAL</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HAMILCAR</zType>
 		<zName>Hamilcar</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HAMILCAR</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAGO</zType>
 		<zName>Mago</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MAGO</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SNEFERU</zType>
 		<zName>Sneferu</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_SNEFERU</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HETEPHERES</zType>
 		<zName>Hetepheres</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HETEPHERES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHEOPS</zType>
 		<zName>Cheops</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_CHEOPS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_RAHOTEP</zType>
 		<zName>Rahotep</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_RAHOTEP</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NOFRET</zType>
 		<zName>Nofret</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_NOFRET</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NEFERMAAT</zType>
 		<zName>Nefermaat</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_NEFERMAAT</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_AUGUSTUS</zType>
 		<zName>Augustus</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_AUGUSTUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ATIA</zType>
 		<zName>Atia</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ATIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_OCTAVIA</zType>
 		<zName>Octavia</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_OCTAVIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_MARK_ANTONY</zType>
 		<zName>Marcus Antonius</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MARK_ANTONY</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTONIA</zType>
 		<zName>Antonia</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ANTONIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_LIVIA</zType>
 		<zName>Livia</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_LIVIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_TIBERIUS</zType>
 		<zName>Tiberius</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_TIBERIUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_IULIA</zType>
 		<zName>Iulia</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_IULIA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DARIUS</zType>
 		<zName>Darius</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_DARIUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ATOSSA_NEW</zType>
 		<zName>Atossa</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ATOSSA_NEW</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_XERXES</zType>
 		<zName>Xerxes</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_XERXES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_AMESTRIS</zType>
 		<zName>Amestris</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_AMESTRIS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTAXERXES</zType>
 		<zName>Artaxerxes</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ARTAXERXES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_AMYTIS_NEW</zType>
 		<zName>Amytis</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_AMYTIS_NEW</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANAXANDRIDAS</zType>
 		<zName>Anaxandridas</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ANAXANDRIDAS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_CLEOMENES</zType>
 		<zName>Cleomenes</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_CLEOMENES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_LEONIDAS</zType>
 		<zName>Leonidas</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_LEONIDAS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_GORGO</zType>
 		<zName>Gorgo</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_GORGO</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_KLEOMBROTOS</zType>
 		<zName>Kleombrotos</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_KLEOMBROTOS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DORIEUS</zType>
 		<zName>Dorieus</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_DORIEUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PLEISTARCHOS</zType>
 		<zName>Pleistarchos</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_PLEISTARCHOS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_EURYANAX</zType>
 		<zName>Euryanax</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_EURYANAX</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ORODES</zType>
 		<zName>Orodes</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ORODES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PACORUS</zType>
 		<zName>Pacorus</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_PACORUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PHRAATES</zType>
 		<zName>Phraates</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_PHRAATES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_MUSA</zType>
 		<zName>Musa</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_MUSA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PHRAATACES</zType>
 		<zName>Phraataces</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_PHRAATACES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_VONONES</zType>
 		<zName>Vonones</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_VONONES</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_BALHITI</zType>
 		<zName>Balhiti</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_BALHITI</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SIN_MUBALLIT</zType>
 		<zName>Sin-muballit</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_SIN_MUBALLIT</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HAMMURABI</zType>
 		<zName>Hammurabi</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HAMMURABI</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SAMSU_ILUNA</zType>
 		<zName>Samsu-iluna</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_SAMSU_ILUNA</PreferredPortrait>
 	</Entry>
 </Root>
