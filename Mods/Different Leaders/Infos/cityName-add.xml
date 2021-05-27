@@ -2,198 +2,198 @@
 <Root>
 	<Entry>
 		<zType/>
-		<zName/>
+		<Name/>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CTESIPHON</zType>
-		<zName>Ctesiphon</zName>
+		<Name>TEXT_CITYNAME_CTESIPHON</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HECATOMPYLOS</zType>
-		<zName>Hecatompylos</zName>
+		<Name>TEXT_CITYNAME_HECATOMPYLOS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MITHRADATKIRT</zType>
-		<zName>Mithradatkirt</zName>
+		<Name>TEXT_CITYNAME_MITHRADATKIRT</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ASAAK</zType>
-		<zName>Asaak</zName>
+		<Name>TEXT_CITYNAME_ASAAK</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_RHAGES</zType>
-		<zName>Rhages</zName>
+		<Name>TEXT_CITYNAME_RHAGES</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYBLOS</zType>
-		<zName>Byblos</zName>
+		<Name>TEXT_CITYNAME_BYBLOS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TYRE</zType>
-		<zName>Tyre</zName>
+		<Name>TEXT_CITYNAME_TYRE</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SIDON</zType>
-		<zName>Sidon</zName>
+		<Name>TEXT_CITYNAME_SIDON</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARWAD</zType>
-		<zName>Arwad</zName>
+		<Name>TEXT_CITYNAME_ARWAD</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BERYTOS</zType>
-		<zName>Berytos</zName>
+		<Name>TEXT_CITYNAME_BERYTOS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LEBNAN</zType>
-		<zName>Lebnan</zName>
+		<Name>TEXT_CITYNAME_LEBNAN</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ADONIS</zType>
-		<zName>Adonis</zName>
+		<Name>TEXT_CITYNAME_ADONIS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ISHTARA</zType>
-		<zName>Ishtara</zName>
+		<Name>TEXT_CITYNAME_ISHTARA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KARTEIA</zType>
-		<zName>Karteia</zName>
+		<Name>TEXT_CITYNAME_KARTEIA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYRSA</zType>
-		<zName>Byrsa</zName>
+		<Name>TEXT_CITYNAME_BYRSA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BAALBECK</zType>
-		<zName>Baalbeck</zName>
+		<Name>TEXT_CITYNAME_BAALBECK</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_GIZA</zType>
-		<zName>Giza</zName>
+		<Name>TEXT_CITYNAME_GIZA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ASWAN</zType>
-		<zName>Aswan</zName>
+		<Name>TEXT_CITYNAME_ASWAN</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CAIRO</zType>
-		<zName>Cairo</zName>
+		<Name>TEXT_CITYNAME_CAIRO</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ELIS</zType>
-		<zName>Elis</zName>
+		<Name>TEXT_CITYNAME_ELIS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MESSENE</zType>
-		<zName>Messene</zName>
+		<Name>TEXT_CITYNAME_MESSENE</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THESSALONIKI</zType>
-		<zName>Thessaloniki</zName>
+		<Name>TEXT_CITYNAME_THESSALONIKI</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CYPRUS</zType>
-		<zName>Cyprus</zName>
+		<Name>TEXT_CITYNAME_CYPRUS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ILLYRIA</zType>
-		<zName>Illyria</zName>
+		<Name>TEXT_CITYNAME_ILLYRIA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CHAERONE</zType>
-		<zName>Chaerone</zName>
+		<Name>TEXT_CITYNAME_CHAERONE</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PYDNA</zType>
-		<zName>Pidna</zName>
+		<Name>TEXT_CITYNAME_PYDNA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_METHONI</zType>
-		<zName>Methoni</zName>
+		<Name>TEXT_CITYNAME_METHONI</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAGNESIA</zType>
-		<zName>Magnesia</zName>
+		<Name>TEXT_CITYNAME_MAGNESIA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THERMOPYLAE</zType>
-		<zName>Thermopylae</zName>
+		<Name>TEXT_CITYNAME_THERMOPYLAE</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DELPHI</zType>
-		<zName>Delphi</zName>
+		<Name>TEXT_CITYNAME_DELPHI</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_RHODES</zType>
-		<zName>Rhodes</zName>
+		<Name>TEXT_CITYNAME_RHODES</Name>
 	</Entry>	
 	<Entry>
 		<zType>CITYNAME_AEGEA</zType>
-		<zName>Aegea</zName>
+		<Name>TEXT_CITYNAME_AEGEA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DIUM</zType>
-		<zName>Dium</zName>
+		<Name>TEXT_CITYNAME_DIUM</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HEBRUS</zType>
-		<zName>Hebrus</zName>
+		<Name>TEXT_CITYNAME_HEBRUS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_EUBOEA</zType>
-		<zName>Kuboea</zName>
+		<Name>TEXT_CITYNAME_EUBOEA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ISFAHAN</zType>
-		<zName>Isfahan</zName>
+		<Name>TEXT_CITYNAME_ISFAHAN</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HAMADAN</zType>
-		<zName>Hamadan</zName>
+		<Name>TEXT_CITYNAME_HAMADAN</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARDABIL</zType>
-		<zName>Ardabil</zName>
+		<Name>TEXT_CITYNAME_ARDABIL</Name>
 	</Entry>	
 	<Entry>
 		<zType>CITYNAME_TABRIZ</zType>
-		<zName>Tabriz</zName>
+		<Name>TEXT_CITYNAME_TABRIZ</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MEDEA</zType>
-		<zName>Medea</zName>
+		<Name>TEXT_CITYNAME_MEDEA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERSIS</zType>
-		<zName>Persis</zName>
+		<Name>TEXT_CITYNAME_PERSIS</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THYMBRA</zType>
-		<zName>Thymbra</zName>
+		<Name>TEXT_CITYNAME_THYMBRA</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BENEVENTUM</zType>
-		<zName>Beneventum</zName>
+		<Name>TEXT_CITYNAME_BENEVENTUM</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARRETIUM</zType>
-		<zName>Arretium</zName>
+		<Name>TEXT_CITYNAME_ARRETIUM</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BRUNDISIUM</zType>
-		<zName>Brundisium</zName>
+		<Name>TEXT_CITYNAME_BRUNDISIUM</Name>
 	</Entry>	
 	<Entry>
 		<zType>CITYNAME_TUSCULUM</zType>
-		<zName>Tusculum</zName>
+		<Name>TEXT_CITYNAME_TUSCULUM</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CIRCEII</zType>
-		<zName>Circeii</zName>
+		<Name>TEXT_CITYNAME_CIRCEII</Name>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TICINUM</zType>
-		<zName>Ticinum</zName>
+		<Name>TEXT_CITYNAME_TICINUM</Name>
 	</Entry>	
 </Root>
