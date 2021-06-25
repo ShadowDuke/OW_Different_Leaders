@@ -56,7 +56,6 @@
 			<zValue>NAME_ASHUR_NIRARI</zValue>
 			<zValue>NAME_ASHUR_UBALLIT</zValue>
 			<zValue>NAME_ASHURBANIPAL</zValue>
-			<zValue>NAME_ASHURNASIRPAL</zValue>
 			<zValue>NAME_BAZAYA</zValue>
 			<zValue>NAME_ENLIL_NASIR</zValue>
 			<zValue>NAME_ERIBA_ADAD</zValue>
@@ -444,7 +443,7 @@
 		</aeStartingLaw>
 		<aeFirstNamesMale>
 			<zValue>NAME_ABDOSIR</zValue>
-			<zValue>NAME_ACHERBAS</zValue>
+			<zValue>NAME_ACERBAS</zValue>
 			<zValue>NAME_ADHERBAL</zValue>
 			<zValue>NAME_ADONIBAAL</zValue>
 			<zValue>NAME_ARMILIK</zValue>
@@ -469,7 +468,7 @@
 			<zValue>NAME_MAGO</zValue>
 			<zValue>NAME_MAHARBAL</zValue>
 			<zValue>NAME_MALCHUS</zValue>
-			<zValue>NAME_MATTANBAAL</zValue>
+			<zValue>NAME_MATTAN</zValue>
 			<zValue>NAME_MELAK</zValue>
 			<zValue>NAME_NAVOEL</zValue>
 			<zValue>NAME_OZMELEK</zValue>

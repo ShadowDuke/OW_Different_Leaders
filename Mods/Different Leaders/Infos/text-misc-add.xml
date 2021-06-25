@@ -105,4 +105,14 @@
 		<zType>TEXT_COLOR_RATING_FAME</zType>
 		<English>Fame</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_FAME</zType>
+		<English>Fame</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RATING_FAME_HELP</zType>
+		<English>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
+As Governor {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} and {YIELD_MONEY} is increased.
+For Generals Fame increases the defense Strenght of a Unit.</English>
+	</Entry>
 </Root>

@@ -3,10 +3,15 @@
 	<Entry>
 		<zType>TRAIT_HERO_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_HERO_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_HERO</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
-		<iWarModifier>25</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionProximity>-40</iOpinionProximity>
+		<iTruceModifier>-50</iTruceModifier>
+		<iWarModifier>50</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<bAgentPrereq>1</bAgentPrereq>
@@ -19,6 +24,18 @@
 				<iValue>3</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_BUILDER_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_EPICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -26,14 +43,20 @@
 	<Entry>
 		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_COMMANDER_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_COMMANDER</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
-		<iWarModifier>25</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionGenerals>-40</iOpinionGenerals>
+		<iTruceModifier>-50</iTruceModifier>
+		<iWarModifier>50</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_COMMANDER</GeneralEffectUnit>
+		<LeaderEffectUnit>EFFECTUNIT_COMMANDER_LEADER</LeaderEffectUnit>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -44,6 +67,18 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_TACTICIAN_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_AUTARKY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -51,17 +86,23 @@
 	<Entry>
 		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_TACTICIAN_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_TACTICIAN</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
-		<iWarModifier>25</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionStrength>-40</iOpinionStrength>
+		<iTruceModifier>-50</iTruceModifier>
+		<iWarModifier>50</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_TACTICIAN</GeneralEffectUnit>
+		<LeaderEffectUnit>EFFECTUNIT_TACTICIAN_LEADER</LeaderEffectUnit>
 		<aiRating>
 			<Pair>
-				<zIndex>RATING_COURAGE</zIndex>
+				<zIndex>RATING_DISCIPLINE</zIndex>
 				<iValue>2</iValue>
 			</Pair>
 			<Pair>
@@ -69,6 +110,18 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_COMMANDER_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_PROFESSIONAL_ARMY</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -76,17 +129,23 @@
 	<Entry>
 		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ZEALOT_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_ZEALOT</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
-		<iWarModifier>25</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionReligion>-40</iOpinionReligion>
+		<iTruceModifier>-50</iTruceModifier>
+		<iWarModifier>50</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_ZEALOT</GeneralEffectUnit>
+		<LeaderEffectUnit>EFFECTUNIT_ZEALOT_LEADER</LeaderEffectUnit>
 		<aiRating>
 			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
+				<zIndex>RATING_COURAGE</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 			<Pair>
@@ -94,6 +153,18 @@
 				<iValue>-1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_SCHOLAR_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_HOLY_WAR</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -101,9 +172,16 @@
 	<Entry>
 		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SCHEMER_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_SCHEMER</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
 		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionCognomen>-40</iOpinionCognomen>
+		<iTribeAllianceModifier>50</iTribeAllianceModifier>
+		<iAllianceModifier>50</iAllianceModifier>
+		<iPeaceModifier>50</iPeaceModifier>
 		<bArchetype>1</bArchetype>
 		<bAgentPrereq>1</bAgentPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</LeaderEffectPlayer>
@@ -117,6 +195,22 @@
 				<iValue>-1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_JUDGE_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_ELITES</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>LAW_COIN_DEBASEMENT</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -124,11 +218,17 @@
 	<Entry>
 		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_ORATOR_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_ORATOR</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionGovernors>-40</iOpinionGovernors>
+		<iPeaceModifier>50</iPeaceModifier>
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_ORATOR</GovernorEffectCity>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -139,6 +239,18 @@
 				<iValue>-1</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_TYRANNY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -146,22 +258,40 @@
 	<Entry>
 		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_JUDGE_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_JUDGE</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionLaws>-40</iOpinionLaws>
+		<iTruceModifier>25</iTruceModifier>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_JUDGE</GovernorEffectCity>
 		<aiRating>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>2</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
 				<iValue>2</iValue>
 			</Pair>
-			<Pair>
-				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>2</iValue>
-			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_SCHEMER_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_LEGAL_CODE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -169,18 +299,36 @@
 	<Entry>
 		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SCHOLAR_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_SCHOLAR</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionKnowledge>-40</iOpinionKnowledge>
+		<iTruceModifier>25</iTruceModifier>
 		<iWarModifier>-25</iWarModifier>
 		<bArchetype>1</bArchetype>
 		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_SCHOLAR</GovernorEffectCity>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
 				<iValue>3</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_ZEALOT_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_ENGINEERING</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>
@@ -188,19 +336,35 @@
 	<Entry>
 		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</Name>
+		<Nickname>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME</Nickname>
 		<zIconName>TRAIT_DIPLOMAT</zIconName>
+		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iWarModifier>-25</iWarModifier>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionTrades>-40</iOpinionTrades>
+		<iPeaceModifier>50</iPeaceModifier>
 		<bArchetype>1</bArchetype>
-		<bAgentPrereq>1</bAgentPrereq>
-		<bTeamAlliance>1</bTeamAlliance>
+		<bGovernorPrereq>1</bGovernorPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_DIPLOMAT</GovernorEffectCity>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
 				<iValue>3</iValue>
 			</Pair>
 		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aiLawOpinion>
+			<Pair>
+				<zIndex>LAW_COLONIES</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiLawOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_PYRAMIDS_BUILDER</zValue>
 		</aeTraitInvalid>

@@ -1,14 +1,10 @@
-<!-- Different Leaders (Revan) -->
+<!-- Archetypes+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>RATING_FAME</zType>
 		<zColor>COLOR_RATING_FAME</zColor>
-		<zName>Fame</zName>
-		<zIconName>CultureIcon3</zIconName>
-		<zHelp>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
-For Leaders and Governors, Fame increases {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} und {YIELD_MONEY}.
-For Generals Fame increases the defense Strenght of a Unit.
-		</zHelp>
+		<Name>TEXT_RATING_FAME</Name>
+		<Help>TEXT_RATING_FAME_HELP</Help>
 		<iDefenseModifier>3</iDefenseModifier>
 		<aiYieldCourtRate>
 			<Pair>
