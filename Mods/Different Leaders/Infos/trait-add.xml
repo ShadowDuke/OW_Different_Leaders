@@ -372,6 +372,9 @@
 	<Entry>
 		<zType>TRAIT_PYRAMIDS_BUILDER</zType>
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
+		<iMinAge>20</iMinAge>
+		<iAdjectiveDie>0</iAdjectiveDie>
+		<iOpinionSame>40</iOpinionSame>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
 			<Pair>
@@ -383,6 +386,13 @@
 	<Entry>
 		<zType>TRAIT_FAMOUS_PERSON</zType>
 		<Name>TEXT_TRAIT_FAMOUS_PERSON</Name>
+		<iMinAge>14</iMinAge>
+		<iAdjectiveDie>0</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<iOpinionProximity>-25</iOpinionProximity>
+		<iTruceModifier>25</iTruceModifier>
+		<bStrength>1</bStrength>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_FAME</zIndex>
