@@ -374,7 +374,7 @@
 		<Name>TEXT_TRAIT_PYRAMIDS_BUILDER</Name>
 		<iMinAge>20</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iOpinionSame>30</iOpinionSame>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</LeaderEffectPlayer>
 		<aiRating>
 			<Pair>
@@ -389,7 +389,7 @@
 		<iMinAge>14</iMinAge>
 		<iAdjectiveDie>0</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iOpinionSame>25</iOpinionSame>
 		<iOpinionProximity>-25</iOpinionProximity>
 		<iTruceModifier>25</iTruceModifier>
 		<bStrength>1</bStrength>
