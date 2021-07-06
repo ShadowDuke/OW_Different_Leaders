@@ -7,10 +7,10 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_SPARTA</zType>
-		<Translation>Sparta~Spartanische~ein Spartaner~Spartaner</Translation>
+		<Translation>Sparta~Spartanisch~ein Spartaner~Spartaner</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PARTHIA</zType>
-		<Translation>Parther~Parthische~ein Parther~Parther</Translation>
+		<Translation>Parther~Parthisch~ein Parther~Parther</Translation>
 	</Entry>
 </Root>
