@@ -37,7 +37,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Traits: Honest
 <br><br>
 - +5 Training/Year
-- New Cities: +50 Training
+- New Cities: +100 Training
 - All Cities: +25% Training, -25% Cost for Axemen, -25% Cost for Elephant Units & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking, Military Drill & Steel
 - Starting Laws: Dynastic & Freedom
@@ -67,7 +67,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Traits: Bastard, Pyramids Builder & Robust
 <br><br>
 - On Start: +500 Stone
-- +3 Stone er City per Year & +1 Growth per City per Year 
+- +3 Stone per City per Year & +1 Growth per City per Year 
 - All Cities: +50% from Farm on River & +50% from Quarry on River
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
 - Starting Laws: Dynastic & Slavery
@@ -103,7 +103,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 - -25% Start Law Cost
 - -25% Switch Law Cost
 - +3 Civics per City per Year
-- All Cities: +2 Civics/Year & +2 Culture/Year
+- All Cities: +2 Civics/Year, +2 Culture/Year, -1 Discontent/Year
 - Starting Techs: Ironworking, Divination, Aristocracy & Administration
 - Starting Laws: Primogeniture & Vassalage
 
@@ -129,7 +129,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 <br><br>
 - +50% XP for all Units during Combat
 - +1 Fatigue Limit
-- Per Unit killed: 2 Culture, 2 Science & 1 Order
+- Per Unit killed: 2 Culture & 1 Order
 - +5 Training/Year
 - All Cities: +1 Growth/Year, +1 Training/Year, +5% Chance/Year of Rebel Units & -25% Costs for Ranged Units
 - Starting Techs: Ironworking, Trapping, Labor Force & Husbandry
@@ -195,8 +195,8 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
          - Son: Phraataces, 6 Years old, Diplomat, Eloquent, Humble
          - Son: Vonones, 10 Years old, Judge, Foolish, Educated
 <br><br>
-- +3 Money, +1 Science & +2 Training per Unit killed
-- All Cities: +3 Food per Year
+- +3 Money, +1 Science, +1 Order & +2 Training per Unit killed
+- All Cities: +2 Food per Year
 - Farms and Pestures: +50 % Output
 - Groves & Nets: +25% Output
 - -25% Cost for Horse Archers
@@ -222,12 +222,11 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Archetpye: <none>
       - Traits: Compassionate
 <br><br>
-- -25% Switch Law Cost
-- All Cities: +2 Civics, +1 Culture, +1 Science per Year & +20% Grwoth
-- Festivals: -0.5 Discontent
+- -50% Switch Law Cost
+- All Cities: +2 Civics, +1 Culture, +1 Science per Year & +15% Grwoth
 - -25% Cost for Akkadian Archers
 - -25% Cost for Cimmerian Archers
-- Starting Techs: Administration, Rhetoric, Ironworking, Labor Force & Navigation
+- Starting Techs: Administration, Ironworking, Labor Force & Navigation
 - Starting Laws: Dynastic & Colonization
 
 
