@@ -14,4 +14,18 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_NATION_CARTHAGE</zType>
+		<Name>TEXT_NATION_CARTHAGE</Name>
+		<SourceNation>NATION_CARTHAGE</SourceNation>
+		<EffectCity>EFFECTCITY_NATION_CARTHAGE_COAST</EffectCity>
+		<FoundBonus>BONUS_NATION_CARTHAGE</FoundBonus>
+		<bHireMercenaries>0</bHireMercenaries>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 </Root>

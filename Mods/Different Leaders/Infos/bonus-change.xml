@@ -5,7 +5,11 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>50</iValue>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-200</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>
@@ -14,7 +18,7 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
-				<iValue>500</iValue>
+				<iValue>100</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>

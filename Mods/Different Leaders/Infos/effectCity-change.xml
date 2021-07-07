@@ -7,7 +7,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
-				<iValue>30</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiImprovementModifier>
@@ -71,32 +71,27 @@
 				<zIndex>UNIT_AKKADIAN_ARCHER</zIndex>
 				<iValue>-25</iValue>
 			</Pair>
-		</aiUnitCostModifier>			   
+		</aiUnitCostModifier>	
 		<aaiEffectCityYieldRate>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_TREASURY</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_CULTURE</zSubIndex>
-					<iValue>20</iValue>
-				</SubPair>
-				<SubPair>
-					<zSubIndex>YIELD_SCIENCE</zSubIndex>
-					<iValue>20</iValue>
+					<iValue>0</iValue>
 				</SubPair>
 			</Pair>
-			<Pair>
-				<zIndex>EFFECTCITY_PROJECT_FESTIVAL</zIndex>
-				<SubPair>
-					<zSubIndex>YIELD_DISCONTENT</zSubIndex>
-					<iValue>-5</iValue>
-				</SubPair>
-			</Pair>
-		</aaiEffectCityYieldRate>
+		</aaiEffectCityYieldRate>		
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_CARTHAGE_COAST</zType>
 		<Name>TEXT_NATION_CARTHAGE</Name>
 		<SourceNation>NATION_CARTHAGE</SourceNation>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>0</iValue>
+			</Pair>
+		</aiYieldRate>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -153,6 +148,10 @@
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>20</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
 		</aiYieldRate>
 	</Entry>
 	<Entry>
@@ -173,7 +172,7 @@
 		<aiUnitTraitCostModifier>
 			<Pair>
 				<zIndex>UNITTRAIT_RANGED</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-25</iValue>
 			</Pair>
 		</aiUnitTraitCostModifier>
 		<aaiImprovementClassYield>
@@ -185,5 +184,22 @@
 				</SubPair>
 			</Pair>
 		</aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_NATION_EGYPT</zType>
+		<Name>TEXT_NATION_EGYPT</Name>
+		<SourceNation>NATION_EGYPT</SourceNation>
+		<aiImprovementRiverModifier>
+			<Pair>
+				<zIndex>IMPROVEMENT_FARM</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiImprovementRiverModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_NATION_EGYPT_EXTRA</zType>
+		<Name>TEXT_NATION_EGYPT</Name>
+		<SourceNation>NATION_EGYPT</SourceNation>
+		<iAdjacentClassCostModifier>0</iAdjacentClassCostModifier>
 	</Entry>
 </Root>
