@@ -22,6 +22,16 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNIT_SCOUT</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_BABYLONIA</zIndex>
@@ -225,6 +235,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ASSYRIA</zIndex>
@@ -237,7 +253,6 @@
 		</aiNationOpinion>
 		<aeStartingTech>
 			<zValue>TECH_ADMINISTRATION</zValue>
-			<zValue>TECH_RHETORIC</zValue>
 			<zValue>TECH_IRONWORKING</zValue>
 			<zValue>TECH_LABOR_FORCE</zValue>
 			<zValue>TECH_NAVIGATION</zValue>
@@ -419,6 +434,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>						 
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -644,6 +665,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WARRIOR</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_ASSYRIA</zIndex>
@@ -838,6 +865,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>						 
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_PERSIA</zIndex>
@@ -1090,6 +1123,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>						 
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_GREECE</zIndex>
@@ -1289,6 +1328,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
+		<aiCityUnit>
+			<Pair>
+				<zIndex>UNIT_WARRIOR</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiCityUnit>
 		<aiNationOpinion>
 			<Pair>
 				<zIndex>NATION_CARTHAGE</zIndex>
