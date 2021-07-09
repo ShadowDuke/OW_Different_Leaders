@@ -144,4 +144,8 @@
 		<zType>ASSET_SPRITE_SHEET_XERXES_old</zType>
 		<zAsset>leaders/Xerxes_old</zAsset>
 	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_FAME</zType>
+		<zAsset>ratings/RATING_FAME</zAsset>
+	</Entry>
 </Root>

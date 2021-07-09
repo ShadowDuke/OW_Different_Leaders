@@ -5,6 +5,7 @@
 		<zColor>COLOR_RATING_FAME</zColor>
 		<Name>TEXT_RATING_FAME</Name>
 		<Help>TEXT_RATING_FAME_HELP</Help>
+		<zIconName>RATING_FAME</zIconName>
 		<iDefenseModifier>3</iDefenseModifier>
 		<aiYieldCourtRate>
 			<Pair>

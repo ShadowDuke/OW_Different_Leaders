@@ -41,4 +41,10 @@
 			<zValue>ASSET_SPRITE_SHEET_PLEISTARCHOS_old</zValue>
         </aeSpriteSheets>
     </Entry>
+	<Entry>
+        <zType>SPRITE_GROUP_RATING_ICONS</zType>
+        <aeSpriteSheets>
+			<zValue>ASSET_SPRITE_SHEET_FAME</zValue>
+        </aeSpriteSheets>
+    </Entry>	
 </Root>
