@@ -146,6 +146,6 @@
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_FAME</zType>
-		<zAsset>ratings/RATING_FAME</zAsset>
+		<zAsset>fame/RATING_FAME</zAsset>
 	</Entry>
 </Root>
