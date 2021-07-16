@@ -87,7 +87,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
    - **Octavia** 
       - 28 Years old
       - Archetpye: Judge
-      - Traits: Loyal, Compassionate, Beautifil & Humble
+      - Traits: Loyal, Compassionate, Beautiful & Humble
       - Spouse: Mark Antony, 44 Years Old, Hero, Swift, Rigtheous, Loyal & Famous Person
       - Daughter: Antonia, 2 Years Old
       
