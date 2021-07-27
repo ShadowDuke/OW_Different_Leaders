@@ -132,7 +132,7 @@
 			</Pair>
 		</aiUnitCostModifier>
 		<aeFreePromotion>
-			<zValue>PROMOTION_GUARD2</zValue>
+			<zValue>PROMOTION_GUARD1</zValue>
 		</aeFreePromotion>		
 	</Entry>
 	<Entry>
