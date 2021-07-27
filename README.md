@@ -166,7 +166,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 - Unlocks Decree in Capital
 - -10% Chance/Year of Rebel Units
 - -25% Cost for Spearmen
-- New Units start with Guard II
+- New Units start with Guard I
 - All Cities: +5 Training/Year
 - Starting Techs: Ironworking, Stoonecutting, Labor Force & Trapping
 - Starting Laws: Lateral & Freedom
