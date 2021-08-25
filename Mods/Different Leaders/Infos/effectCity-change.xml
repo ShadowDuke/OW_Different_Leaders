@@ -83,15 +83,9 @@
 		</aaiEffectCityYieldRate>		
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_NATION_CARTHAGE_COAST</zType>
+		<zType>EFFECTCITY_NATION_CARTHAGE</zType>
 		<Name>TEXT_NATION_CARTHAGE</Name>
 		<SourceNation>NATION_CARTHAGE</SourceNation>
-		<aiYieldRate>
-			<Pair>
-				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>0</iValue>
-			</Pair>
-		</aiYieldRate>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -113,6 +107,15 @@
 		<aeFreePromotion>
 			<zValue>PROMOTION_COMBAT1</zValue>
 		</aeFreePromotion>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_CONNECTED</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>0</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_NATION_GREECE</zType>
