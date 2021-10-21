@@ -2,22 +2,22 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<en-US>Pyramids Builder</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<English>Famous Person</English>
+		<en-US>Famous Person</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OLD_RULER</zType>
-		<English>Old Ruler</English>
+		<en-US>Old Ruler</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DARIEUS_VANISHED</zType>
-		<English>Darieus vanished</English>
+		<en-US>Darieus vanished</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NO_HEIR</zType>
-		<English>No heir</English>
+		<en-US>No heir</en-US>
 	</Entry>
 </Root>

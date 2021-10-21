@@ -3,26 +3,26 @@
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_EURYPONTID</zType>
-		<Translation>Eurypontid~Eurypontidsn~Eurypontid</Translation>
+		<de-DE>Eurypontid~Eurypontidsn~Eurypontid</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_ARSACID</zType>
-		<Translation>Arsakid~Arsakiden~Arsakid</Translation>
+		<de-DE>Arsakid~Arsakiden~Arsakid</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CHOSROID</zType>
-		<Translation>Chosroid~Chosroiden~Chosroid</Translation>
+		<de-DE>Chosroid~Chosroiden~Chosroid</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_DABUYID</zType>
-		<Translation>Dabuyid~Dabuyiden~Dabuyid</Translation>
+		<de-DE>Dabuyid~Dabuyiden~Dabuyid</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_BAVANDID</zType>
-		<Translation>Bavandid~Bawandiden~Bavandid</Translation>
+		<de-DE>Bavandid~Bawandiden~Bavandid</de-DE>
 	</Entry>
 </Root>

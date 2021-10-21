@@ -1,18 +1,18 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_PYRAMIDS_BUILDER</zType>
-		<Translation>Pyramiden Erbauer</Translation>
+		<de-DE>Pyramiden Erbauer</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_GREECE</zType>
-		<Translation>Sparta</Translation>
+		<de-DE>Sparta</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_NATION_ASSYRIA</zType>
-		<Translation>Parther</Translation>
+		<de-DE>Parther</de-DE>
 	</Entry>
 </Root>

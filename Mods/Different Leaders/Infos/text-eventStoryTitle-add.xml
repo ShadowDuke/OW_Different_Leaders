@@ -2,26 +2,26 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR_TITLE</zType>
-		<English>Death of Hamilcar</English>
+		<en-US>Death of Hamilcar</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES_TITLE</zType>
-		<English>Death of Cleomenes</English>
+		<en-US>Death of Cleomenes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE_TITLE</zType>
-		<English>Pacorus killed in battle</English>
+		<en-US>Pacorus killed in battle</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORODES_MURDERED_TITLE</zType>
-		<English>Orodes murdered</English>
+		<en-US>Orodes murdered</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED_TITLE</zType>
-		<English>Phraates poisoned</English>
+		<en-US>Phraates poisoned</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA_TITLE</zType>
-		<English>Mark Antony and Cleopetra</English>
+		<en-US>Mark Antony and Cleopetra</en-US>
 	</Entry>
 </Root>

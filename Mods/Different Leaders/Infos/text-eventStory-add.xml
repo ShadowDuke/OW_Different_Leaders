@@ -2,28 +2,28 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR</zType>
-		<English>Our leader Hamical died. His wounds from previous battles did not heal properly.</English>
+		<en-US>Our leader Hamical died. His wounds from previous battles did not heal properly.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES</zType>
-		<English>In his madness he took his own life,...or maybe he did not? We are never going to know.</English>
+		<en-US>In his madness he took his own life,...or maybe he did not? We are never going to know.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE</zType>
-		<English>Pacorus killed in battle invading Syria. He suffered a terrible defeat.</English>
+		<en-US>Pacorus killed in battle invading Syria. He suffered a terrible defeat.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORODES_MURDERED</zType>
-		<English>Phraates murdered his own father, Orodes, also his own son and all his brothers to strengthen his position!</English>
+		<en-US>Phraates murdered his own father, Orodes, also his own son and all his brothers to strengthen his position!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED</zType>
-		<English>Phraates was poisoned by his wife Musa, who was later also the wife of her son Phraatactes.</English>
+		<en-US>Phraates was poisoned by his wife Musa, who was later also the wife of her son Phraatactes.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA</zType>
-		<English>Mark Antony committed suicide by stabbing himself with his sword in the mistaken belief that Cleopatra had already done so.
+		<en-US>Mark Antony committed suicide by stabbing himself with his sword in the mistaken belief that Cleopatra had already done so.
 
-When he found out that Cleopatra was still alive, his friends brought him to Cleopatra's monument in which she was hiding, and he died in her arms.</English>
+When he found out that Cleopatra was still alive, his friends brought him to Cleopatra's monument in which she was hiding, and he died in her arms.</en-US>
 	</Entry>
 </Root>

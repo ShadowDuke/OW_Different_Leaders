@@ -3,116 +3,116 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE</zType>
-		<English>Sparta</English>
+		<en-US>Sparta</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE</zType>
-		<English>Sparta Text</English>
+		<en-US>Sparta Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_01</zType>
-		<English>Sparta Family 1</English>
+		<en-US>Sparta Family 1</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_01_TEXT</zType>
-		<English>Sparta Family 1 Text</English>
+		<en-US>Sparta Family 1 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_02</zType>
-		<English>Sparta Family 2</English>
+		<en-US>Sparta Family 2</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_02_TEXT</zType>
-		<English>Sparta Family 2 Text</English>
+		<en-US>Sparta Family 2 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_03</zType>
-		<English>Sparta Family 3</English>
+		<en-US>Sparta Family 3</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_03_TEXT</zType>
-		<English>Sparta Family 3 Text</English>
+		<en-US>Sparta Family 3 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_04</zType>
-		<English>Sparta Family 4</English>
+		<en-US>Sparta Family 4</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_04_TEXT</zType>
-		<English>Sparta Family 4 Text</English>
+		<en-US>Sparta Family 4 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE</zType>
-		<English>Sparta Family None</English>
+		<en-US>Sparta Family None</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_GREECE_FAMILY_NONE_TEXT</zType>
-		<English>Sparta Family Text</English>
+		<en-US>Sparta Family Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA</zType>
-		<English>Parthia</English>
+		<en-US>Parthia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_TEXT</zType>
-		<English>Parthia Text</English>
+		<en-US>Parthia Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01</zType>
-		<English>Parthia Family 1</English>
+		<en-US>Parthia Family 1</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_01_TEXT</zType>
-		<English>Parthia Family 1 Text</English>
+		<en-US>Parthia Family 1 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02</zType>
-		<English>Parthia Family 2</English>
+		<en-US>Parthia Family 2</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_02_TEXT</zType>
-		<English>Parthia Family 2 Text</English>
+		<en-US>Parthia Family 2 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03</zType>
-		<English>Parthia Family 3</English>
+		<en-US>Parthia Family 3</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_03_TEXT</zType>
-		<English>Parthia Family 3 Text</English>
+		<en-US>Parthia Family 3 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04</zType>
-		<English>Parthia Family 4</English>
+		<en-US>Parthia Family 4</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_04_TEXT</zType>
-		<English>Parthia Family 4 Text</English>
+		<en-US>Parthia Family 4 Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE</zType>
-		<English>Parthia Family None</English>
+		<en-US>Parthia Family None</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_NATION_ASSYRIA_FAMILY_NONE_TEXT</zType>
-		<English>Parthia Family Text</English>
+		<en-US>Parthia Family Text</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_COLOR_RATING_FAME</zType>
-		<English>Fame</English>
+		<en-US>Fame</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME</zType>
-		<English>Fame</English>
+		<en-US>Fame</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RATING_FAME_HELP</zType>
-		<English>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
+		<en-US>Fame increases {YIELD_ORDERS}, {YIELD_FOOD}, {YIELD_STONE}, {YIELD_WOOD}, {YIELD_IRON} and {YIELD_CULTURE} as Leader twice as much.
 As Governor {YIELD_CULTURE}, {YIELD_SCIENCE}, {YIELD_CIVICS}, {YIELD_GROWTH} and {YIELD_MONEY} is increased.
-For Generals Fame increases the defense Strenght of a Unit.</English>
+For Generals Fame increases the defense Strenght of a Unit.</en-US>
 	</Entry>
 </Root>

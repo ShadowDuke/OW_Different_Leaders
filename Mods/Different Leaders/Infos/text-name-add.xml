@@ -3,170 +3,170 @@
 <Root>
 	<Entry>
 		<zType>TEXT_NAME_Hannibal</zType>
-		<English>Hannibal</English>
+		<en-US>Hannibal</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hamilcar</zType>
-		<English>Hamilcar</English>
+		<en-US>Hamilcar</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hasdrubal</zType>
-		<English>Hasdrubal</English>
+		<en-US>Hasdrubal</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Mago</zType>
-		<English>Mago</English>
+		<en-US>Mago</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Sneferu</zType>
-		<English>Sneferu</English>
+		<en-US>Sneferu</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hetepheres</zType>
-		<English>Hetepheres</English>
+		<en-US>Hetepheres</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Cheops</zType>
-		<English>Cheops</English>
+		<en-US>Cheops</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Rahotep</zType>
-		<English>Rahotep</English>
+		<en-US>Rahotep</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Nofret</zType>
-		<English>Nofret</English>
+		<en-US>Nofret</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Nefermaat</zType>
-		<English>Nefermaat</English>
+		<en-US>Nefermaat</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Augustus</zType>
-		<English>Augustus</English>
+		<en-US>Augustus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Atia</zType>
-		<English>Atia</English>
+		<en-US>Atia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Octavia</zType>
-		<English>Octavia</English>
+		<en-US>Octavia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Marcus Antonius</zType>
-		<English>Marcus Antonius</English>
+		<en-US>Marcus Antonius</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Antonia</zType>
-		<English>Antonia</English>
+		<en-US>Antonia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Livia</zType>
-		<English>Livia</English>
+		<en-US>Livia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Tiberius</zType>
-		<English>Tiberius</English>
+		<en-US>Tiberius</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Iulia</zType>
-		<English>Iulia</English>
+		<en-US>Iulia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Darius</zType>
-		<English>Darius</English>
+		<en-US>Darius</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Atossa</zType>
-		<English>Atossa</English>
+		<en-US>Atossa</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Xerxes</zType>
-		<English>Xerxes</English>
+		<en-US>Xerxes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Amestris</zType>
-		<English>Amestris</English>
+		<en-US>Amestris</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Artaxerxes</zType>
-		<English>Artaxerxes</English>
+		<en-US>Artaxerxes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Amytis</zType>
-		<English>Amytis</English>
+		<en-US>Amytis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Anaxandridas</zType>
-		<English>Anaxandridas</English>
+		<en-US>Anaxandridas</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Cleomenes</zType>
-		<English>Cleomenes</English>
+		<en-US>Cleomenes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Leonidas</zType>
-		<English>Leonidas</English>
+		<en-US>Leonidas</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Gorgo</zType>
-		<English>Gorgo</English>
+		<en-US>Gorgo</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Kleombrotos</zType>
-		<English>Kleombrotos</English>
+		<en-US>Kleombrotos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Dorieus</zType>
-		<English>Dorieus</English>
+		<en-US>Dorieus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Pleistarchos</zType>
-		<English>Pleistarchos</English>
+		<en-US>Pleistarchos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Euryanax</zType>
-		<English>Euryanax</English>
+		<en-US>Euryanax</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Orodes</zType>
-		<English>Orodes</English>
+		<en-US>Orodes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Pacorus</zType>
-		<English>Pacorus</English>
+		<en-US>Pacorus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Phraates</zType>
-		<English>Phraates</English>
+		<en-US>Phraates</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Musa</zType>
-		<English>Musa</English>
+		<en-US>Musa</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Phraataces</zType>
-		<English>Phraataces</English>
+		<en-US>Phraataces</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Vonones</zType>
-		<English>Vonones</English>
+		<en-US>Vonones</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Balhiti</zType>
-		<English>Balhiti</English>
+		<en-US>Balhiti</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Sin_muballit</zType>
-		<English>Sin-muballit</English>
+		<en-US>Sin-muballit</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Hammurabi</zType>
-		<English>Hammurabi</English>
+		<en-US>Hammurabi</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NAME_Samsu_iluna</zType>
-		<English>Samsu-iluna</English>
+		<en-US>Samsu-iluna</en-US>
 	</Entry>
 </Root>

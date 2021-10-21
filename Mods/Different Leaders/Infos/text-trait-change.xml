@@ -2,26 +2,26 @@
 <Root>
 	<Entry>
 		<zType/>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
-		<Translation>Pyramiden Erbauer</Translation>
+		<de-DE>Pyramiden Erbauer</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FAMOUS_PERSON</zType>
-		<Translation>Berühmte Persönlichkeit</Translation>
+		<de-DE>Berühmte Persönlichkeit</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OLD_RULER</zType>
-		<Translation>Alter Herrscher</Translation>
+		<de-DE>Alter Herrscher</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DARIEUS_VANISHED</zType>
-		<Translation>Darieus verschwunden</Translation>
+		<de-DE>Darieus verschwunden</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_NO_HEIR</zType>
-		<Translation>Kein Erbe</Translation>
+		<de-DE>Kein Erbe</de-DE>
 	</Entry>
 </Root>

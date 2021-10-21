@@ -1,30 +1,30 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zType>
-		<Translation>Beunruhigende Neuigkeiten.</Translation>
+		<de-DE>Beunruhigende Neuigkeiten.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zType>
-		<Translation>Ist das wahr?</Translation>
+		<de-DE>Ist das wahr?</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zType>
-		<Translation>Beunruhigende Neuigkeiten!</Translation>
+		<de-DE>Beunruhigende Neuigkeiten!</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
-		<Translation>Grausam!</Translation>
+		<de-DE>Grausam!</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PHRAATES_POISONED_OPTION_0</zType>
-		<Translation>Toxisch!</Translation>
+		<de-DE>Toxisch!</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zType>
-		<Translation>Tragisch!</Translation>
+		<de-DE>Tragisch!</de-DE>
 	</Entry>
 </Root>

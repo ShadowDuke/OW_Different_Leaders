@@ -1,30 +1,30 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR_TITLE</zType>
-		<Translation>Tot des Hamilkar</Translation>
+		<de-DE>Tot des Hamilkar</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES_TITLE</zType>
-		<Translation>Tot des Kleomenes </Translation>
+		<de-DE>Tot des Kleomenes </de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE_TITLE</zType>
-		<Translation>Pakoros in der Schlacht getötet</Translation>
+		<de-DE>Pakoros in der Schlacht getötet</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORODES_MURDERED_TITLE</zType>
-		<Translation>Orodes ermordet</Translation>
+		<de-DE>Orodes ermordet</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED_TITLE</zType>
-		<Translation>Phraates vergiftet</Translation>
+		<de-DE>Phraates vergiftet</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA_TITLE</zType>
-		<Translation>Marcus Antonius und Cleopatra</Translation>
+		<de-DE>Marcus Antonius und Cleopatra</de-DE>
 	</Entry>
 </Root>

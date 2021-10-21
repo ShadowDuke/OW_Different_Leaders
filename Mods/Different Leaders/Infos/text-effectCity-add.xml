@@ -2,14 +2,14 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PYRAMIDS_BUILDER</zType>
-		<English>Pyramids Builder</English>
+		<en-US>Pyramids Builder</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
-		<English>Sparta</English>
+		<en-US>Sparta</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
-		<English>Parthia</English>
+		<en-US>Parthia</en-US>
 	</Entry>
 </Root>

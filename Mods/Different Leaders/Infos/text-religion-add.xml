@@ -1,15 +1,15 @@
 <Root>
-	<!--English Indices: Noun ~ Adjective ~ Indefinite & Adjective ~ Plural-->
+	<!--en-US Indices: Noun ~ Adjective ~ Indefinite & Adjective ~ Plural-->
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_ASSYRIA</zType>
-		<English>Parthian Paganism~Parthian Pagan~an Parthian Pagan~Parthian Pagans~Parthian Pagan</English>
+		<en-US>Parthian Paganism~Parthian Pagan~an Parthian Pagan~Parthian Pagans~Parthian Pagan</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_RELIGION_PAGAN_GREECE</zType>
-		<English>Spartian Paganism~Spartian Pagan~a Spartian Pagan~Spartian Pagans~Spartian Pagan</English>
+		<en-US>Spartian Paganism~Spartian Pagan~a Spartian Pagan~Spartian Pagans~Spartian Pagan</en-US>
 	</Entry>
 </Root>

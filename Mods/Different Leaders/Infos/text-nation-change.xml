@@ -3,14 +3,14 @@
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_SPARTA</zType>
-		<Translation>Sparta~Spartanische~ein Spartaner~Spartaner</Translation>
+		<de-DE>Sparta~Spartanische~ein Spartaner~Spartaner</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_PARTHIA</zType>
-		<Translation>Parther~Parthische~ein Parther~Parther</Translation>
+		<de-DE>Parther~Parthische~ein Parther~Parther</de-DE>
 	</Entry>
 </Root>

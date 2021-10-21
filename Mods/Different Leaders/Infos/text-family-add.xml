@@ -3,22 +3,22 @@
 	<!-- Title -->
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_EURYPONTID</zType>
-		<English>Eurypontid~Eurypontids~Eurypontid</English>
+		<en-US>Eurypontid~Eurypontids~Eurypontid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_CHOSROID</zType>
-		<English>Chosroid~Chosroids~Chosroid</English>
+		<en-US>Chosroid~Chosroids~Chosroid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_DABUYID</zType>
-		<English>Dabuyid~Dabuyids~Dabuyid</English>
+		<en-US>Dabuyid~Dabuyids~Dabuyid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILY_BAVANDID</zType>
-		<English>Bavandid~Bavandids~Bavandid</English>
+		<en-US>Bavandid~Bavandids~Bavandid</en-US>
 	</Entry>
 </Root>

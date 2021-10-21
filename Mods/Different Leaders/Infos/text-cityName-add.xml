@@ -2,198 +2,198 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<en-US/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CTESIPHON</zType>
-		<English>Ctesiphon</English>
+		<en-US>Ctesiphon</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HECATOMPYLOS</zType>
-		<English>Hecatompylos</English>
+		<en-US>Hecatompylos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MITHRADATKIRT</zType>
-		<English>Mithradatkirt</English>
+		<en-US>Mithradatkirt</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASAAK</zType>
-		<English>Asaak</English>
+		<en-US>Asaak</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RHAGES</zType>
-		<English>Rhages</English>
+		<en-US>Rhages</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BYBLOS</zType>
-		<English>Byblos</English>
+		<en-US>Byblos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TYRE</zType>
-		<English>Tyre</English>
+		<en-US>Tyre</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_SIDON</zType>
-		<English>Sidon</English>
+		<en-US>Sidon</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARWAD</zType>
-		<English>Arwad</English>
+		<en-US>Arwad</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BERYTOS</zType>
-		<English>Berytos</English>
+		<en-US>Berytos</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_LEBNAN</zType>
-		<English>Lebnan</English>
+		<en-US>Lebnan</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ADONIS</zType>
-		<English>Adonis</English>
+		<en-US>Adonis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ISHTARA</zType>
-		<English>Ishtara</English>
+		<en-US>Ishtara</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_KARTEIA</zType>
-		<English>Karteia</English>
+		<en-US>Karteia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BYRSA</zType>
-		<English>Byrsa</English>
+		<en-US>Byrsa</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BAALBECK</zType>
-		<English>Baalbeck</English>
+		<en-US>Baalbeck</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_GIZA</zType>
-		<English>Giza</English>
+		<en-US>Giza</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ASWAN</zType>
-		<English>Aswan</English>
+		<en-US>Aswan</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CAIRO</zType>
-		<English>Cairo</English>
+		<en-US>Cairo</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ELIS</zType>
-		<English>Elis</English>
+		<en-US>Elis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MESSENE</zType>
-		<English>Messene</English>
+		<en-US>Messene</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THESSALONIKI</zType>
-		<English>Thessaloniki</English>
+		<en-US>Thessaloniki</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CYPRUS</zType>
-		<English>Cyprus</English>
+		<en-US>Cyprus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ILLYRIA</zType>
-		<English>Illyria</English>
+		<en-US>Illyria</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CHAERONE</zType>
-		<English>Chaerone</English>
+		<en-US>Chaerone</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PYDNA</zType>
-		<English>Pidna</English>
+		<en-US>Pidna</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_METHONI</zType>
-		<English>Methoni</English>
+		<en-US>Methoni</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MAGNESIA</zType>
-		<English>Magnesia</English>
+		<en-US>Magnesia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THERMOPYLAE</zType>
-		<English>Thermopylae</English>
+		<en-US>Thermopylae</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DELPHI</zType>
-		<English>Delphi</English>
+		<en-US>Delphi</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_RHODES</zType>
-		<English>Rhodes</English>
+		<en-US>Rhodes</en-US>
 	</Entry>	
 	<Entry>
 		<zType>TEXT_CITYNAME_AEGEA</zType>
-		<English>Aegea</English>
+		<en-US>Aegea</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_DIUM</zType>
-		<English>Dium</English>
+		<en-US>Dium</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HEBRUS</zType>
-		<English>Hebrus</English>
+		<en-US>Hebrus</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_EUBOEA</zType>
-		<English>Kuboea</English>
+		<en-US>Kuboea</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ISFAHAN</zType>
-		<English>Isfahan</English>
+		<en-US>Isfahan</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_HAMADAN</zType>
-		<English>Hamadan</English>
+		<en-US>Hamadan</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARDABIL</zType>
-		<English>Ardabil</English>
+		<en-US>Ardabil</en-US>
 	</Entry>	
 	<Entry>
 		<zType>TEXT_CITYNAME_TABRIZ</zType>
-		<English>Tabriz</English>
+		<en-US>Tabriz</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_MEDEA</zType>
-		<English>Medea</English>
+		<en-US>Medea</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_PERSIS</zType>
-		<English>Persis</English>
+		<en-US>Persis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_THYMBRA</zType>
-		<English>Thymbra</English>
+		<en-US>Thymbra</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BENEVENTUM</zType>
-		<English>Beneventum</English>
+		<en-US>Beneventum</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_ARRETIUM</zType>
-		<English>Arretium</English>
+		<en-US>Arretium</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_BRUNDISIUM</zType>
-		<English>Brundisium</English>
+		<en-US>Brundisium</en-US>
 	</Entry>	
 	<Entry>
 		<zType>TEXT_CITYNAME_TUSCULUM</zType>
-		<English>Tusculum</English>
+		<en-US>Tusculum</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_CIRCEII</zType>
-		<English>Circeii</English>
+		<en-US>Circeii</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CITYNAME_TICINUM</zType>
-		<English>Ticinum</English>
+		<en-US>Ticinum</en-US>
 	</Entry>
 </Root>

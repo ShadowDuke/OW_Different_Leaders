@@ -22,10 +22,10 @@
 		<Name>TEXT_NATION_ROME</Name>
 		<SourceNation>NATION_ROME</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ROME</EffectCity>
+		<EffectUnit>EFFECTUNIT_CRIPPLED</EffectUnit>
 		<iXPModifier>0</iXPModifier>
 		<iStartLawModifier>-25</iStartLawModifier>
 		<iSwitchLawModifier>-25</iSwitchLawModifier>
-		<iFatigueLimitChange>0</iFatigueLimitChange>
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -38,19 +38,9 @@
 		<Name>TEXT_NATION_PERSIA</Name>
 		<SourceNation>NATION_PERSIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_PERSIA</EffectCity>
+		<EffectUnit>EFFECTUNIT_PERSIA</EffectUnit>
 		<iXPModifier>50</iXPModifier>
 		<iHarvestModifier>0</iHarvestModifier>
-		<iFatigueLimitChange>1</iFatigueLimitChange>
-		<aiMilitaryKillYield>
-			<Pair>
-				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>2</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiMilitaryKillYield>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -84,24 +74,7 @@
 		<Name>TEXT_NATION_ASSYRIA</Name>
 		<SourceNation>NATION_ASSYRIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-		<aiMilitaryKillYield>
-			<Pair>
-				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>3</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>2</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_ORDERS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiMilitaryKillYield>
+		<EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_BABYLONIA</zType>

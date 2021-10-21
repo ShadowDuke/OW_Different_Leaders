@@ -2,26 +2,26 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_HAMILCAR_OPTION_0</zType>
-		<English>Troubling news.</English>
+		<en-US>Troubling news.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DEATH_OF_CLEOMENES_OPTION_0</zType>
-		<English>Is that true?</English>
+		<en-US>Is that true?</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PACORUS_KILLED_IN_BATTLE_OPTION_0</zType>
-		<English>Troubling News!</English>
+		<en-US>Troubling News!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ORODES_MURDERED_OPTION_0</zType>
-		<English>Cruel!</English>
+		<en-US>Cruel!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PHRAATES_POISONED_OPTION_0</zType>
-		<English>Toxic!</English>
+		<en-US>Toxic!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ANTONIUS_CLEOPATRA_OPTION_0</zType>
-		<English>Tragical!</English>
+		<en-US>Tragical!</en-US>
 	</Entry>
 </Root>

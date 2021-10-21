@@ -1,32 +1,32 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
-		<Translation/>
+		<de-DE/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_HAMILCAR</zType>
-		<Translation>Unser Oberhaupt Hamilkar ist tot. Seine Wunden vorheriger Schlachten sind einfach nicht richtig verheilt.</Translation>
+		<de-DE>Unser Oberhaupt Hamilkar ist tot. Seine Wunden vorheriger Schlachten sind einfach nicht richtig verheilt.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_OF_CLEOMENES</zType>
-		<Translation>In seinem Wahn hat er sich sein Leben genommen,...oder vielleicht doch nicht? Wir werden es niemals erfahren.</Translation>
+		<de-DE>In seinem Wahn hat er sich sein Leben genommen,...oder vielleicht doch nicht? Wir werden es niemals erfahren.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PACORUS_KILLED_IN_BATTLE</zType>
-		<Translation>Pakoros wurde beim Einfall in Syrien getötet. Er erlitt eine entsetzliche Niederlage.</Translation>
+		<de-DE>Pakoros wurde beim Einfall in Syrien getötet. Er erlitt eine entsetzliche Niederlage.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORODES_MURDERED</zType>
-		<Translation>Phraates hat seinen eigene Vater ermordert, Orodes, außerdem seinen eigenen Sohn so wie alle seine Brüder, um so seine Position zu stärken!</Translation>
+		<de-DE>Phraates hat seinen eigene Vater ermordert, Orodes, außerdem seinen eigenen Sohn so wie alle seine Brüder, um so seine Position zu stärken!</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PHRAATES_POISONED</zType>
-		<Translation>Phraates wurde von seiner Frau vergifteta, welche später außerdem die Frau ihres eigenes Sohnes, Phraatakes war.</Translation>
+		<de-DE>Phraates wurde von seiner Frau vergifteta, welche später außerdem die Frau ihres eigenes Sohnes, Phraatakes war.</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANTONIUS_CLEOPATRA</zType>
-		<Translation>Marcus Antonius Mark stürzte sich in dem Glauben, dass Cleopatra sich bereits umgebracht hat in sein Schwert.
+		<de-DE>Marcus Antonius Mark stürzte sich in dem Glauben, dass Cleopatra sich bereits umgebracht hat in sein Schwert.
 
-Als er herausfand, das Cleopatra noch immer am Leben war, brachten ihn seine Freunde zu ihr, zu Cleopatras Mausoleum wo sie sich verschanzt hatte. Dann starb er in ihren Armen.</Translation>
+Als er herausfand, das Cleopatra noch immer am Leben war, brachten ihn seine Freunde zu ihr, zu Cleopatras Mausoleum wo sie sich verschanzt hatte. Dann starb er in ihren Armen.</de-DE>
 	</Entry>
 </Root>
