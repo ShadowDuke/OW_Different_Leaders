@@ -1,6 +1,10 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
+        <zType>TEXT_LANGUAGE_GERMAN</zType>
+        <de-DE>Deutsch</de-DE>
+    </Entry>
+	<Entry>
 		<zType>TEXT_NATION_CARTHAGE_MOD_STORY</zType>
 		<en-US>    I am Hamilcar Barca, father of Hannibal, the great hero of our nation. I served as a general in the carthage army and the romans called me Barq "thunderbolt" because i strike quickly and unexpected.
 
