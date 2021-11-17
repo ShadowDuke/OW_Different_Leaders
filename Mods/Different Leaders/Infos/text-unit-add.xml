@@ -1,0 +1,11 @@
+<!-- Different Leaders (Revan) -->
+<Root>
+	<Entry>
+		<zType>TEXT_UNIT_LIGHT_HORSE_ARCHER</zType>
+		<en-US>Light Horse Archer~a Light Horse Archer~Light Horse Archers</en-US>
+    </Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIGHT_HORSE_ARCHER</zType>
+		<de-DE>Leichter beritt. Bogenschütze~ein leichter berit. Bogenschütze~Leichte beritt. Bogenschützen</de-DE>
+    </Entry>
+</Root>

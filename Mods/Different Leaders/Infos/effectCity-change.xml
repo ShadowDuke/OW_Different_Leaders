@@ -30,6 +30,10 @@
 		</aiImprovementModifier>
 		<aiUnitCostModifier>
 			<Pair>
+				<zIndex>UNIT_LIGHT_HORSE_ARCHER</zIndex>
+				<iValue>-15</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>UNIT_HORSE_ARCHER</zIndex>
 				<iValue>-25</iValue>
 			</Pair>

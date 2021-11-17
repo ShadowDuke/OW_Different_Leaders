@@ -9,7 +9,7 @@
 		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>3</iValue>
+				<iValue>1</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>

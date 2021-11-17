@@ -18,7 +18,7 @@
 		<iFirstBuildPercent>40</iFirstBuildPercent>
 		<aiStartUnit>
 			<Pair>
-				<zIndex>UNIT_HORSE_ARCHER</zIndex>
+				<zIndex>UNIT_LIGHT_HORSE_ARCHER</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartUnit>
