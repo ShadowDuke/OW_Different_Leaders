@@ -195,11 +195,11 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
          - Son: Phraataces, 6 Years old, Diplomat, Eloquent, Humble
          - Son: Vonones, 10 Years old, Judge, Foolish, Educated
 <br><br>
-- +3 Money, +1 Science, +1 Order & +2 Training per Unit killed
+- +1 Money, +1 Science, +1 Order & +2 Training per Unit killed
 - All Cities: +2 Food per Year
 - Farms and Pestures: +50 % Output
 - Groves & Nets: +25% Output
-- -25% Cost for Horse Archers
+- -25% Cost for Horse Archers & -15% cost for light Horse Archers
 - New Units start with Marksman
 - Starting Techs: Trapping, Administration, Sovereignty & Divination
 - Starting Laws: Dynastic & Tyranny
@@ -243,6 +243,9 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
    - +1 Fame
 - Some hidden traits to reflect historical events
   
+### New Units
+   
+- Light Horse Archer
 
 ### Info
 **Mod compatibility with all my mods**
