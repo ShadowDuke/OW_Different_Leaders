@@ -148,7 +148,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 <br><br>
 
 - Has 2 brothers
-   - **Kleombrotos** (eventual twin)
+   - **Kleombrotos** (possible twin)
       - 27 Years old
       - Archetpye: Commander
       - Traits: Eloquent, Drillmaster & Loyal
