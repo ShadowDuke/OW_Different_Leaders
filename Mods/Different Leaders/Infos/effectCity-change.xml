@@ -49,7 +49,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
@@ -93,7 +93,7 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>25</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldModifier>
 		<aiUnitCostModifier>

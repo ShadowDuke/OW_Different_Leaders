@@ -9,11 +9,11 @@
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
-				<iValue>30</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>
@@ -23,13 +23,14 @@
 		<SourceNation>NATION_ROME</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ROME</EffectCity>
 		<EffectUnit>EFFECTUNIT_CRIPPLED</EffectUnit>
+		<StartBonus>BONUS_NATION_ROME</StartBonus>
 		<iXPModifier>0</iXPModifier>
 		<iStartLawModifier>-25</iStartLawModifier>
 		<iSwitchLawModifier>-25</iSwitchLawModifier>
 		<aiYieldUpkeep>
 			<Pair>
-				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>30</iValue>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>
@@ -54,11 +55,11 @@
 		<SourceNation>NATION_CARTHAGE</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_CARTHAGE</EffectCity>
 		<FoundBonus>BONUS_NATION_CARTHAGE</FoundBonus>
-		<bHireMercenaries>0</bHireMercenaries>
+		<bHireMercenaries>1</bHireMercenaries>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>50</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -68,6 +69,16 @@
 		<SourceNation>NATION_GREECE</SourceNation>
 		<EffectPlayer>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</EffectPlayer>
 		<EffectCity>EFFECTCITY_NATION_GREECE</EffectCity>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_IRON</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldUpkeep>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_ASSYRIA</zType>
@@ -75,13 +86,14 @@
 		<SourceNation>NATION_ASSYRIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
 		<EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
+		<StartBonus>BONUS_NATION_ASSYRIA</StartBonus>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_NATION_BABYLONIA</zType>
 		<Name>TEXT_NATION_BABYLONIA</Name>
 		<SourceNation>NATION_BABYLONIA</SourceNation>
 		<EffectCity>EFFECTCITY_NATION_BABYLONIA</EffectCity>
+		<StartBonus>BONUS_NATION_BABYLONIA</StartBonus>
 		<iStartLawModifier>-50</iStartLawModifier>
-		<iSwitchLawModifier>-25</iSwitchLawModifier>
 	</Entry>
 </Root>
