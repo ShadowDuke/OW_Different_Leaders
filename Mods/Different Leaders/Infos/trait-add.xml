@@ -464,12 +464,6 @@
 		<Name>TEXT_TRAIT_DARIEUS_VANISHED</Name>
 		<iDieProb>30</iDieProb>
 		<bNoEvents>1</bNoEvents>
-		<bNoHeir>1</bNoHeir>
 		<bNoJob>1</bNoJob>
-	</Entry>
-	<Entry>
-		<zType>TRAIT_NO_HEIR</zType>
-		<Name>TEXT_TRAIT_NO_HEIR</Name>
-		<bNoHeir>1</bNoHeir>
 	</Entry>
 </Root>
