@@ -36,9 +36,10 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - 10 Years old
       - Traits: Honest
 <br><br>
-- +5 Training/Year
-- New Cities: +100 Training
-- All Cities: +25% Training, -25% Cost for Axemen, -25% Cost for Elephant Units & New Units start with Combat I
+- +3 Training/Year
+- Can hire mercenaries
+- New Cities: +125 Training
+- All Cities: +20% Training, -25% Cost for Axemen, -25% Cost for Elephant Units & New Units start with Combat I
 - Starting Techs: Trapping, Ironworking, Military Drill & Steel
 - Starting Laws: Dynastic & Freedom
 
@@ -66,8 +67,8 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Archetype: Builder
       - Traits: Bastard, Pyramids Builder & Robust
 <br><br>
-- On Start: +500 Stone
-- +3 Stone per City per Year & +1 Growth per City per Year 
+- On Start: +600 Stone
+- +4 Stone per City per Year & +2 Growth per City per Year 
 - All Cities: +50% from Farm on River & +50% from Quarry on River
 - Starting Techs: Ironworking, Stonecutting, Labor Force & Divination
 - Starting Laws: Dynastic & Slavery
@@ -102,7 +103,8 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
 <br><br>
 - -25% Start Law Cost
 - -25% Switch Law Cost
-- +3 Civics per City per Year
+- On Start: +200 Civics
+- +1 Order per City per Year
 - All Cities: +2 Civics/Year, +2 Culture/Year, -1 Discontent/Year
 - Starting Techs: Ironworking, Divination, Aristocracy & Administration
 - Starting Laws: Primogeniture & Vassalage
@@ -164,6 +166,7 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Archetype: Commander
 <br><br>
 - Unlocks Decree in Capital
+- +1 Iron per City per Year & +1 Wood per City per Year 
 - -10% Chance/Year of Rebel Units
 - -25% Cost for Spearmen
 - New Units start with Guard I
@@ -223,7 +226,8 @@ Different starting Leaders - More Diversity with interesting leaders/characters 
       - Traits: Compassionate
 <br><br>
 - -50% Switch Law Cost
-- All Cities: +2 Civics, +1 Culture, +1 Science per Year & +15% Grwoth
+- On Start: +40 Science
+- All Cities: +2 Civics, +1 Culture, +2 Science per Year & +15% Grwoth
 - -25% Cost for Akkadian Archers
 - -25% Cost for Cimmerian Archers
 - Starting Techs: Administration, Ironworking, Labor Force & Navigation
