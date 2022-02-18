@@ -4,48 +4,74 @@
 		<zType/>
 		<Name/>
 		<NameFemale/>
+		<TeamColor/>
 		<iColorIndex/>
-		<Nation/>
 		<FamilyClass/>
+		<abNation/>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_SELEUCID</zType>
 		<Name>TEXT_FAMILY_EURYPONTID</Name>
 		<NameFemale>TEXT_FAMILY_EURYPONTID</NameFemale>
 		<iColorIndex>2</iColorIndex>
-		<Nation>NATION_GREECE</Nation>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_GREECE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_SARGONID</zType>
 		<Name>TEXT_FAMILY_ARSACID</Name>
 		<NameFemale>TEXT_FAMILY_ARSACID</NameFemale>
 		<iColorIndex>0</iColorIndex>
-		<Nation>NATION_ASSYRIA</Nation>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_TUDIYA</zType>
 		<Name>TEXT_FAMILY_BAVANDID</Name>
 		<NameFemale>TEXT_FAMILY_BAVANDID</NameFemale>
 		<iColorIndex>1</iColorIndex>
-		<Nation>NATION_ASSYRIA</Nation>
 		<FamilyClass>FAMILYCLASS_HUNTERS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_ADASI</zType>
 		<Name>TEXT_FAMILY_CHOSROID</Name>
 		<NameFemale>TEXT_FAMILY_CHOSROID</NameFemale>
 		<iColorIndex>2</iColorIndex>
-		<Nation>NATION_ASSYRIA</Nation>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 	<Entry>
 		<zType>FAMILY_ERISHUM</zType>
 		<Name>TEXT_FAMILY_DABUYID</Name>
 		<NameFemale>TEXT_FAMILY_DABUYID</NameFemale>
 		<iColorIndex>3</iColorIndex>
-		<Nation>NATION_ASSYRIA</Nation>
 		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+		<abNation>
+			<Pair>
+				<zIndex>NATION_ASSYRIA</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abNation>
 	</Entry>
 </Root>
