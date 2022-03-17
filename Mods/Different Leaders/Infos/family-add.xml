@@ -13,6 +13,7 @@
 		<zType>FAMILY_SELEUCID</zType>
 		<Name>TEXT_FAMILY_EURYPONTID</Name>
 		<NameFemale>TEXT_FAMILY_EURYPONTID</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<iColorIndex>2</iColorIndex>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
 		<abNation>
@@ -26,6 +27,7 @@
 		<zType>FAMILY_SARGONID</zType>
 		<Name>TEXT_FAMILY_ARSACID</Name>
 		<NameFemale>TEXT_FAMILY_ARSACID</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>0</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
 		<abNation>
@@ -39,6 +41,7 @@
 		<zType>FAMILY_TUDIYA</zType>
 		<Name>TEXT_FAMILY_BAVANDID</Name>
 		<NameFemale>TEXT_FAMILY_BAVANDID</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>1</iColorIndex>
 		<FamilyClass>FAMILYCLASS_HUNTERS</FamilyClass>
 		<abNation>
@@ -52,6 +55,7 @@
 		<zType>FAMILY_ADASI</zType>
 		<Name>TEXT_FAMILY_CHOSROID</Name>
 		<NameFemale>TEXT_FAMILY_CHOSROID</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>2</iColorIndex>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
 		<abNation>
@@ -65,6 +69,7 @@
 		<zType>FAMILY_ERISHUM</zType>
 		<Name>TEXT_FAMILY_DABUYID</Name>
 		<NameFemale>TEXT_FAMILY_DABUYID</NameFemale>
+		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>3</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
 		<abNation>
