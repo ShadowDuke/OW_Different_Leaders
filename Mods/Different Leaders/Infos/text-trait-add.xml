@@ -1,6 +1,78 @@
 <!-- Different Leaders (Revan) -->
 <Root>
 	<Entry>
+		<zType>TEXT_TRAIT_HERO_ARCHETYPE_F</zType>
+		<de-DE>Heldin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Heldin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_F</zType>
+		<de-DE>Feldherrin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Feldherrin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_F</zType>
+		<de-DE>Taktikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Taktikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_F</zType>
+		<de-DE>Fanatikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Fanatikerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_F</zType>
+		<de-DE>Intrigantin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Intrigantin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE_F</zType>
+		<de-DE>Rednerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Rednerin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE_F</zType>
+		<de-DE>Richterin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Richterin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_F</zType>
+		<de-DE>Gelehrte</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Gelehrte</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_F</zType>
+		<de-DE>Diplomatin</de-DE>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME_F</zType>
+		<de-DE>die Diplomatin</de-DE>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_PYRAMIDS_BUILDER</zType>
 		<en-US>Pyramids Builder</en-US>
 	</Entry>

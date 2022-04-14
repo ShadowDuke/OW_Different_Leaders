@@ -10,11 +10,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_HERO_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_HERO</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>3</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionProximity>-40</iOpinionProximity>
 		<iTruceModifier>-50</iTruceModifier>
 		<iWarModifier>50</iWarModifier>
@@ -56,11 +62,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_COMMANDER_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_COMMANDER</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>3</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionGenerals>-40</iOpinionGenerals>
 		<iTruceModifier>-50</iTruceModifier>
 		<iWarModifier>50</iWarModifier>
@@ -105,11 +117,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_TACTICIAN_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_TACTICIAN</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>3</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionStrength>-40</iOpinionStrength>
 		<iTruceModifier>-50</iTruceModifier>
 		<iWarModifier>50</iWarModifier>
@@ -154,12 +172,19 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_ZEALOT_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_ZEALOT</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>2</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionReligion>-40</iOpinionReligion>
+		<iReligionHeadModifier>10</iReligionHeadModifier>										   
 		<iTruceModifier>-50</iTruceModifier>
 		<iWarModifier>50</iWarModifier>
 		<bArchetype>1</bArchetype>
@@ -203,12 +228,20 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_SCHEMER_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_SCHEMER</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>2</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionCognomen>-40</iOpinionCognomen>
+		<iAgentModifier>20</iAgentModifier>
+		<iFamilyHeadModifier>10</iFamilyHeadModifier>
 		<iTribeAllianceModifier>50</iTribeAllianceModifier>
 		<iAllianceModifier>50</iAllianceModifier>
 		<iPeaceModifier>50</iPeaceModifier>
@@ -255,10 +288,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_ORATOR_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_ORATOR</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionGovernors>-40</iOpinionGovernors>
 		<iPeaceModifier>50</iPeaceModifier>
 		<bArchetype>1</bArchetype>
@@ -301,10 +341,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_JUDGE_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_JUDGE</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionLaws>-40</iOpinionLaws>
 		<iTruceModifier>25</iTruceModifier>
 		<iWarModifier>-25</iWarModifier>
@@ -348,10 +395,17 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_SCHOLAR_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_SCHOLAR</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
-		<iOpinionSame>40</iOpinionSame>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>60</iOpinionSame>
 		<iOpinionKnowledge>-40</iOpinionKnowledge>
 		<iTruceModifier>25</iTruceModifier>
 		<iWarModifier>-25</iWarModifier>
@@ -391,6 +445,12 @@
 			</Pair>
 		</GenderedNames>
 		<Nickname>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME</Nickname>
+		<GenderedNicknames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_TRAIT_DIPLOMAT_ARCHETYPE_NICKNAME_F</Second>
+			</Pair>
+		</GenderedNicknames>
 		<zIconName>TRAIT_DIPLOMAT</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
